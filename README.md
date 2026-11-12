@@ -128,14 +128,22 @@ two places and `web/config.js` says where the engine is.
 
 * **GitHub Pages** serves `web/` (the `deploy` workflow publishes it on every
   push to `main`).
-* **A Hugging Face Space** (Docker SDK) runs the engine from the `Dockerfile`.
-  Set the repository variable `HF_SPACE` (for example `obaid-art/ionweaver`)
-  and the secret `HF_TOKEN`, and the same workflow pushes the repository to the
-  Space. Put the Space's URL in `web/config.js`. The free CPU tier is enough:
-  a request for 60 ions takes well under a second, a batch over every family at
-  100 ions each under half a minute.
+* **The engine** runs from the `Dockerfile` on any container host. The page
+  expects it at the address in `web/config.js`. Two hosts that deploy the
+  Dockerfile straight from this repository:
+  * **Render** (free tier, no card): New → Web Service → connect the GitHub
+    repository → Runtime *Docker* → Instance type *Free* → Create. The service
+    sleeps after 15 minutes without visitors and wakes in under a minute; the
+    page waits for it.
+  * **Hugging Face Spaces** (Docker SDK, paid plan as of late 2026): set the
+    repository variable `HF_SPACE` and the secret `HF_TOKEN`, and the same
+    workflow pushes the repository to the Space.
 
-The Space also serves the page itself at its root, so either address works.
+  A 512 MB instance is enough; the engine idles at about 80 MB and is capped so
+  a batch over every family stays under 400 MB. A request for 60 ions takes well
+  under a second, a batch over every family at 100 ions each under half a minute.
+
+The engine host also serves the page itself at its root, so either address works.
 
 ## What it does not claim
 

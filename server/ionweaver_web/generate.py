@@ -146,8 +146,11 @@ def definitions_for(record: Dict[str, Any], ws: Workspace) -> Tuple[O.Context, L
         kept, tally, _refused = O.definitions_for(ion, ws.library, ws.fragments,
                                                    ws.observed, ws.observed_bonds)
         hit = (kept, tally)
-        if len(_DEF_CACHE) > 400:
-            _DEF_CACHE.clear()
+        # a parent's definitions weigh a few megabytes; keep the cache small enough for a
+        # 512 MB host (a full all-family batch otherwise grows the process past 800 MB)
+        if len(_DEF_CACHE) >= 40:
+            for stale in list(_DEF_CACHE)[:20]:
+                _DEF_CACHE.pop(stale, None)
         _DEF_CACHE[key] = hit
     kept, tally = hit
     return ion, kept, tally

@@ -665,8 +665,18 @@ function renderAbout() {
 /* ---------------- boot ---------------- */
 const RENDER = { start: renderStart, families: renderFamilies, own: renderOwn, sheet: renderSheet, bench: renderBench, batch: renderBatch, library: renderLibrary, about: renderAbout, studio: () => renderStudio() };
 async function boot() {
+  // a free host puts the engine to sleep between visits and takes up to a minute to wake
+  const started = Date.now();
+  while (!S.boot) {
+    try { S.boot = await api("/api/bootstrap"); }
+    catch (err) {
+      if (Date.now() - started > 120000) { $("#engineDot").className = "dot bad"; $("#engineText").textContent = "engine unreachable"; $("#screen-start").innerHTML = `<div class="note bad"><b>The engine server could not be reached</b> (${esc(API || "same origin")}). ${esc(err.message)}<br>Reload in a minute; if it persists, the server is down.</div>`; return; }
+      $("#engineText").textContent = "waking the engine…";
+      $("#screen-start").innerHTML = `<div class="hero"><div class="kicker">One moment</div><h1 class="t">Waking the engine…</h1><p class="lead">The engine server sleeps between visits and takes up to a minute to start. This page will continue on its own.</p><div class="progress busy" style="max-width:420px"><i style="width:30%"></i></div></div>`;
+      await new Promise((r) => setTimeout(r, 4000));
+    }
+  }
   try {
-    S.boot = await api("/api/bootstrap");
     const e = S.boot.engine, c = S.boot.counts;
     $("#engineDot").className = "dot " + (e.unmodified && S.boot.library_checks.all ? "ok" : "bad");
     $("#engineText").textContent = e.unmodified ? "engine · unmodified" : "engine · modified";
@@ -675,8 +685,8 @@ async function boot() {
     const hash = location.hash.replace("#", "");
     show(RENDER[hash] ? hash : "start");
   } catch (err) {
-    $("#engineDot").className = "dot bad"; $("#engineText").textContent = "engine unreachable";
-    $("#screen-start").innerHTML = `<div class="note bad"><b>The engine server could not be reached</b> (${esc(API || "same origin")}). ${esc(err.message)}<br>If the server sleeps between uses, wait a moment and reload.</div>`;
+    $("#engineDot").className = "dot bad"; $("#engineText").textContent = "page error";
+    $("#screen-start").innerHTML = `<div class="note bad"><b>The page could not start.</b> ${esc(err.message)}</div>`;
   }
 }
 boot();

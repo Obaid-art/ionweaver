@@ -3,7 +3,7 @@
 window.IONWEAVER_API = (function () {
   const h = location.hostname;
   if (h.endsWith("github.io") || location.protocol === "file:") {
-    return "https://obaid-art-ionweaver.hf.space";   // the engine server
+    return "https://ionweaver.onrender.com";   // the engine server
   }
   return "";
 })();
