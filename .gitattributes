@@ -1,0 +1,5 @@
+* text=auto eol=lf
+engine/iw/*.py -text
+engine/MANIFEST.json -text
+data/archive/* -text
+tests/fixtures/* -text

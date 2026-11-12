@@ -1,0 +1,1223 @@
+inventory_id,family_id,family_label,canonical_smiles,grammar_id,core_pattern,core_atoms,core_atom_count,ring_shared_atoms,ring_shared_count,heavy_atoms,body_heavy_atoms,body_components
+1088,anion__alcoholates,alcoholates,[O-]c1ccccc1,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 5 6,7,,0,7,0,0
+1089,anion__alcoholates,alcoholates,Cc1ccccc1[O-],G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,1 2 3 4 5 6 7,7,,0,8,1,1
+1090,anion__alcoholates,alcoholates,Cc1cccc([O-])c1,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,1 2 3 4 5 6 7,7,,0,8,1,1
+1091,anion__alcoholates,alcoholates,Cc1ccc([O-])cc1,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,1 2 3 4 5 6 7,7,,0,8,1,1
+1092,anion__alcoholates,alcoholates,CC(C)c1ccc([O-])cc1,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,3 4 5 6 7 8 9,7,,0,10,3,1
+1093,anion__alcoholates,alcoholates,CC(C)(C)c1ccc([O-])cc1,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,4 5 6 7 8 9 10,7,,0,11,4,1
+1094,anion__alcoholates,alcoholates,Cc1ccc([O-])c(C)c1,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,1 2 3 4 5 6 8,7,,0,9,2,2
+1095,anion__alcoholates,alcoholates,Cc1cccc(C)c1[O-],G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,1 2 3 4 5 7 8,7,,0,9,2,2
+1096,anion__alcoholates,alcoholates,[O-]c1ccc(C(F)(F)F)cc1,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 9 10,7,,0,11,4,1
+1097,anion__alcoholates,alcoholates,COc1cccc([O-])c1,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,2 3 4 5 6 7 8,7,,0,9,2,1
+1098,anion__alcoholates,alcoholates,COc1ccc([O-])cc1,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,2 3 4 5 6 7 8,7,,0,9,2,1
+1099,anion__alcoholates,alcoholates,[O-]c1ccccc1Cl,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 5 6,7,,0,8,1,1
+1100,anion__alcoholates,alcoholates,[O-]c1cccc(Cl)c1,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 5 7,7,,0,8,1,1
+1101,anion__alcoholates,alcoholates,[O-]c1ccc(Cl)cc1,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 6 7,7,,0,8,1,1
+1102,anion__alcoholates,alcoholates,[O-]c1ccc(Cl)cc1Cl,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 6 7,7,,0,9,2,2
+1103,anion__alcoholates,alcoholates,[O-]c1c(Cl)cc(Cl)cc1Cl,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 4 5 7 8,7,,0,10,3,3
+1104,anion__alcoholates,alcoholates,[O-]c1ccccc1F,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 5 6,7,,0,8,1,1
+1105,anion__alcoholates,alcoholates,[O-]c1cccc(F)c1,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 5 7,7,,0,8,1,1
+1106,anion__alcoholates,alcoholates,[O-]c1ccc(F)cc1,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 6 7,7,,0,8,1,1
+1240,anion__alcoholates,alcoholates,[O-]c1cccc2ccccc12,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 5 10,7,6 7 8 9,4,11,0,0
+1241,anion__alcoholates,alcoholates,[O-]c1ccc2ccccc2c1,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 9 10,7,5 6 7 8,4,11,0,0
+1062,anion__aminoacids,aminoacids,NCC(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],1 2 3 4,4,,0,5,1,1
+1063,anion__aminoacids,aminoacids,CC(N)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],1 3 4 5,4,,0,6,2,2
+1064,anion__aminoacids,aminoacids,NCCC(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],2 3 4 5,4,,0,6,2,1
+1065,anion__aminoacids,aminoacids,CC(O)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],1 3 4 5,4,,0,6,2,2
+1066,anion__aminoacids,aminoacids,CC(C)C(N)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],3 5 6 7,4,,0,8,4,2
+1067,anion__aminoacids,aminoacids,NC(CCC(=O)[O-])C(=O)O,G0,[#6]-[#6](=[#8])-[#8-],3 4 5 6,4,,0,10,6,1
+1068,anion__aminoacids,aminoacids,NC(CO)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],1 4 5 6,4,,0,7,3,2
+1069,anion__aminoacids,aminoacids,NCCCCC(N)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],5 7 8 9,4,,0,10,6,2
+1070,anion__aminoacids,aminoacids,O=C([O-])C1CCCN1,G0,[#6]-[#6](=[#8])-[#8-],0 1 2 3,4,4 5 6 7,4,8,0,0
+1071,anion__aminoacids,aminoacids,CC(O)C(N)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],3 5 6 7,4,,0,8,4,2
+1072,anion__aminoacids,aminoacids,NC(CS)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],1 4 5 6,4,,0,7,3,2
+1073,anion__aminoacids,aminoacids,CC(C)CC(N)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],4 6 7 8,4,,0,9,5,2
+1074,anion__aminoacids,aminoacids,N=C(N)NCCCC(N)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],7 9 10 11,4,,0,12,8,2
+1075,anion__aminoacids,aminoacids,NC(CC(=O)[O-])C(=O)O,G0,[#6]-[#6](=[#8])-[#8-],2 3 4 5,4,,0,9,5,1
+1076,anion__aminoacids,aminoacids,NC(CC(=O)O)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],1 6 7 8,4,,0,9,5,2
+1077,anion__aminoacids,aminoacids,NC(=O)CCC(N)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],5 7 8 9,4,,0,10,6,2
+1078,anion__aminoacids,aminoacids,NC(Cc1c[nH]cn1)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],1 8 9 10,4,,0,11,7,2
+1079,anion__aminoacids,aminoacids,CCC(C)C(N)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],4 6 7 8,4,,0,9,5,2
+1080,anion__aminoacids,aminoacids,CSCCC(N)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],4 6 7 8,4,,0,9,5,2
+1081,anion__aminoacids,aminoacids,NC(Cc1ccccc1)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],1 9 10 11,4,,0,12,8,2
+1082,anion__aminoacids,aminoacids,NC(Cc1c[nH]c2ccccc12)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],1 12 13 14,4,,0,15,11,2
+1083,anion__aminoacids,aminoacids,NC(Cc1ccc(O)cc1)C(=O)[O-],G0,[#6]-[#6](=[#8])-[#8-],1 10 11 12,4,,0,13,9,2
+928,anion__bf4_derivatives,BF4 derivatives,F[B-](F)(F)F,G0,[#9]-[#5-]-[#9],0 1 2,3,,0,5,2,2
+929,anion__bf4_derivatives,BF4 derivatives,C[B-](F)(F)F,G0,[#9]-[#5-]-[#9],1 2 3,3,,0,5,2,2
+930,anion__bf4_derivatives,BF4 derivatives,CC[B-](F)(F)F,G0,[#9]-[#5-]-[#9],2 3 4,3,,0,6,3,2
+931,anion__bf4_derivatives,BF4 derivatives,CCC[B-](F)(F)F,G0,[#9]-[#5-]-[#9],3 4 5,3,,0,7,4,2
+932,anion__bf4_derivatives,BF4 derivatives,CCCC[B-](F)(F)F,G0,[#9]-[#5-]-[#9],4 5 6,3,,0,8,5,2
+933,anion__bf4_derivatives,BF4 derivatives,CCCCC[B-](F)(F)F,G0,[#9]-[#5-]-[#9],5 6 7,3,,0,9,6,2
+934,anion__bf4_derivatives,BF4 derivatives,C=C[B-](F)(F)F,G0,[#9]-[#5-]-[#9],2 3 4,3,,0,6,3,2
+935,anion__bf4_derivatives,BF4 derivatives,F[B-](F)(F)C(F)(F)F,G0,[#9]-[#5-]-[#9],0 1 2,3,,0,8,5,2
+936,anion__bf4_derivatives,BF4 derivatives,F[B-](F)(F)C(F)(F)C(F)(F)F,G0,[#9]-[#5-]-[#9],0 1 2,3,,0,11,8,2
+937,anion__bf4_derivatives,BF4 derivatives,F[B-](F)(F)C(F)(F)C(F)(F)C(F)(F)F,G0,[#9]-[#5-]-[#9],0 1 2,3,,0,14,11,2
+938,anion__bf4_derivatives,BF4 derivatives,F[B-](F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,G0,[#9]-[#5-]-[#9],0 1 2,3,,0,17,14,2
+939,anion__bf4_derivatives,BF4 derivatives,F[B-](F)(F)C(F)(F)C(F)(F)OC(F)(F)F,G0,[#9]-[#5-]-[#9],0 1 2,3,,0,15,12,2
+940,anion__bf4_derivatives,BF4 derivatives,F[B-](F)(F)c1ccccc1,G0,[#9]-[#5-]-[#9],0 1 2,3,,0,10,7,2
+941,anion__bf4_derivatives,BF4 derivatives,COc1ccccc1[B-](F)(F)F,G0,[#9]-[#5-]-[#9],8 9 10,3,,0,12,9,2
+942,anion__bf4_derivatives,BF4 derivatives,COc1cccc([B-](F)(F)F)c1,G0,[#9]-[#5-]-[#9],7 8 9,3,,0,12,9,2
+943,anion__bf4_derivatives,BF4 derivatives,COc1ccc([B-](F)(F)F)cc1,G0,[#9]-[#5-]-[#9],6 7 8,3,,0,12,9,2
+944,anion__bf4_derivatives,BF4 derivatives,N#Cc1cccc([B-](F)(F)F)c1,G0,[#9]-[#5-]-[#9],7 8 9,3,,0,12,9,2
+945,anion__bf4_derivatives,BF4 derivatives,N#Cc1ccc([B-](F)(F)F)cc1,G0,[#9]-[#5-]-[#9],6 7 8,3,,0,12,9,2
+946,anion__bf4_derivatives,BF4 derivatives,F[B-](F)(F)c1cccc(C(F)(F)F)c1,G0,[#9]-[#5-]-[#9],0 1 2,3,,0,14,11,2
+947,anion__bf4_derivatives,BF4 derivatives,F[B-](F)(F)c1ccc(C(F)(F)F)cc1,G0,[#9]-[#5-]-[#9],0 1 2,3,,0,14,11,2
+948,anion__bf4_derivatives,BF4 derivatives,Fc1ccccc1[B-](F)(F)F,G0,[#9]-[#5-]-[#9],7 8 9,3,,0,11,8,2
+949,anion__bf4_derivatives,BF4 derivatives,Fc1cccc([B-](F)(F)F)c1,G0,[#9]-[#5-]-[#9],6 7 8,3,,0,11,8,2
+950,anion__bf4_derivatives,BF4 derivatives,Fc1ccc([B-](F)(F)F)cc1,G0,[#9]-[#5-]-[#9],5 6 7,3,,0,11,8,2
+957,anion__bf4_derivatives,BF4 derivatives,N#C[B-](F)(F)C#N,G0,[#9]-[#5-]-[#9],2 3 4,3,,0,7,4,2
+958,anion__bf4_derivatives,BF4 derivatives,N#C[B-](F)(F)F,G0,[#9]-[#5-]-[#9],2 3 4,3,,0,6,3,2
+961,anion__bf4_derivatives,BF4 derivatives,N#C[B-](F)(F)C(F)(F)F,G0,[#9]-[#5-]-[#9],2 3 4,3,,0,9,6,2
+962,anion__bf4_derivatives,BF4 derivatives,N#C[B-](F)(F)C(F)(F)C(F)(F)F,G0,[#9]-[#5-]-[#9],2 3 4,3,,0,12,9,2
+963,anion__bf4_derivatives,BF4 derivatives,N#C[B-](F)(F)C(F)(F)C(F)(F)C(F)(F)F,G0,[#9]-[#5-]-[#9],2 3 4,3,,0,15,12,2
+964,anion__bf4_derivatives,BF4 derivatives,N#C[B-](F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,G0,[#9]-[#5-]-[#9],2 3 4,3,,0,18,15,2
+1230,anion__bf4_derivatives,BF4 derivatives,CC(CC#N)[B-](F)(F)F,G0,[#9]-[#5-]-[#9],5 6 7,3,,0,9,6,2
+955,anion__bf4_derivatives,BF4 derivatives,N#C[B-](C#N)(C#N)C#N,G1,[#7]#[#6]-[#5-](-[#6]#[#7])-[#6],0 1 2 3 4 5,6,,0,9,3,2
+956,anion__bf4_derivatives,BF4 derivatives,N#C[B-](F)(C#N)C#N,G1,[#7]#[#6]-[#5-](-[#6]#[#7])-[#6],0 1 2 4 5 6,6,,0,8,2,2
+959,anion__bf4_derivatives,BF4 derivatives,N#C[B-](C#N)(C#N)C(F)(F)F,G1,[#7]#[#6]-[#5-](-[#6]#[#7])-[#6],0 1 2 3 4 5,6,,0,11,5,2
+960,anion__bf4_derivatives,BF4 derivatives,N#C[B-](C#N)(C#N)C(F)(F)C(F)(F)F,G1,[#7]#[#6]-[#5-](-[#6]#[#7])-[#6],0 1 2 3 4 5,6,,0,14,8,2
+965,anion__bf4_derivatives,BF4 derivatives,N#C[B-](F)(C#N)C(F)(F)F,G1,[#7]#[#6]-[#5-](-[#6]#[#7])-[#6],0 1 2 4 5 6,6,,0,10,4,4
+966,anion__bf4_derivatives,BF4 derivatives,N#C[B-](F)(C#N)C(F)(F)C(F)(F)F,G1,[#7]#[#6]-[#5-](-[#6]#[#7])-[#6],0 1 2 4 5 6,6,,0,13,7,4
+1025,anion__carboxylates,carboxylates,O=C[O-],G0,[#8]=[#6]-[#8-],0 1 2,3,,0,3,0,0
+1026,anion__carboxylates,carboxylates,CC(=O)[O-],G0,[#8]=[#6]-[#8-],1 2 3,3,,0,4,1,1
+1027,anion__carboxylates,carboxylates,CCC(=O)[O-],G0,[#8]=[#6]-[#8-],2 3 4,3,,0,5,2,1
+1028,anion__carboxylates,carboxylates,CCCC(=O)[O-],G0,[#8]=[#6]-[#8-],3 4 5,3,,0,6,3,1
+1029,anion__carboxylates,carboxylates,CC(C)C(=O)[O-],G0,[#8]=[#6]-[#8-],3 4 5,3,,0,6,3,1
+1030,anion__carboxylates,carboxylates,CCCCC(=O)[O-],G0,[#8]=[#6]-[#8-],4 5 6,3,,0,7,4,1
+1031,anion__carboxylates,carboxylates,CCCCCC(=O)[O-],G0,[#8]=[#6]-[#8-],5 6 7,3,,0,8,5,1
+1032,anion__carboxylates,carboxylates,CCCCCCC(=O)[O-],G0,[#8]=[#6]-[#8-],6 7 8,3,,0,9,6,1
+1033,anion__carboxylates,carboxylates,CCCCCCCC(=O)[O-],G0,[#8]=[#6]-[#8-],7 8 9,3,,0,10,7,1
+1034,anion__carboxylates,carboxylates,CCCCCCCCC(=O)[O-],G0,[#8]=[#6]-[#8-],8 9 10,3,,0,11,8,1
+1035,anion__carboxylates,carboxylates,CCCCCCCCCC(=O)[O-],G0,[#8]=[#6]-[#8-],9 10 11,3,,0,12,9,1
+1036,anion__carboxylates,carboxylates,CCCCCCCCC(CCCCCC)C(=O)[O-],G0,[#8]=[#6]-[#8-],15 16 17,3,,0,18,15,1
+1037,anion__carboxylates,carboxylates,CCCCCCCCC=CCCCCCCCC(=O)[O-],G0,[#8]=[#6]-[#8-],17 18 19,3,,0,20,17,1
+1038,anion__carboxylates,carboxylates,O=C([O-])Cc1ccccc1,G0,[#8]=[#6]-[#8-],0 1 2,3,,0,10,7,1
+1039,anion__carboxylates,carboxylates,O=C([O-])CCCc1ccccc1,G0,[#8]=[#6]-[#8-],0 1 2,3,,0,12,9,1
+1040,anion__carboxylates,carboxylates,COCC(=O)[O-],G0,[#8]=[#6]-[#8-],3 4 5,3,,0,6,3,1
+1041,anion__carboxylates,carboxylates,COCCOCC(=O)[O-],G0,[#8]=[#6]-[#8-],6 7 8,3,,0,9,6,1
+1042,anion__carboxylates,carboxylates,COCCOCCOCC(=O)[O-],G0,[#8]=[#6]-[#8-],9 10 11,3,,0,12,9,1
+1043,anion__carboxylates,carboxylates,CNCC(=O)[O-],G0,[#8]=[#6]-[#8-],3 4 5,3,,0,6,3,1
+1044,anion__carboxylates,carboxylates,CC=C(C)C(=O)[O-],G0,[#8]=[#6]-[#8-],4 5 6,3,,0,7,4,1
+1045,anion__carboxylates,carboxylates,O=C([O-])CCC(=O)O,G0,[#8]=[#6]-[#8-],0 1 2,3,,0,8,5,1
+1046,anion__carboxylates,carboxylates,O=C([O-])CO,G0,[#8]=[#6]-[#8-],0 1 2,3,,0,5,2,1
+1047,anion__carboxylates,carboxylates,O=C([O-])C(O)c1ccccc1,G0,[#8]=[#6]-[#8-],0 1 2,3,,0,11,8,1
+1048,anion__carboxylates,carboxylates,O=C([O-])c1ccccc1,G0,[#8]=[#6]-[#8-],0 1 2,3,,0,9,6,1
+1049,anion__carboxylates,carboxylates,O=C([O-])c1ccccc1O,G0,[#8]=[#6]-[#8-],0 1 2,3,,0,10,7,1
+1050,anion__carboxylates,carboxylates,O=C([O-])c1ccccc1S,G0,[#8]=[#6]-[#8-],0 1 2,3,,0,10,7,1
+1051,anion__carboxylates,carboxylates,CSc1ccccc1C(=O)[O-],G0,[#8]=[#6]-[#8-],8 9 10,3,,0,11,8,1
+1052,anion__carboxylates,carboxylates,CC(C)(C)c1ccc(C(=O)[O-])cc1,G0,[#8]=[#6]-[#8-],8 9 10,3,,0,13,10,1
+1053,anion__carboxylates,carboxylates,CC(C)Cc1ccc(C(C)C(=O)[O-])cc1,G0,[#8]=[#6]-[#8-],10 11 12,3,,0,15,12,1
+1054,anion__carboxylates,carboxylates,CC(Oc1ccc(Cl)cc1Cl)C(=O)[O-],G0,[#8]=[#6]-[#8-],11 12 13,3,,0,14,11,1
+1055,anion__carboxylates,carboxylates,O=C([O-])c1ccccn1,G0,[#8]=[#6]-[#8-],0 1 2,3,,0,9,6,1
+1057,anion__carboxylates,carboxylates,O=C([O-])C(F)(F)F,G0,[#8]=[#6]-[#8-],0 1 2,3,,0,7,4,1
+1058,anion__carboxylates,carboxylates,O=C([O-])C(F)(F)C(F)(F)C(F)(F)F,G0,[#8]=[#6]-[#8-],0 1 2,3,,0,13,10,1
+1059,anion__carboxylates,carboxylates,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,G0,[#8]=[#6]-[#8-],0 1 2,3,,0,16,13,1
+1060,anion__carboxylates,carboxylates,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,G0,[#8]=[#6]-[#8-],0 1 2,3,,0,19,16,1
+1061,anion__carboxylates,carboxylates,O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,G0,[#8]=[#6]-[#8-],0 1 2,3,,0,25,22,1
+1085,anion__carboxylates,carboxylates,O=C([O-])CCCCC1SCC2NC(=O)NC21,G0,[#8]=[#6]-[#8-],0 1 2,3,,0,16,13,1
+1239,anion__carboxylates,carboxylates,CCOCC(=O)[O-],G0,[#8]=[#6]-[#8-],4 5 6,3,,0,7,4,1
+1107,anion__heterocyclic_amines,heterocyclic amines,c1c[n-]cn1,G0,[#6]1:[#7]:[#6]:[#7-]:[#6]:1,0 1 2 3 4,5,,0,5,0,0
+1110,anion__heterocyclic_amines,heterocyclic amines,N#Cc1nc(C(F)(F)F)[n-]c1C#N,G0,[#6]1:[#7]:[#6]:[#7-]:[#6]:1,2 3 4 9 10,5,,0,13,8,3
+1115,anion__heterocyclic_amines,heterocyclic amines,c1ccc2[n-]cnc2c1,G0,[#6]1:[#7]:[#6]:[#7-]:[#6]:1,3 4 5 6 7,5,0 1 2 8,4,9,0,0
+1116,anion__heterocyclic_amines,heterocyclic amines,Brc1ccc2[n-]cnc2c1,G0,[#6]1:[#7]:[#6]:[#7-]:[#6]:1,4 5 6 7 8,5,1 2 3 9,4,10,1,1
+1117,anion__heterocyclic_amines,heterocyclic amines,CSc1nc2ccccc2[n-]1,G0,[#6]1:[#7]:[#6]:[#7-]:[#6]:1,2 3 4 9 10,5,5 6 7 8,4,11,2,1
+1120,anion__heterocyclic_amines,heterocyclic amines,Clc1nc[n-]c1Cl,G0,[#6]1:[#7]:[#6]:[#7-]:[#6]:1,1 2 3 4 5,5,,0,7,2,2
+1121,anion__heterocyclic_amines,heterocyclic amines,N#Cc1nc[n-]c1C#N,G0,[#6]1:[#7]:[#6]:[#7-]:[#6]:1,2 3 4 5 6,5,,0,9,4,2
+1112,anion__heterocyclic_amines,heterocyclic amines,FC(F)(F)c1ccn[n-]1,G1,[#6]1:[#6]:[#6]:[#7]:[#7-]:1,4 5 6 7 8,5,,0,9,4,1
+1113,anion__heterocyclic_amines,heterocyclic amines,Cc1cc(C(F)(F)F)[n-]n1,G1,[#6]1:[#6]:[#6]:[#7]:[#7-]:1,1 2 3 8 9,5,,0,10,5,2
+1114,anion__heterocyclic_amines,heterocyclic amines,c1ccc2[n-]ncc2c1,G1,[#6]1:[#6]:[#6]:[#7]:[#7-]:1,3 4 5 6 7,5,0 1 2 8,4,9,0,0
+927,anion__methanides,methanides,N#C[C-](C#N)C#N,G0,[#7]#[#6]-[#6-](-[#6]#[#7])-[#6],0 1 2 3 4 5,6,,0,7,1,1
+1226,anion__methanides,methanides,N#CC(C#N)=C[C-](C#N)C#N,G0,[#7]#[#6]-[#6-](-[#6]#[#7])-[#6],5 6 7 8 9 10,6,,0,11,5,1
+1227,anion__methanides,methanides,CC(=C(C#N)C#N)[C-](C#N)C#N,G0,[#7]#[#6]-[#6-](-[#6]#[#7])-[#6],1 7 8 9 10 11,6,,0,12,6,2
+1228,anion__methanides,methanides,COC(=C(C#N)C#N)[C-](C#N)C#N,G0,[#7]#[#6]-[#6-](-[#6]#[#7])-[#6],2 8 9 10 11 12,6,,0,13,7,2
+1229,anion__methanides,methanides,N#CCC(=C(C#N)C#N)[C-](C#N)C#N,G0,[#7]#[#6]-[#6-](-[#6]#[#7])-[#6],3 9 10 11 12 13,6,,0,14,8,2
+916,anion__ntf2_derivatives,NTf2 derivatives,CS(=O)(=O)[N-]S(C)(=O)=O,G0,[#8]=[#16](=[#8])-[#7-],1 2 3 4,4,,0,9,5,2
+917,anion__ntf2_derivatives,NTf2 derivatives,O=S(=O)(F)[N-]S(=O)(=O)F,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 4,4,,0,9,5,2
+918,anion__ntf2_derivatives,NTf2 derivatives,O=S(=O)(F)[N-]S(=O)(=O)C(F)(F)C(F)(F)F,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 4,4,,0,15,11,2
+919,anion__ntf2_derivatives,NTf2 derivatives,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 3,4,,0,15,11,2
+920,anion__ntf2_derivatives,NTf2 derivatives,O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)F,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 3,4,,0,18,14,2
+921,anion__ntf2_derivatives,NTf2 derivatives,O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 3,4,,0,21,17,2
+922,anion__ntf2_derivatives,NTf2 derivatives,O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 3,4,,0,24,20,2
+923,anion__ntf2_derivatives,NTf2 derivatives,O=S(=O)([N-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 3,4,,0,33,29,2
+925,anion__ntf2_derivatives,NTf2 derivatives,O=C([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,G0,[#8]=[#16](=[#8])-[#7-],2 3 4 5,4,,0,14,10,2
+1224,anion__ntf2_derivatives,NTf2 derivatives,O=S(=O)([N-]S(=O)(=O)OCC(F)(F)F)OCC(F)(F)F,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 3,4,,0,19,15,2
+1225,anion__ntf2_derivatives,NTf2 derivatives,O=S(=O)(F)[N-]S(=O)(=O)C(F)(F)F,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 4,4,,0,12,8,2
+951,anion__organic_borates,organic borates,O=C1O[B-]2(OC(=O)C(c3ccccc3)O2)OC1c1ccccc1,G0,[#8]=[#6]1-[#8]-[#5-]-[#8]-[#6]-1,0 1 2 3 15 16,6,4 5 7 14,4,23,13,3
+953,anion__organic_borates,organic borates,O=C1O[B-]2(OC1=O)OC(=O)C(=O)O2,G0,[#8]=[#6]1-[#8]-[#5-]-[#8]-[#6]-1,0 1 2 3 4 5,6,7 8 10 12,4,13,3,3
+1231,anion__organic_borates,organic borates,O=C1O[B-](F)(F)OC1=O,G0,[#8]=[#6]1-[#8]-[#5-]-[#8]-[#6]-1,0 1 2 3 6 7,6,,0,9,3,3
+967,anion__organic_borates,organic borates,FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1,G1,[#6]1:[#6]:[#6]:[#6](:[#6]:[#6]:1)-[#5-](-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1)(-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1)-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,4 5 6 7 8 9 10 15 16 21 22 23 24 29 30 35 36 37 38 43 44 49 50 51 56,25,,0,57,32,8
+968,anion__organic_borates,organic borates,Fc1c(F)c(F)c([B-](c2c(F)c(F)c(F)c(F)c2F)(c2c(F)c(F)c(F)c(F)c2F)c2c(F)c(F)c(F)c(F)c2F)c(F)c1F,G1,[#6]1:[#6]:[#6]:[#6](:[#6]:[#6]:1)-[#5-](-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1)(-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1)-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,1 2 4 6 7 8 9 11 13 15 17 19 20 22 24 26 28 30 31 33 35 37 39 41 43,25,,0,45,20,20
+952,anion__organic_borates,organic borates,O=C1CC(=O)O[B-]2(O1)OC(=O)CC(=O)O2,G2,"[#8&!R]=&!@[#6]1-&@[#6]-,:;@[#6]-&@[#8]-&@[#5]2(-&@[#8]-&@1)-&@[#8]-&@[#6]-,:;@[#6]-&@[#6](-&@[#8]-&@2)=&!@[#8&!R]",0 1 2 3 5 6 7 8 9 11 12 13 14,13,,0,15,2,2
+954,anion__organic_borates,organic borates,O=C1O[B-]2(OC(=O)c3ccccc3O2)Oc2ccccc21,G2,"[#8&!R]=&!@[#6]1-&@[#6]-,:;@[#6]-&@[#8]-&@[#5]2(-&@[#8]-&@1)-&@[#8]-&@[#6]-,:;@[#6]-&@[#6](-&@[#8]-&@2)=&!@[#8&!R]",0 1 2 3 4 5 6 7 12 13 14 15 20,13,8 9 10 11 16 17 18 19,8,21,0,0
+969,anion__pf6_derivatives,PF6 derivatives,F[P-](F)(F)(F)(F)F,G0,[#9]-[#15-](-[#9])-[#9],0 1 2 3,4,,0,7,3,3
+970,anion__pf6_derivatives,PF6 derivatives,FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,G0,[#9]-[#15-](-[#9])-[#9],7 8 9 10,4,,0,25,21,3
+971,anion__pf6_derivatives,PF6 derivatives,FC(F)(F)C(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F,G0,[#9]-[#15-](-[#9])-[#9],10 11 12 13,4,,0,34,30,3
+972,anion__pf6_derivatives,PF6 derivatives,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,G0,[#9]-[#15-](-[#9])-[#9],13 14 15 16,4,,0,43,39,3
+1002,anion__phosphates,phosphates,O=P([O-])(O)O,G0,[#8]=[#15]-[#8-],0 1 2,3,,0,5,2,2
+1003,anion__phosphates,phosphates,O=P([O-])(O)OP(=O)(O)O,G0,[#8]=[#15]-[#8-],0 1 2,3,,0,9,6,2
+1004,anion__phosphates,phosphates,COP(=O)([O-])OC,G0,[#8]=[#15]-[#8-],2 3 4,3,,0,7,4,2
+1005,anion__phosphates,phosphates,CCOP(=O)([O-])OCC,G0,[#8]=[#15]-[#8-],3 4 5,3,,0,9,6,2
+1006,anion__phosphates,phosphates,CCCCOP(=O)([O-])OCCCC,G0,[#8]=[#15]-[#8-],5 6 7,3,,0,13,10,2
+1007,anion__phosphates,phosphates,CCCCC(CC)COP(=O)([O-])OCC(CC)CCCC,G0,[#8]=[#15]-[#8-],9 10 11,3,,0,21,18,2
+1008,anion__phosphates,phosphates,CP(=O)([O-])O,G0,[#8]=[#15]-[#8-],1 2 3,3,,0,5,2,2
+1009,anion__phosphates,phosphates,CO[PH](=O)[O-],G0,[#8]=[#15]-[#8-],2 3 4,3,,0,5,2,1
+1010,anion__phosphates,phosphates,CCO[PH](=O)[O-],G0,[#8]=[#15]-[#8-],3 4 5,3,,0,6,3,1
+1011,anion__phosphates,phosphates,CCCCO[PH](=O)[O-],G0,[#8]=[#15]-[#8-],5 6 7,3,,0,8,5,1
+1012,anion__phosphates,phosphates,CCCCCCO[PH](=O)[O-],G0,[#8]=[#15]-[#8-],7 8 9,3,,0,10,7,1
+1013,anion__phosphates,phosphates,CCCCCCCCO[PH](=O)[O-],G0,[#8]=[#15]-[#8-],9 10 11,3,,0,12,9,1
+1014,anion__phosphates,phosphates,CC(CC(C)(C)C)CP(=O)([O-])CC(C)CC(C)(C)C,G0,[#8]=[#15]-[#8-],8 9 10,3,,0,19,16,2
+1015,anion__phosphates,phosphates,O=P([O-])(C(F)(F)F)C(F)(F)F,G0,[#8]=[#15]-[#8-],0 1 2,3,,0,11,8,2
+990,anion__sulfates,sulfates,O=S(=O)([O-])O,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],0 1 2 3 4,5,,0,5,0,0
+992,anion__sulfates,sulfates,COS(=O)(=O)[O-],G0,[#8]=[#16](=[#8])(-[#8-])-[#8],1 2 3 4 5,5,,0,6,1,1
+993,anion__sulfates,sulfates,CCOS(=O)(=O)[O-],G0,[#8]=[#16](=[#8])(-[#8-])-[#8],2 3 4 5 6,5,,0,7,2,1
+994,anion__sulfates,sulfates,CCCCOS(=O)(=O)[O-],G0,[#8]=[#16](=[#8])(-[#8-])-[#8],4 5 6 7 8,5,,0,9,4,1
+995,anion__sulfates,sulfates,CCCCCCOS(=O)(=O)[O-],G0,[#8]=[#16](=[#8])(-[#8-])-[#8],6 7 8 9 10,5,,0,11,6,1
+996,anion__sulfates,sulfates,CCCCCCCCOS(=O)(=O)[O-],G0,[#8]=[#16](=[#8])(-[#8-])-[#8],8 9 10 11 12,5,,0,13,8,1
+997,anion__sulfates,sulfates,CCCCCCCCCCCCOS(=O)(=O)[O-],G0,[#8]=[#16](=[#8])(-[#8-])-[#8],12 13 14 15 16,5,,0,17,12,1
+998,anion__sulfates,sulfates,COCCOS(=O)(=O)[O-],G0,[#8]=[#16](=[#8])(-[#8-])-[#8],4 5 6 7 8,5,,0,9,4,1
+999,anion__sulfates,sulfates,CCOCCOS(=O)(=O)[O-],G0,[#8]=[#16](=[#8])(-[#8-])-[#8],5 6 7 8 9,5,,0,10,5,1
+1000,anion__sulfates,sulfates,COCCOCCOS(=O)(=O)[O-],G0,[#8]=[#16](=[#8])(-[#8-])-[#8],7 8 9 10 11,5,,0,12,7,1
+1001,anion__sulfates,sulfates,CCOCCOCCOS(=O)(=O)[O-],G0,[#8]=[#16](=[#8])(-[#8-])-[#8],8 9 10 11 12,5,,0,13,8,1
+1233,anion__sulfates,sulfates,CCCCCOS(=O)(=O)[O-],G0,[#8]=[#16](=[#8])(-[#8-])-[#8],5 6 7 8 9,5,,0,10,5,1
+1234,anion__sulfates,sulfates,O=S(=O)([O-])OCC(F)(F)F,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],0 1 2 3 4,5,,0,10,5,1
+1235,anion__sulfates,sulfates,O=S(=O)([O-])OCC(F)(F)C(F)F,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],0 1 2 3 4,5,,0,12,7,1
+1236,anion__sulfates,sulfates,O=S(=O)([O-])OCC(F)(F)C(F)(F)C(F)(F)C(F)F,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],0 1 2 3 4,5,,0,18,13,1
+1237,anion__sulfates,sulfates,O=S(=O)([O-])OCCCC(F)(F)C(F)(F)F,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],0 1 2 3 4,5,,0,15,10,1
+974,anion__sulfonates,sulfonates,CS(=O)(=O)[O-],G0,[#16](=[#8])(=[#8])-[#8-],1 2 3 4,4,,0,5,1,1
+975,anion__sulfonates,sulfonates,CCS(=O)(=O)[O-],G0,[#16](=[#8])(=[#8])-[#8-],2 3 4 5,4,,0,6,2,1
+976,anion__sulfonates,sulfonates,CCCCS(=O)(=O)[O-],G0,[#16](=[#8])(=[#8])-[#8-],4 5 6 7,4,,0,8,4,1
+977,anion__sulfonates,sulfonates,O=S(=O)([O-])CC(O)CN1CCOCC1,G0,[#16](=[#8])(=[#8])-[#8-],0 1 2 3,4,,0,14,10,1
+978,anion__sulfonates,sulfonates,O=S(=O)([O-])CC(O)CNC1CCCCC1,G0,[#16](=[#8])(=[#8])-[#8-],0 1 2 3,4,,0,15,11,1
+979,anion__sulfonates,sulfonates,O=S(=O)([O-])CCN(CCO)CCO,G0,[#16](=[#8])(=[#8])-[#8-],0 1 2 3,4,,0,13,9,1
+980,anion__sulfonates,sulfonates,CCCCC(CC)COC(=O)CC(C(=O)OCC(CC)CCCC)S(=O)(=O)[O-],G0,[#16](=[#8])(=[#8])-[#8-],24 25 26 27,4,,0,28,24,1
+981,anion__sulfonates,sulfonates,CCCCCCOC(=O)CC(C(=O)OCCCCCC)C(C(=O)OCCCCCC)S(=O)(=O)[O-],G0,[#16](=[#8])(=[#8])-[#8-],30 31 32 33,4,,0,34,30,1
+982,anion__sulfonates,sulfonates,CCCCCCCCCCCCc1ccccc1S(=O)(=O)[O-],G0,[#16](=[#8])(=[#8])-[#8-],18 19 20 21,4,,0,22,18,1
+983,anion__sulfonates,sulfonates,O=S(=O)([O-])c1ccccc1,G0,[#16](=[#8])(=[#8])-[#8-],0 1 2 3,4,,0,10,6,1
+984,anion__sulfonates,sulfonates,Cc1ccc(S(=O)(=O)[O-])cc1,G0,[#16](=[#8])(=[#8])-[#8-],5 6 7 8,4,,0,11,7,1
+985,anion__sulfonates,sulfonates,O=C(O)c1cccc(S(=O)(=O)[O-])c1,G0,[#16](=[#8])(=[#8])-[#8-],8 9 10 11,4,,0,13,9,1
+986,anion__sulfonates,sulfonates,COC(=O)c1cc(C(=O)OC)cc(S(=O)(=O)[O-])c1,G0,[#16](=[#8])(=[#8])-[#8-],13 14 15 16,4,,0,18,14,1
+987,anion__sulfonates,sulfonates,NS(=O)(=O)[O-],G0,[#16](=[#8])(=[#8])-[#8-],1 2 3 4,4,,0,5,1,1
+988,anion__sulfonates,sulfonates,NCCS(=O)(=O)[O-],G0,[#16](=[#8])(=[#8])-[#8-],3 4 5 6,4,,0,7,3,1
+989,anion__sulfonates,sulfonates,O=S(=O)([O-])F,G0,[#16](=[#8])(=[#8])-[#8-],0 1 2 3,4,,0,5,1,1
+991,anion__sulfonates,sulfonates,CC1(C)C2CCC1C(S(=O)(=O)[O-])C2=O,G0,[#16](=[#8])(=[#8])-[#8-],8 9 10 11,4,,0,14,10,1
+1017,anion__sulfonates,sulfonates,O=S(=O)([O-])C(F)(F)F,G0,[#16](=[#8])(=[#8])-[#8-],0 1 2 3,4,,0,8,4,1
+1018,anion__sulfonates,sulfonates,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,G0,[#16](=[#8])(=[#8])-[#8-],0 1 2 3,4,,0,17,13,1
+1019,anion__sulfonates,sulfonates,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,G0,[#16](=[#8])(=[#8])-[#8-],0 1 2 3,4,,0,29,25,1
+1020,anion__sulfonates,sulfonates,O=S(=O)([O-])C(F)(F)C(F)F,G0,[#16](=[#8])(=[#8])-[#8-],0 1 2 3,4,,0,10,6,1
+1021,anion__sulfonates,sulfonates,O=S(=O)([O-])C(F)(F)C(F)OC(F)(F)C(F)(F)F,G0,[#16](=[#8])(=[#8])-[#8-],0 1 2 3,4,,0,17,13,1
+1022,anion__sulfonates,sulfonates,O=S(=O)([O-])C(F)(F)C(F)OC(F)(F)F,G0,[#16](=[#8])(=[#8])-[#8-],0 1 2 3,4,,0,14,10,1
+1023,anion__sulfonates,sulfonates,O=S(=O)([O-])C(F)(F)C(F)C(F)(F)F,G0,[#16](=[#8])(=[#8])-[#8-],0 1 2 3,4,,0,13,9,1
+1024,anion__sulfonates,sulfonates,O=S(=O)([O-])C(F)(F)C(F)(F)OC(F)C(F)(F)F,G0,[#16](=[#8])(=[#8])-[#8-],0 1 2 3,4,,0,17,13,1
+1232,anion__sulfonates,sulfonates,O=S(=O)([O-])NC1CCCCC1,G0,[#16](=[#8])(=[#8])-[#8-],0 1 2 3,4,,0,11,7,1
+1238,anion__sulfonates,sulfonates,O=S(=O)([O-])C(F)(F)C(F)(F)F,G0,[#16](=[#8])(=[#8])-[#8-],0 1 2 3,4,,0,11,7,1
+673,cation__amidium,amidium,COC=[N+](C)C,G0,[#6]-[#8]-[#6]=[#7+](-[#6])-[#6],0 1 2 3 4 5,6,,0,6,0,0
+674,cation__amidium,amidium,CCOC=[N+](C)C,G0,[#6]-[#8]-[#6]=[#7+](-[#6])-[#6],1 2 3 4 5 6,6,,0,7,1,1
+675,cation__amidium,amidium,CC[N+](CC)=C(C)OC,G0,[#6]-[#8]-[#6]=[#7+](-[#6])-[#6],1 2 3 5 7 8,6,,0,9,3,3
+676,cation__amidium,amidium,CCOC(C)=[N+](C)C,G0,[#6]-[#8]-[#6]=[#7+](-[#6])-[#6],1 2 3 5 6 7,6,,0,8,2,2
+1198,cation__amidium,amidium,CCOC(C)=[N+](CC)CC,G0,[#6]-[#8]-[#6]=[#7+](-[#6])-[#6],1 2 3 5 6 8,6,,0,10,4,4
+454,cation__ammonium,ammonium,CC[NH3+],G0,[#6]-[#6]-[#7+],0 1 2,3,,0,3,0,0
+455,cation__ammonium,ammonium,CCC[NH3+],G0,[#6]-[#6]-[#7+],1 2 3,3,,0,4,1,1
+456,cation__ammonium,ammonium,CCCC[NH3+],G0,[#6]-[#6]-[#7+],2 3 4,3,,0,5,2,1
+457,cation__ammonium,ammonium,CC(C)C[NH3+],G0,[#6]-[#6]-[#7+],1 3 4,3,,0,5,2,2
+458,cation__ammonium,ammonium,CCCCC[NH3+],G0,[#6]-[#6]-[#7+],3 4 5,3,,0,6,3,1
+459,cation__ammonium,ammonium,CCC(C)C[NH3+],G0,[#6]-[#6]-[#7+],2 4 5,3,,0,6,3,2
+460,cation__ammonium,ammonium,CCCCCCCC[NH3+],G0,[#6]-[#6]-[#7+],6 7 8,3,,0,9,6,1
+464,cation__ammonium,ammonium,CC[NH2+]CC,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,5,2,1
+465,cation__ammonium,ammonium,CC[NH+](CC)CC,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,7,4,2
+466,cation__ammonium,ammonium,CC[NH+](C)C,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,5,2,2
+467,cation__ammonium,ammonium,CC[NH+](C)CC,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,6,3,2
+468,cation__ammonium,ammonium,CC[N+](C)(C)C,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,6,3,3
+469,cation__ammonium,ammonium,CC[N+](C)(CC)CC,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,8,5,3
+470,cation__ammonium,ammonium,CC[N+](CC)(CC)CC,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,9,6,3
+471,cation__ammonium,ammonium,CCC[N+](C)(C)C,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,7,4,4
+472,cation__ammonium,ammonium,CCC[N+](C)(C)CC,G0,[#6]-[#6]-[#7+],3 6 7,3,,0,8,5,3
+473,cation__ammonium,ammonium,CCC[N+](C)(CC)CC,G0,[#6]-[#6]-[#7+],3 5 6,3,,0,9,6,3
+474,cation__ammonium,ammonium,CCC[N+](C)(CC)CCC,G0,[#6]-[#6]-[#7+],3 5 6,3,,0,10,7,3
+475,cation__ammonium,ammonium,CCC[NH2+]CCC,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,7,4,2
+476,cation__ammonium,ammonium,CC(C)[NH+](C)C(C)C,G0,[#6]-[#6]-[#7+],0 1 3,3,,0,8,5,3
+477,cation__ammonium,ammonium,CC(C)[N+](C)(C)C,G0,[#6]-[#6]-[#7+],0 1 3,3,,0,7,4,4
+478,cation__ammonium,ammonium,CC[NH+](C(C)C)C(C)C,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,9,6,2
+479,cation__ammonium,ammonium,CCC[N+](C)(C)C(C)C,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,9,6,4
+480,cation__ammonium,ammonium,CCC[N+](CCC)(CCC)CCC,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,13,10,4
+481,cation__ammonium,ammonium,CCCC[N+](C)(C)C,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,8,5,4
+482,cation__ammonium,ammonium,CCCC[N+](C)(C)CC,G0,[#6]-[#6]-[#7+],4 7 8,3,,0,9,6,3
+483,cation__ammonium,ammonium,CCCC[N+](C)(CC)CC,G0,[#6]-[#6]-[#7+],4 6 7,3,,0,10,7,3
+484,cation__ammonium,ammonium,CCCC[N+](CC)(CC)CC,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,11,8,3
+485,cation__ammonium,ammonium,CCCC[NH2+]CCCC,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,9,6,2
+486,cation__ammonium,ammonium,CCCC[NH+](CCCC)CCCC,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,13,10,3
+487,cation__ammonium,ammonium,CCCC[N+](C)(C)CCC,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,10,7,4
+488,cation__ammonium,ammonium,CCCC[N+](C)(C)C(C)C,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,10,7,4
+489,cation__ammonium,ammonium,CCCC[N+](C)(CCCC)CCCC,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,14,11,4
+490,cation__ammonium,ammonium,CCCC[N+](CCCC)(CCCC)CCCC,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,17,14,4
+491,cation__ammonium,ammonium,CCCCC[N+](C)(C)CC,G0,[#6]-[#6]-[#7+],5 8 9,3,,0,10,7,3
+492,cation__ammonium,ammonium,CCCCC[N+](CC)(CC)CC,G0,[#6]-[#6]-[#7+],5 6 7,3,,0,12,9,3
+493,cation__ammonium,ammonium,CCCCC[N+](CCCCC)(CCCCC)CCCCC,G0,[#6]-[#6]-[#7+],3 4 5,3,,0,21,18,4
+494,cation__ammonium,ammonium,CCCCCC[N+](C)(C)C,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,10,7,4
+495,cation__ammonium,ammonium,CCCCCC[N+](CC)(CC)CC,G0,[#6]-[#6]-[#7+],6 7 8,3,,0,13,10,3
+496,cation__ammonium,ammonium,CCCCCC[N+](C)(C)CCC,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,12,9,4
+497,cation__ammonium,ammonium,CCCCCC[N+](C)(C)C(C)C,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,12,9,4
+498,cation__ammonium,ammonium,CCCCCC[N+](CCCC)(CCCC)CCCC,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,19,16,4
+499,cation__ammonium,ammonium,CCCCCC[N+](C)(CCCCCC)CCCCCC,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,20,17,4
+500,cation__ammonium,ammonium,CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,25,22,4
+501,cation__ammonium,ammonium,CCCCCCC[N+](C)(C)C,G0,[#6]-[#6]-[#7+],5 6 7,3,,0,11,8,4
+502,cation__ammonium,ammonium,CCCCCCC[N+](C)(C)CC,G0,[#6]-[#6]-[#7+],7 10 11,3,,0,12,9,3
+503,cation__ammonium,ammonium,CCCCCCC[N+](CC)(CC)CC,G0,[#6]-[#6]-[#7+],7 8 9,3,,0,14,11,3
+504,cation__ammonium,ammonium,CCCCCCC[N+](CC)(CC)C(C)C,G0,[#6]-[#6]-[#7+],7 8 9,3,,0,15,12,3
+505,cation__ammonium,ammonium,CCCCCCC[N+](CC)(C(C)C)C(C)C,G0,[#6]-[#6]-[#7+],7 8 9,3,,0,16,13,3
+506,cation__ammonium,ammonium,CCCCCCC[N+](CCCC)(CCCC)CCCC,G0,[#6]-[#6]-[#7+],5 6 7,3,,0,20,17,4
+507,cation__ammonium,ammonium,CCCCCCC[N+](CCCCCCC)(CCCCCCC)CCCCCCC,G0,[#6]-[#6]-[#7+],5 6 7,3,,0,29,26,4
+508,cation__ammonium,ammonium,CCCCCCCC[N+](C)(C)C,G0,[#6]-[#6]-[#7+],6 7 8,3,,0,12,9,4
+509,cation__ammonium,ammonium,CCCCCCCC[N+](CC)(CC)CC,G0,[#6]-[#6]-[#7+],8 9 10,3,,0,15,12,3
+510,cation__ammonium,ammonium,CCCCCCCC[N+](CCCC)(CCCC)CCCC,G0,[#6]-[#6]-[#7+],6 7 8,3,,0,21,18,4
+511,cation__ammonium,ammonium,CCCCC(CC)C[N+](C)(C)CC(CC)CCCC,G0,[#6]-[#6]-[#7+],4 7 8,3,,0,19,16,5
+512,cation__ammonium,ammonium,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#6]-[#7+],6 7 8,3,,0,26,23,4
+513,cation__ammonium,ammonium,CCCCCCCC[N+](CCCC)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#6]-[#7+],6 7 8,3,,0,29,26,4
+514,cation__ammonium,ammonium,CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#6]-[#7+],6 7 8,3,,0,33,30,4
+515,cation__ammonium,ammonium,CCCCCCCCCC[N+](C)(C)C,G0,[#6]-[#6]-[#7+],8 9 10,3,,0,14,11,4
+516,cation__ammonium,ammonium,CCCCCCCCCC[N+](CC)(CC)CC,G0,[#6]-[#6]-[#7+],10 11 12,3,,0,17,14,3
+517,cation__ammonium,ammonium,CCCCCCCCCC[N+](C)(C)CCC,G0,[#6]-[#6]-[#7+],8 9 10,3,,0,16,13,4
+518,cation__ammonium,ammonium,CCCCCCCCCC[N+](C)(C)C(C)C,G0,[#6]-[#6]-[#7+],8 9 10,3,,0,16,13,4
+519,cation__ammonium,ammonium,CCCCCCCCCC[N+](C)(C)CCCCCCCCCC,G0,[#6]-[#6]-[#7+],8 9 10,3,,0,23,20,4
+520,cation__ammonium,ammonium,CCCCCCCCCC[N+](CCCCCCCCCC)(CCCCCCCCCC)CCCCCCCCCC,G0,[#6]-[#6]-[#7+],8 9 10,3,,0,41,38,4
+521,cation__ammonium,ammonium,CCCCCCCCCCCC[N+](C)(C)C,G0,[#6]-[#6]-[#7+],10 11 12,3,,0,16,13,4
+522,cation__ammonium,ammonium,CCCCCCCCCCCC[N+](CC)(CC)CC,G0,[#6]-[#6]-[#7+],12 13 14,3,,0,19,16,3
+523,cation__ammonium,ammonium,CCCCCCCC[NH+](CCCCCCCC)CCCCCCCC,G0,[#6]-[#6]-[#7+],6 7 8,3,,0,25,22,3
+524,cation__ammonium,ammonium,CCCCCCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#6]-[#7+],10 11 12,3,,0,37,34,4
+525,cation__ammonium,ammonium,CCCCCCCCCCCCCC[N+](C)(C)C,G0,[#6]-[#6]-[#7+],12 13 14,3,,0,18,15,4
+526,cation__ammonium,ammonium,CCCCCCCCCCCCCC[N+](CC)(CC)CC,G0,[#6]-[#6]-[#7+],14 15 16,3,,0,21,18,3
+527,cation__ammonium,ammonium,CCCCCCCCCCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#6]-[#7+],14 15 16,3,,0,41,38,4
+528,cation__ammonium,ammonium,CCCCCCCCCCCCCCCCCC[N+](C)(C)C,G0,[#6]-[#6]-[#7+],16 17 18,3,,0,22,19,4
+529,cation__ammonium,ammonium,C=CC[N+](C)(C)C,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,7,4,4
+530,cation__ammonium,ammonium,C=CC[NH2+]CC=C,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,7,4,2
+531,cation__ammonium,ammonium,C[NH2+]C1CCCCC1,G0,[#6]-[#6]-[#7+],1 2 3,3,4 5 6 7,4,8,1,1
+532,cation__ammonium,ammonium,CCCC[N+](C)(C)C1CCCCC1,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,13,10,4
+533,cation__ammonium,ammonium,CCCCCC[N+](C)(C)C1CCCCC1,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,15,12,4
+534,cation__ammonium,ammonium,CCCCCCCC[N+](C)(C)C1CCCCC1,G0,[#6]-[#6]-[#7+],6 7 8,3,,0,17,14,4
+535,cation__ammonium,ammonium,CCCCCCCCCC[N+](C)(C)C1CCCCC1,G0,[#6]-[#6]-[#7+],8 9 10,3,,0,19,16,4
+536,cation__ammonium,ammonium,CCCCCCCCCCCC[N+](C)(C)C1CCCCC1,G0,[#6]-[#6]-[#7+],10 11 12,3,,0,21,18,4
+538,cation__ammonium,ammonium,CC[N+](CC)(CC)Cc1ccccc1,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,14,11,3
+539,cation__ammonium,ammonium,[NH3+]CCO,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,4,1,1
+540,cation__ammonium,ammonium,CC(O)C[NH3+],G0,[#6]-[#6]-[#7+],1 3 4,3,,0,5,2,2
+541,cation__ammonium,ammonium,C[NH2+]CCO,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,5,2,2
+542,cation__ammonium,ammonium,CCC[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,9,6,4
+543,cation__ammonium,ammonium,CC(C)[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],0 1 3,3,,0,9,6,4
+544,cation__ammonium,ammonium,CCCCCC[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,12,9,4
+545,cation__ammonium,ammonium,CCCCC(CC)C[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],8 11 12,3,,0,14,11,4
+546,cation__ammonium,ammonium,OCC[NH2+]c1ccccc1,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,10,7,2
+547,cation__ammonium,ammonium,OCC[NH2+]CCO,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,7,4,2
+548,cation__ammonium,ammonium,OCC[NH+](CCO)CCO,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,10,7,3
+549,cation__ammonium,ammonium,C[N+](CCO)(CCO)CCO,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,11,8,4
+550,cation__ammonium,ammonium,[NH3+]CCOCCO,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,7,4,1
+551,cation__ammonium,ammonium,C[NH+](CCO)CCO,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,8,5,3
+552,cation__ammonium,ammonium,C[NH+](C)CCO,G0,[#6]-[#6]-[#7+],1 3 4,3,,0,6,3,3
+553,cation__ammonium,ammonium,CC[NH+](CC)CCO,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,8,5,2
+554,cation__ammonium,ammonium,C[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],1 4 5,3,,0,7,4,4
+555,cation__ammonium,ammonium,CC[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,8,5,3
+556,cation__ammonium,ammonium,CCCCC[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],3 4 5,3,,0,11,8,4
+557,cation__ammonium,ammonium,CCCC[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,10,7,4
+558,cation__ammonium,ammonium,[NH3+]CCCO,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,5,2,1
+559,cation__ammonium,ammonium,CCC(CO)[N+](C)(C)C,G0,[#6]-[#6]-[#7+],1 2 5,3,,0,9,6,5
+560,cation__ammonium,ammonium,CCCCCCCC[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],6 7 8,3,,0,14,11,4
+561,cation__ammonium,ammonium,COCCOCC[N+](C)(C)C,G0,[#6]-[#6]-[#7+],5 6 7,3,,0,11,8,4
+562,cation__ammonium,ammonium,CC[N+](C)(C)CCOCCOC,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,12,9,3
+563,cation__ammonium,ammonium,CC[N+](CCOCCOC)(CCOCCOC)CCOCCOC,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,24,21,3
+564,cation__ammonium,ammonium,COCC[NH3+],G0,[#6]-[#6]-[#7+],2 3 4,3,,0,5,2,1
+565,cation__ammonium,ammonium,COCCC[NH3+],G0,[#6]-[#6]-[#7+],3 4 5,3,,0,6,3,1
+567,cation__ammonium,ammonium,COCC[N+](C)(C)C,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,8,5,4
+568,cation__ammonium,ammonium,CC[N+](C)(C)CCOC,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,9,6,3
+569,cation__ammonium,ammonium,CC[N+](C)(CC)CCOC,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,10,7,3
+570,cation__ammonium,ammonium,CC[N+](CC)(CC)CCOC,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,11,8,3
+571,cation__ammonium,ammonium,CCOCC[N+](C)(C)CC,G0,[#6]-[#6]-[#7+],5 8 9,3,,0,10,7,3
+572,cation__ammonium,ammonium,CC[N+](C)(C)COC,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,8,5,3
+573,cation__ammonium,ammonium,CC[N+](CC)(CC)COC,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,10,7,3
+574,cation__ammonium,ammonium,CCOC[N+](C)(C)CC,G0,[#6]-[#6]-[#7+],4 7 8,3,,0,9,6,3
+575,cation__ammonium,ammonium,COCC[N+](C)(C)COC,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,10,7,4
+576,cation__ammonium,ammonium,COCC[N+](C)(C)CCOC,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,11,8,4
+577,cation__ammonium,ammonium,CCOCC[N+](C)(C)COC,G0,[#6]-[#6]-[#7+],3 4 5,3,,0,11,8,4
+578,cation__ammonium,ammonium,CCOCC[N+](C)(C)CCOC,G0,[#6]-[#6]-[#7+],3 4 5,3,,0,12,9,4
+579,cation__ammonium,ammonium,CCOCC[N+](C)(C)CCOCC,G0,[#6]-[#6]-[#7+],3 4 5,3,,0,13,10,4
+580,cation__ammonium,ammonium,OCCOCC[NH2+]CCOCCO,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,13,10,2
+581,cation__ammonium,ammonium,[NH3+]CCOCCOCCO,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,10,7,1
+582,cation__ammonium,ammonium,CCOC[N+](C)(C)CCOC(C)=O,G0,[#6]-[#6]-[#7+],4 7 8,3,,0,13,10,4
+583,cation__ammonium,ammonium,CCCOC[N+](C)(C)CCOC(C)=O,G0,[#6]-[#6]-[#7+],5 8 9,3,,0,14,11,4
+584,cation__ammonium,ammonium,CCCCOC[N+](C)(C)CCOC(C)=O,G0,[#6]-[#6]-[#7+],6 9 10,3,,0,15,12,4
+585,cation__ammonium,ammonium,CCCCCOC[N+](C)(C)CCOC(C)=O,G0,[#6]-[#6]-[#7+],7 10 11,3,,0,16,13,4
+586,cation__ammonium,ammonium,CCCCCCOC[N+](C)(C)CCOC(C)=O,G0,[#6]-[#6]-[#7+],8 11 12,3,,0,17,14,4
+587,cation__ammonium,ammonium,CCCCCCCOC[N+](C)(C)CCOC(C)=O,G0,[#6]-[#6]-[#7+],9 12 13,3,,0,18,15,4
+588,cation__ammonium,ammonium,CCCCCCCCOC[N+](C)(C)CCOC(C)=O,G0,[#6]-[#6]-[#7+],10 13 14,3,,0,19,16,4
+589,cation__ammonium,ammonium,CCCCCCCCCOC[N+](C)(C)CCOC(C)=O,G0,[#6]-[#6]-[#7+],11 14 15,3,,0,20,17,4
+590,cation__ammonium,ammonium,CCCCCCCCCCOC[N+](C)(C)CCOC(C)=O,G0,[#6]-[#6]-[#7+],12 15 16,3,,0,21,18,4
+591,cation__ammonium,ammonium,CCCCCCCCCCCOC[N+](C)(C)CCOC(C)=O,G0,[#6]-[#6]-[#7+],13 16 17,3,,0,22,19,4
+592,cation__ammonium,ammonium,CCCCCCCCCCCCOC[N+](C)(C)CCOC(C)=O,G0,[#6]-[#6]-[#7+],14 17 18,3,,0,23,20,4
+593,cation__ammonium,ammonium,CCCCCCCCCC(=O)OCC[N+](C)(C)COCC,G0,[#6]-[#6]-[#7+],12 13 14,3,,0,21,18,4
+594,cation__ammonium,ammonium,CCCCCCCCCC(=O)OCC[N+](C)(C)COCCC,G0,[#6]-[#6]-[#7+],12 13 14,3,,0,22,19,4
+595,cation__ammonium,ammonium,CCCCCCCCCC(=O)OCC[N+](C)(C)COCCCC,G0,[#6]-[#6]-[#7+],12 13 14,3,,0,23,20,4
+596,cation__ammonium,ammonium,CCCCCCCCCC(=O)OCC[N+](C)(C)COCCCCC,G0,[#6]-[#6]-[#7+],12 13 14,3,,0,24,21,4
+597,cation__ammonium,ammonium,CCCCCCCCCC(=O)OCC[N+](C)(C)COCCCCCC,G0,[#6]-[#6]-[#7+],12 13 14,3,,0,25,22,4
+598,cation__ammonium,ammonium,CCCCCCCCCC(=O)OCC[N+](C)(C)COCCCCCCC,G0,[#6]-[#6]-[#7+],12 13 14,3,,0,26,23,4
+599,cation__ammonium,ammonium,CCCCCCCCCC(=O)OCC[N+](C)(C)COCCCCCCCC,G0,[#6]-[#6]-[#7+],12 13 14,3,,0,27,24,4
+600,cation__ammonium,ammonium,CCCCCCCCCOC[N+](C)(C)CCOC(=O)CCCCCCCCC,G0,[#6]-[#6]-[#7+],11 14 15,3,,0,28,25,4
+601,cation__ammonium,ammonium,CCCCCCCCCCOC[N+](C)(C)CCOC(=O)CCCCCCCCC,G0,[#6]-[#6]-[#7+],12 15 16,3,,0,29,26,4
+602,cation__ammonium,ammonium,CCCCCCCCCCCOC[N+](C)(C)CCOC(=O)CCCCCCCCC,G0,[#6]-[#6]-[#7+],13 16 17,3,,0,30,27,4
+603,cation__ammonium,ammonium,CCCCCCCCCC(=O)OCC[N+](C)(C)COC1CCCCCCCCCCC1,G0,[#6]-[#6]-[#7+],12 13 14,3,,0,31,28,4
+604,cation__ammonium,ammonium,CCCCCCCCCCCCOC[N+](C)(C)CCOC(=O)CCCCCCCCC,G0,[#6]-[#6]-[#7+],14 17 18,3,,0,31,28,4
+605,cation__ammonium,ammonium,CCOC[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],4 7 8,3,,0,10,7,4
+606,cation__ammonium,ammonium,CCCOC[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],5 8 9,3,,0,11,8,4
+607,cation__ammonium,ammonium,CCCCOC[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],6 9 10,3,,0,12,9,4
+608,cation__ammonium,ammonium,CCCCCOC[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],7 10 11,3,,0,13,10,4
+609,cation__ammonium,ammonium,CCCCCCOC[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],8 11 12,3,,0,14,11,4
+610,cation__ammonium,ammonium,CCCCCCCCOC[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],10 13 14,3,,0,16,13,4
+611,cation__ammonium,ammonium,CCCCCCCCCOC[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],11 14 15,3,,0,17,14,4
+612,cation__ammonium,ammonium,CCCCCCCCCCOC[N+](C)(C)CCO,G0,[#6]-[#6]-[#7+],12 15 16,3,,0,18,15,4
+613,cation__ammonium,ammonium,CCOC(=O)C[N+](C)(C)CC,G0,[#6]-[#6]-[#7+],6 9 10,3,,0,11,8,3
+614,cation__ammonium,ammonium,CC[N+](C)(CC)CC(=O)OC,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,11,8,3
+615,cation__ammonium,ammonium,CC[N+](CC)(CC)CC(=O)OC,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,12,9,3
+616,cation__ammonium,ammonium,CCOC(=O)C[N+](CC)(CC)CC,G0,[#6]-[#6]-[#7+],6 7 8,3,,0,13,10,3
+617,cation__ammonium,ammonium,CCC[N+](CCC)(CCC)CC(=O)OCC,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,16,13,4
+618,cation__ammonium,ammonium,CCCC[N+](CC)(CC)CC(=O)OC,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,14,11,3
+619,cation__ammonium,ammonium,CCCC[N+](C)(C)CC(=O)OCC,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,13,10,4
+620,cation__ammonium,ammonium,CCCC[N+](CCCC)(CCCC)CC(=O)OCC,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,19,16,4
+621,cation__ammonium,ammonium,CCCCC[N+](C)(C)CC(=O)OCC,G0,[#6]-[#6]-[#7+],3 4 5,3,,0,14,11,4
+622,cation__ammonium,ammonium,CCCCCC[N+](C)(C)CC(=O)OCC,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,15,12,4
+623,cation__ammonium,ammonium,CC(=O)OCC[N+](C)(C)C,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,10,7,4
+624,cation__ammonium,ammonium,CC[N+](C)(C)CCOC(C)=O,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,11,8,3
+625,cation__ammonium,ammonium,C=CC[N+](C)(C)CC(=O)OCC,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,12,9,4
+626,cation__ammonium,ammonium,C=CC[N+](CC)(CC)CC(=O)OC,G0,[#6]-[#6]-[#7+],3 4 5,3,,0,13,10,3
+627,cation__ammonium,ammonium,C[N+](C)(C)CC(=O)O,G0,[#6]-[#6]-[#7+],1 4 5,3,,0,8,5,5
+628,cation__ammonium,ammonium,C[N+](C)(C)CCCC(=O)O,G0,[#6]-[#6]-[#7+],1 4 5,3,,0,10,7,4
+630,cation__ammonium,ammonium,CN(C)CC[NH+](C)C,G0,[#6]-[#6]-[#7+],3 4 5,3,,0,8,5,3
+631,cation__ammonium,ammonium,CC(C)C[NH2+]CCCS(=O)(=O)O,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,12,9,2
+632,cation__ammonium,ammonium,CC(C)C[NH2+]CCCCS(=O)(=O)O,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,13,10,2
+633,cation__ammonium,ammonium,C[N+](C)(C)CCOS(=O)(=O)O,G0,[#6]-[#6]-[#7+],1 4 5,3,,0,11,8,4
+634,cation__ammonium,ammonium,CC[N+](CC)(CC)CCOS(=O)(=O)O,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,14,11,3
+635,cation__ammonium,ammonium,CCCCCC[N+](CCCCCC)(CCCCCC)CCOS(=O)(=O)O,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,26,23,4
+636,cation__ammonium,ammonium,CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCOS(=O)(=O)O,G0,[#6]-[#6]-[#7+],6 7 8,3,,0,32,29,4
+637,cation__ammonium,ammonium,C[N+](C)(C)CCCOS(=O)(=O)O,G0,[#6]-[#6]-[#7+],1 4 5,3,,0,12,9,4
+638,cation__ammonium,ammonium,C[N+](C)(C)CCCCOS(=O)(=O)O,G0,[#6]-[#6]-[#7+],1 4 5,3,,0,13,10,4
+639,cation__ammonium,ammonium,CC(=O)[NH+](C)C,G0,[#6]-[#6]-[#7+],0 1 3,3,,0,6,3,3
+640,cation__ammonium,ammonium,CC[N+](C)(C)COC1CC(C)CCC1C(C)C,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,17,14,3
+641,cation__ammonium,ammonium,CC[N+](C)(CC)COC1CC(C)CCC1C(C)C,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,18,15,3
+642,cation__ammonium,ammonium,CC[N+](CC)(CC)COC1CC(C)CCC1C(C)C,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,19,16,3
+643,cation__ammonium,ammonium,CCCC[N+](C)(C)COC1CC(C)CCC1C(C)C,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,19,16,4
+644,cation__ammonium,ammonium,CCCCCC[N+](C)(C)COC1CC(C)CCC1C(C)C,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,21,18,4
+645,cation__ammonium,ammonium,CCCCCCC[N+](C)(C)COC1CC(C)CCC1C(C)C,G0,[#6]-[#6]-[#7+],5 6 7,3,,0,22,19,4
+646,cation__ammonium,ammonium,CCCCCCCC[N+](C)(C)COC1CC(C)CCC1C(C)C,G0,[#6]-[#6]-[#7+],6 7 8,3,,0,23,20,4
+647,cation__ammonium,ammonium,CCCCCCCCC[N+](C)(C)COC1CC(C)CCC1C(C)C,G0,[#6]-[#6]-[#7+],7 8 9,3,,0,24,21,4
+648,cation__ammonium,ammonium,CCCCCCCCCC[N+](C)(C)COC1CC(C)CCC1C(C)C,G0,[#6]-[#6]-[#7+],8 9 10,3,,0,25,22,4
+649,cation__ammonium,ammonium,CCCCCCCCCCC[N+](C)(C)COC1CC(C)CCC1C(C)C,G0,[#6]-[#6]-[#7+],9 10 11,3,,0,26,23,4
+650,cation__ammonium,ammonium,CC[N+](C)(CC)CCCC(F)(F)F,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,13,10,3
+651,cation__ammonium,ammonium,CC(C)[N+](C)(C)CC#N,G0,[#6]-[#6]-[#7+],0 1 3,3,,0,9,6,4
+652,cation__ammonium,ammonium,NCC[NH3+],G0,[#6]-[#6]-[#7+],1 2 3,3,,0,4,1,1
+653,cation__ammonium,ammonium,CC[N+](C)(C)N,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,6,3,3
+654,cation__ammonium,ammonium,CCCC[N+](C)(C)N,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,8,5,4
+655,cation__ammonium,ammonium,C=CC[N+](C)(C)N,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,7,4,4
+656,cation__ammonium,ammonium,C[N+](C)(N)CCO,G0,[#6]-[#6]-[#7+],1 4 5,3,,0,7,4,4
+657,cation__ammonium,ammonium,C[N+](C)(N)CC#N,G0,[#6]-[#6]-[#7+],1 4 5,3,,0,7,4,4
+658,cation__ammonium,ammonium,CC(C)OC(=O)C[NH3+],G0,[#6]-[#6]-[#7+],4 6 7,3,,0,8,5,2
+659,cation__ammonium,ammonium,CC(C)COC(=O)C[NH3+],G0,[#6]-[#6]-[#7+],5 7 8,3,,0,9,6,2
+660,cation__ammonium,ammonium,COC(=O)C(C)[NH3+],G0,[#6]-[#6]-[#7+],4 5 6,3,,0,7,4,1
+661,cation__ammonium,ammonium,CCOC(=O)C(C)[NH3+],G0,[#6]-[#6]-[#7+],5 6 7,3,,0,8,5,1
+662,cation__ammonium,ammonium,CC(C)OC(=O)C(C)[NH3+],G0,[#6]-[#6]-[#7+],6 7 8,3,,0,9,6,1
+663,cation__ammonium,ammonium,CC(C)COC(=O)C(C)[NH3+],G0,[#6]-[#6]-[#7+],7 8 9,3,,0,10,7,1
+664,cation__ammonium,ammonium,CC(C)OC(=O)CCC([NH3+])C(=O)OC(C)C,G0,[#6]-[#6]-[#7+],7 8 9,3,,0,16,13,2
+665,cation__ammonium,ammonium,CC(C)COC(=O)CCC([NH3+])C(=O)OCC(C)C,G0,[#6]-[#6]-[#7+],8 9 10,3,,0,18,15,2
+666,cation__ammonium,ammonium,COC(=O)C([NH3+])CC(C)C,G0,[#6]-[#6]-[#7+],4 5 6,3,,0,10,7,2
+667,cation__ammonium,ammonium,CCC(C)C([NH3+])C(=O)OC,G0,[#6]-[#6]-[#7+],2 4 5,3,,0,10,7,3
+668,cation__ammonium,ammonium,COC(=O)C([NH3+])C(C)O,G0,[#6]-[#6]-[#7+],2 4 5,3,,0,9,6,3
+669,cation__ammonium,ammonium,COC(=O)C([NH3+])C(C)C,G0,[#6]-[#6]-[#7+],2 4 5,3,,0,9,6,3
+670,cation__ammonium,ammonium,CC(C)OC(=O)C([NH3+])C(C)C,G0,[#6]-[#6]-[#7+],4 6 7,3,,0,11,8,3
+671,cation__ammonium,ammonium,CC(C)COC(=O)C([NH3+])C(C)C,G0,[#6]-[#6]-[#7+],5 7 8,3,,0,12,9,3
+1181,cation__ammonium,ammonium,CCC(C)[NH3+],G0,[#6]-[#6]-[#7+],2 3 4,3,,0,5,2,1
+1182,cation__ammonium,ammonium,CCCCCC[N+](CC)(CCCCCC)CCCCCC,G0,[#6]-[#6]-[#7+],6 7 8,3,,0,21,18,3
+1183,cation__ammonium,ammonium,CC[N+](C)(C)C1CCCCC1,G0,[#6]-[#6]-[#7+],0 1 2,3,,0,11,8,3
+1184,cation__ammonium,ammonium,C[N+](C)(CCO)Cc1ccccc1,G0,[#6]-[#6]-[#7+],1 3 4,3,,0,13,10,4
+1185,cation__ammonium,ammonium,CCOCC[N+](CC)(CC)CC,G0,[#6]-[#6]-[#7+],5 6 7,3,,0,12,9,3
+1186,cation__ammonium,ammonium,CCCC[N+](CCCC)(CCCC)CCOCC,G0,[#6]-[#6]-[#7+],2 3 4,3,,0,18,15,4
+1187,cation__ammonium,ammonium,CCCCC[N+](CCCCC)(CCCCC)CCOCC,G0,[#6]-[#6]-[#7+],3 4 5,3,,0,21,18,4
+1188,cation__ammonium,ammonium,CCCCCCCCCCCCC[N+](C)(CCOCCO)CCOCCOCCO,G0,[#6]-[#6]-[#7+],11 12 13,3,,0,30,27,4
+1189,cation__ammonium,ammonium,COC(=O)C[NH3+],G0,[#6]-[#6]-[#7+],2 4 5,3,,0,6,3,2
+1190,cation__ammonium,ammonium,CCCCCCOC(=O)C[N+](C)(C)C,G0,[#6]-[#6]-[#7+],7 9 10,3,,0,14,11,5
+1191,cation__ammonium,ammonium,CCCCCCCCCCCCOC(=O)C[N+](C)(C)C,G0,[#6]-[#6]-[#7+],13 15 16,3,,0,20,17,5
+1192,cation__ammonium,ammonium,CCCCCCCCCCCCCCOC(=O)C[N+](C)(C)C,G0,[#6]-[#6]-[#7+],15 17 18,3,,0,22,19,5
+1193,cation__ammonium,ammonium,CCCCCCCCCCCCCCCCOC(=O)C[N+](C)(C)C,G0,[#6]-[#6]-[#7+],17 19 20,3,,0,24,21,5
+1194,cation__ammonium,ammonium,C[N+](C)(C)CCOC(=O)Cc1ccccc1,G0,[#6]-[#6]-[#7+],1 4 5,3,,0,16,13,4
+1195,cation__ammonium,ammonium,C#CC[N+](C)(C)N,G0,[#6]-[#6]-[#7+],1 2 3,3,,0,7,4,4
+1196,cation__ammonium,ammonium,C[N+](C)(C)CC(O)CCl,G0,[#6]-[#6]-[#7+],1 4 5,3,,0,9,6,5
+1197,cation__ammonium,ammonium,C[N+](C)(CCO)CCBr,G0,[#6]-[#6]-[#7+],1 3 4,3,,0,9,6,4
+461,cation__ammonium,ammonium,C[NH2+]C,G1,[#6]-[#7+]-[#6],0 1 2,3,,0,3,0,0
+462,cation__ammonium,ammonium,C[NH+](C)C,G1,[#6]-[#7+]-[#6],0 1 2,3,,0,4,1,1
+463,cation__ammonium,ammonium,C[N+](C)(C)C,G1,[#6]-[#7+]-[#6],0 1 2,3,,0,5,2,2
+537,cation__ammonium,ammonium,C[N+](C)(C)c1ccccc1,G1,[#6]-[#7+]-[#6],0 1 2,3,,0,10,7,2
+566,cation__ammonium,ammonium,COC[N+](C)(C)C,G1,[#6]-[#7+]-[#6],3 4 5,3,,0,7,4,2
+629,cation__ammonium,ammonium,C[NH+](C)C(=O)O,G1,[#6]-[#7+]-[#6],0 1 2,3,,0,6,3,1
+672,cation__ammonium,ammonium,C[N+](C)(C)C[Si](C)(C)O[Si](C)(C)c1ccccc1,G1,[#6]-[#7+]-[#6],0 1 2,3,,0,18,15,2
+452,cation__azepanium,azepanium,O=C1CCCCC[NH2+]1,G0,[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]-1,1 2 3 4 5 6 7,7,,0,8,1,1
+754,cation__azepanium,azepanium,CCCC[N+]1(C)CCCCCC1,G0,[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]-1,4 6 7 8 9 10 11,7,,0,12,5,2
+755,cation__azepanium,azepanium,CCCCCC[N+]1(C)CCCCCC1,G0,[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]-1,6 8 9 10 11 12 13,7,,0,14,7,2
+756,cation__azepanium,azepanium,COCC[N+]1(C)CCCCCC1,G0,[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]-1,4 6 7 8 9 10 11,7,,0,12,5,2
+757,cation__azepanium,azepanium,COCCOCC[N+]1(C)CCCCCC1,G0,[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]-1,7 9 10 11 12 13 14,7,,0,15,8,2
+758,cation__azepanium,azepanium,COCC[N+]1(CCOC)CCCCCC1,G0,[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]-1,4 9 10 11 12 13 14,7,,0,15,8,2
+759,cation__azepanium,azepanium,COCCOCC[N+]1(CCOCCOC)CCCCCC1,G0,[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]-1,7 15 16 17 18 19 20,7,,0,21,14,2
+747,cation__bicyclic,bicyclic,C1CCC2=[NH+]CCCN2CC1,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,3 4 5 6 7 8,6,0 1 2 9 10,5,11,0,0
+748,cation__bicyclic,bicyclic,CC[N+]1=C2CCCCCN2CCC1,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,2 3 9 10 11 12,6,4 5 6 7 8,5,13,2,1
+749,cation__bicyclic,bicyclic,CCCC[N+]1=C2CCCCCN2CCC1,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,4 5 11 12 13 14,6,6 7 8 9 10,5,15,4,1
+750,cation__bicyclic,bicyclic,CCCCCC[N+]1=C2CCCCCN2CCC1,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,6 7 13 14 15 16,6,8 9 10 11 12,5,17,6,1
+751,cation__bicyclic,bicyclic,CCCCCCCC[N+]1=C2CCCCCN2CCC1,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,8 9 15 16 17 18,6,10 11 12 13 14,5,19,8,1
+752,cation__bicyclic,bicyclic,CCCCCCCCCC[N+]1=C2CCCCCN2CCC1,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,10 11 17 18 19 20,6,12 13 14 15 16,5,21,10,1
+753,cation__bicyclic,bicyclic,CCCCCCCCCCCCCC[N+]1=C2CCCCCN2CCC1,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,14 15 21 22 23 24,6,16 17 18 19 20,5,25,14,1
+760,cation__bicyclic,bicyclic,C[N+]1=C2NCCCN2CCC1,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,1 2 7 8 9 10,6,3 4 5 6,4,11,1,1
+442,cation__bicyclic,bicyclic,CCCCCC[N+]12CCC(CC1)CC2,G1,[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]12-[#6]-[#6]-[#6](-[#6]-[#6]-1)-[#6]-[#6]-2,0 1 2 3 4 5 6 7 8 9 10 11 12 13,14,,0,14,0,0
+443,cation__bicyclic,bicyclic,CCCCCCCC[N+]12CCC(CC1)CC2,G1,[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]12-[#6]-[#6]-[#6](-[#6]-[#6]-1)-[#6]-[#6]-2,2 3 4 5 6 7 8 9 10 11 12 13 14 15,14,,0,16,2,1
+448,cation__cyclic_amidium,cyclic amidium,CCC[N+]1=C(C)CCC1,G0,[#6]1=[#7+](-[#6])-[#6]-[#6]-[#6]-1,2 3 4 6 7 8,6,,0,9,3,2
+449,cation__cyclic_amidium,cyclic amidium,CCCC[N+]1=C(C)CCC1,G0,[#6]1=[#7+](-[#6])-[#6]-[#6]-[#6]-1,3 4 5 7 8 9,6,,0,10,4,2
+450,cation__cyclic_amidium,cyclic amidium,CC[N+]1=C(OC)CCC1,G0,[#6]1=[#7+](-[#6])-[#6]-[#6]-[#6]-1,1 2 3 6 7 8,6,,0,9,3,2
+451,cation__cyclic_amidium,cyclic amidium,CCOC1=[N+](CC)CCC1,G0,[#6]1=[#7+](-[#6])-[#6]-[#6]-[#6]-1,3 4 5 7 8 9,6,,0,10,4,2
+1179,cation__cyclic_amidium,cyclic amidium,CCOC1=[N+](C)CCC1,G0,[#6]1=[#7+](-[#6])-[#6]-[#6]-[#6]-1,3 4 5 6 7 8,6,,0,9,3,1
+1212,cation__cyclic_phosphonium,cyclic phosphonium,CCCC[P+]1(c2ccccc2)CCCCC1,G0,[#6]-[#6]-[#6]-[#6]-[#15+]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 5 6 7 8 9 10,11,11 12 13 14 15,5,16,0,0
+1214,cation__cyclic_phosphonium,cyclic phosphonium,CCCC[P+]1(c2ccccc2)CCCC1,G0,[#6]-[#6]-[#6]-[#6]-[#15+]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,4 5 6 7 8 9 10 11 12 13 14,11,,0,15,4,1
+874,cation__cyclic_sulfonium,cyclic sulfonium,C[S+]1CCCC1,G0,[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-1,0 1 2 3 4 5,6,,0,6,0,0
+875,cation__cyclic_sulfonium,cyclic sulfonium,CC[S+]1CCCC1,G0,[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-1,1 2 3 4 5 6,6,,0,7,1,1
+876,cation__cyclic_sulfonium,cyclic sulfonium,CCC[S+]1CCCC1,G0,[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-1,2 3 4 5 6 7,6,,0,8,2,1
+877,cation__cyclic_sulfonium,cyclic sulfonium,CCCC[S+]1CCCC1,G0,[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-1,3 4 5 6 7 8,6,,0,9,3,1
+878,cation__cyclic_sulfonium,cyclic sulfonium,CCCCC[S+]1CCCC1,G0,[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-1,4 5 6 7 8 9,6,,0,10,4,1
+879,cation__cyclic_sulfonium,cyclic sulfonium,CCC[S+]1CCCCC1,G1,[#6]-[#6]-[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-[#6]-1,0 1 2 3 4 5 6 7 8,9,,0,9,0,0
+880,cation__cyclic_sulfonium,cyclic sulfonium,CCCC[S+]1CCCCC1,G1,[#6]-[#6]-[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-[#6]-1,1 2 3 4 5 6 7 8 9,9,,0,10,1,1
+881,cation__cyclic_sulfonium,cyclic sulfonium,CCCCC[S+]1CCCCC1,G1,[#6]-[#6]-[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-[#6]-1,2 3 4 5 6 7 8 9 10,9,,0,11,2,1
+897,cation__cyclopropanium,cyclopropanium,CCN(C)c1c(N(C)CC)[c+]1N(C)CC,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],0 1 2 3 4 5 6 7 8 10 11 12 13,13,,0,15,2,2
+898,cation__cyclopropanium,cyclopropanium,CCN(CC)c1c(N(CC)CC)[c+]1N(C)C,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],0 1 2 3 5 6 7 8 10 12 13 14 15,13,,0,16,3,3
+899,cation__cyclopropanium,cyclopropanium,CCN(CC)c1c(N(CC)CC)[c+]1N(CC)CC,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],0 1 2 3 5 6 7 8 10 12 13 14 16,13,,0,18,5,5
+900,cation__cyclopropanium,cyclopropanium,CCCN(C)c1c(N(C)C)[c+]1N(C)C,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],1 2 3 4 5 6 7 8 9 10 11 12 13,13,,0,14,1,1
+901,cation__cyclopropanium,cyclopropanium,CCCN(CCC)c1c(N(C)C)[c+]1N(C)C,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],1 2 3 4 7 8 9 10 11 12 13 14 15,13,,0,16,3,2
+902,cation__cyclopropanium,cyclopropanium,CCCN(CCC)c1c(N(CCC)CCC)[c+]1N(CCC)CCC,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],1 2 3 4 7 8 9 10 13 16 17 18 21,13,,0,24,11,6
+903,cation__cyclopropanium,cyclopropanium,CCCCN(C)c1c(N(C)C)[c+]1N(C)C,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],2 3 4 5 6 7 8 9 10 11 12 13 14,13,,0,15,2,1
+904,cation__cyclopropanium,cyclopropanium,CCCCN(C)c1c(N(CC)CC)[c+]1N(CC)CC,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],3 4 5 6 7 8 9 10 11 13 14 15 17,13,,0,19,6,4
+905,cation__cyclopropanium,cyclopropanium,CCCCN(C)c1c(N(C)CCCC)[c+]1N(C)CCCC,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],2 3 4 5 6 7 8 9 10 14 15 16 17,13,,0,21,8,3
+906,cation__cyclopropanium,cyclopropanium,CCCCN(CCCC)c1c(N(C)C)[c+]1N(C)C,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],2 3 4 5 9 10 11 12 13 14 15 16 17,13,,0,18,5,2
+907,cation__cyclopropanium,cyclopropanium,CCCCN(CCCC)c1c(N(CC)CC)[c+]1N(CC)CC,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],3 4 5 9 10 11 12 13 14 16 17 18 20,13,,0,22,9,5
+908,cation__cyclopropanium,cyclopropanium,CCCCN(CCCC)c1c(N(CCCC)CCCC)[c+]1N(CCCC)CCCC,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],2 3 4 5 9 10 11 12 16 20 21 22 26,13,,0,30,17,6
+909,cation__cyclopropanium,cyclopropanium,CCCCCN(CCCCC)c1c(N(CCCCC)CCCCC)[c+]1N(CCCCC)CCCCC,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],3 4 5 6 11 12 13 14 19 24 25 26 31,13,,0,36,23,6
+910,cation__cyclopropanium,cyclopropanium,CCCCCCN(C)c1c(N(C)C)[c+]1N(C)C,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],4 5 6 7 8 9 10 11 12 13 14 15 16,13,,0,17,4,1
+911,cation__cyclopropanium,cyclopropanium,CCCCCCN(C)c1c(N(CC)CC)[c+]1N(CC)CC,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],5 6 7 8 9 10 11 12 13 15 16 17 19,13,,0,21,8,4
+912,cation__cyclopropanium,cyclopropanium,CCCCCCN(CCCCCC)c1c(N(C)C)[c+]1N(C)C,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],4 5 6 7 13 14 15 16 17 18 19 20 21,13,,0,22,9,2
+913,cation__cyclopropanium,cyclopropanium,CCCCCCN(CCCCCC)c1c(N(CC)CC)[c+]1N(CC)CC,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],5 6 7 13 14 15 16 17 18 20 21 22 24,13,,0,26,13,5
+914,cation__cyclopropanium,cyclopropanium,CCCCCCN(CCCCCC)c1c(N(CCCCCC)CCCCCC)[c+]1N(CCCCCC)CCCCCC,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],4 5 6 7 13 14 15 16 22 28 29 30 36,13,,0,42,29,6
+915,cation__cyclopropanium,cyclopropanium,CCCCCCCCCCN(CCCCCCCCCC)c1c(N(CCCCCCCCCC)CCCCCCCCCC)[c+]1N(CCCCCCCCCC)CCCCCCCCCC,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],8 9 10 11 21 22 23 24 34 44 45 46 56,13,,0,66,53,6
+1222,cation__cyclopropanium,cyclopropanium,CCN(C)c1c(N(C)C)[c+]1N(C)C,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],0 1 2 3 4 5 6 7 8 9 10 11 12,13,,0,13,0,0
+1223,cation__cyclopropanium,cyclopropanium,CCN(CC)c1c(N(C)C)[c+]1N(C)C,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],0 1 2 3 5 6 7 8 9 10 11 12 13,13,,0,14,1,1
+786,cation__guanidinium,guanidinium,CN(C)C(=[NH2+])N(C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],0 1 2 3 4 5 6 7,8,,0,8,0,0
+787,cation__guanidinium,guanidinium,CC[NH+]=C(N(C)C)N(C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],2 3 4 5 6 7 8 9,8,,0,10,2,1
+788,cation__guanidinium,guanidinium,CN(C)C(N(C)C)=[N+](C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],0 1 2 3 4 5 6 7,8,,0,10,2,2
+789,cation__guanidinium,guanidinium,CCN(C)C(N(C)C)=[N+](C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],1 2 3 4 5 6 7 8,8,,0,11,3,3
+790,cation__guanidinium,guanidinium,CCN(CC)C(N(C)C)=[N+](C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],1 2 3 5 6 7 8 9,8,,0,12,4,4
+791,cation__guanidinium,guanidinium,CCCN(C)C(N(C)C)=[N+](C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],2 3 4 5 6 7 8 9,8,,0,12,4,3
+792,cation__guanidinium,guanidinium,CCCN(CC)C(N(C)C)=[N+](C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],2 3 4 6 7 8 9 10,8,,0,13,5,4
+793,cation__guanidinium,guanidinium,CCCN(CCC)C(N(C)C)=[N+](C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],2 3 4 7 8 9 10 11,8,,0,14,6,4
+794,cation__guanidinium,guanidinium,CCCCN(C)C(N(C)C)=[N+](C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],3 4 5 6 7 8 9 10,8,,0,13,5,3
+795,cation__guanidinium,guanidinium,CCCCN(CC)C(N(C)C)=[N+](C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],3 4 5 7 8 9 10 11,8,,0,14,6,4
+796,cation__guanidinium,guanidinium,CCCCN(CCC)C(N(C)C)=[N+](C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],3 4 5 8 9 10 11 12,8,,0,15,7,4
+797,cation__guanidinium,guanidinium,CCCCN(CCCC)C(N(C)C)=[N+](C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],3 4 5 9 10 11 12 13,8,,0,16,8,4
+798,cation__guanidinium,guanidinium,CCCCN(CC)C(N(CC)CCCC)=[N+](C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],3 4 5 7 8 9 11 15,8,,0,18,10,6
+799,cation__guanidinium,guanidinium,CCCCCCN(CCCCCC)C(N(CCCCCC)CCCCCC)=[N+](C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],5 6 7 13 14 15 21 27,8,,0,30,22,6
+800,cation__guanidinium,guanidinium,COCCN(C)C(N(C)CCOC)=[N+](C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],3 4 5 6 7 8 9 13,8,,0,16,8,4
+801,cation__guanidinium,guanidinium,CCOCCN(C)C(N(C)CCOC)=[N+](C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],4 5 6 7 8 9 10 14,8,,0,17,9,4
+802,cation__guanidinium,guanidinium,CC[N+](C)=C1N(C)CCN1C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],2 4 5 6 7 8 9 10,8,,0,11,3,2
+803,cation__guanidinium,guanidinium,CC[N+](CC)=C1N(C)CCN1C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],2 5 6 7 8 9 10 11,8,,0,12,4,2
+804,cation__guanidinium,guanidinium,CCC[N+](C)=C1N(C)CCN1C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],3 5 6 7 8 9 10 11,8,,0,12,4,2
+1201,cation__guanidinium,guanidinium,CCCCCCN(CCCCCC)C(N(C)C)=[N+](C)C,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],5 6 7 13 14 15 16 17,8,,0,20,12,4
+1,cation__imidazolium,imidazolium,c1c[nH+]c[nH]1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,0 1 2 3 4,5,,0,5,0,0
+2,cation__imidazolium,imidazolium,Cn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 5,5,,0,6,1,1
+3,cation__imidazolium,imidazolium,CCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 6,5,,0,7,2,1
+4,cation__imidazolium,imidazolium,CCCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 7,5,,0,8,3,1
+5,cation__imidazolium,imidazolium,CCCCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 8,5,,0,9,4,1
+6,cation__imidazolium,imidazolium,CCCCCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 9,5,,0,10,5,1
+7,cation__imidazolium,imidazolium,CCCCCCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 10,5,,0,11,6,1
+8,cation__imidazolium,imidazolium,CCCCCCCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 11,5,,0,12,7,1
+9,cation__imidazolium,imidazolium,CCCCCCCCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 12,5,,0,13,8,1
+10,cation__imidazolium,imidazolium,CCCCCCCCCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 13,5,,0,14,9,1
+11,cation__imidazolium,imidazolium,CCCCCCCCCCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 13 14,5,,0,15,10,1
+12,cation__imidazolium,imidazolium,CCCCCCCCCCCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 14 15,5,,0,16,11,1
+13,cation__imidazolium,imidazolium,CCCCCCCCCCCCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,12 13 14 15 16,5,,0,17,12,1
+14,cation__imidazolium,imidazolium,CCCCOCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 10,5,,0,11,6,1
+15,cation__imidazolium,imidazolium,CCCCCOCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 11,5,,0,12,7,1
+16,cation__imidazolium,imidazolium,CCCCCCOCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 12,5,,0,13,8,1
+17,cation__imidazolium,imidazolium,CCCCCCCOCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 13,5,,0,14,9,1
+18,cation__imidazolium,imidazolium,CCCCCCCCOCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 13 14,5,,0,15,10,1
+19,cation__imidazolium,imidazolium,CCCCCCCCCOCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 14 15,5,,0,16,11,1
+20,cation__imidazolium,imidazolium,CCCCCCCCCCOCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,12 13 14 15 16,5,,0,17,12,1
+21,cation__imidazolium,imidazolium,CCCCCCCCCCCOCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,13 14 15 16 17,5,,0,18,13,1
+22,cation__imidazolium,imidazolium,CCCCCCCCCCCCOCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,14 15 16 17 18,5,,0,19,14,1
+23,cation__imidazolium,imidazolium,OCCCCCCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 11,5,,0,12,7,1
+24,cation__imidazolium,imidazolium,N#CCCn1cc[nH+]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 8,5,,0,9,4,1
+25,cation__imidazolium,imidazolium,Cc1[nH]cc[n+]1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 5,5,,0,7,2,2
+26,cation__imidazolium,imidazolium,CCSc1[nH+]ccn1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 7,5,,0,9,4,2
+27,cation__imidazolium,imidazolium,CCCCSc1[nH+]ccn1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 9,5,,0,11,6,2
+28,cation__imidazolium,imidazolium,Cc1[nH]cc[n+]1CCCS(=O)(=O)O,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 5,5,,0,13,8,2
+29,cation__imidazolium,imidazolium,CCc1[nH]cc[n+]1CCCS(=O)(=O)O,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 6,5,,0,14,9,2
+30,cation__imidazolium,imidazolium,O=S(=O)(O)CCC[n+]1cc[nH]c1-c1ccccc1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 11,5,,0,18,13,2
+31,cation__imidazolium,imidazolium,Cn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 6,5,,0,7,2,2
+32,cation__imidazolium,imidazolium,CCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 7,5,,0,8,3,2
+33,cation__imidazolium,imidazolium,CCn1cc[n+](C)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 7,5,,0,9,4,3
+34,cation__imidazolium,imidazolium,CCn1cc[n+](CC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 8,5,,0,9,4,2
+35,cation__imidazolium,imidazolium,CCn1c[n+](C)cc1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 6 7,5,,0,9,4,3
+36,cation__imidazolium,imidazolium,CCn1c[n+](CC)cc1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 7 8,5,,0,10,5,3
+37,cation__imidazolium,imidazolium,CCC[n+]1ccn(C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 8,5,,0,9,4,2
+38,cation__imidazolium,imidazolium,CC(C)[n+]1ccn(C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 8,5,,0,9,4,2
+39,cation__imidazolium,imidazolium,CCC[n+]1ccn(CC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 9,5,,0,10,5,2
+40,cation__imidazolium,imidazolium,CCCn1cc[n+](CCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 10,5,,0,11,6,2
+41,cation__imidazolium,imidazolium,CCC[n+]1ccn(C)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 8,5,,0,10,5,3
+42,cation__imidazolium,imidazolium,CCCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 9,5,,0,10,5,2
+43,cation__imidazolium,imidazolium,CCCC[n+]1ccn(CC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 10,5,,0,11,6,2
+44,cation__imidazolium,imidazolium,CCCCn1cc[n+](CCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 12,5,,0,13,8,2
+45,cation__imidazolium,imidazolium,CCCCn1cc[n+](C)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 9,5,,0,11,6,3
+46,cation__imidazolium,imidazolium,CC(C)Cn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 9,5,,0,10,5,2
+47,cation__imidazolium,imidazolium,CCCCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 10,5,,0,11,6,2
+48,cation__imidazolium,imidazolium,CC(C)CCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 10,5,,0,11,6,2
+49,cation__imidazolium,imidazolium,CCCCCn1cc[n+](CC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 11,5,,0,12,7,2
+50,cation__imidazolium,imidazolium,CCCCCn1cc[n+](CCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 13,5,,0,14,9,2
+51,cation__imidazolium,imidazolium,CCCC[n+]1ccn(CCC(C)C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 13,5,,0,14,9,2
+52,cation__imidazolium,imidazolium,CCC(CC)n1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 10,5,,0,11,6,2
+53,cation__imidazolium,imidazolium,CCCCCn1cc[n+](CCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 14,5,,0,15,10,2
+54,cation__imidazolium,imidazolium,CCCCC[n+]1ccn(C)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 10,5,,0,12,7,3
+55,cation__imidazolium,imidazolium,CCCCCC[n+]1ccn(C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 11,5,,0,12,7,2
+56,cation__imidazolium,imidazolium,CC(C)CCC[n+]1ccn(C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 11,5,,0,12,7,2
+57,cation__imidazolium,imidazolium,CCCCCCn1cc[n+](CC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 12,5,,0,13,8,2
+58,cation__imidazolium,imidazolium,CCCCCCn1cc[n+](CCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 14,5,,0,15,10,2
+59,cation__imidazolium,imidazolium,CCCCCCn1cc[n+](CCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 16,5,,0,17,12,2
+60,cation__imidazolium,imidazolium,CCCCCC[n+]1ccn(C)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 11,5,,0,13,8,3
+61,cation__imidazolium,imidazolium,CCCCCCC[n+]1ccn(C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 12,5,,0,13,8,2
+62,cation__imidazolium,imidazolium,CC(C)CCCC[n+]1ccn(C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 12,5,,0,13,8,2
+63,cation__imidazolium,imidazolium,CCCCCCC[n+]1ccn(C)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 12,5,,0,14,9,3
+64,cation__imidazolium,imidazolium,CCCCCCCn1cc[n+](CCCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 18,5,,0,19,14,2
+65,cation__imidazolium,imidazolium,CCCCCCCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 13,5,,0,14,9,2
+66,cation__imidazolium,imidazolium,CCCCCCCCn1cc[n+](CC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 14,5,,0,15,10,2
+67,cation__imidazolium,imidazolium,CCCCCCCCn1cc[n+](CCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 15,5,,0,16,11,2
+68,cation__imidazolium,imidazolium,CCCCCCCCn1cc[n+](CCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 16,5,,0,17,12,2
+69,cation__imidazolium,imidazolium,CCCCCCCCn1cc[n+](CCCCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 20,5,,0,21,16,2
+70,cation__imidazolium,imidazolium,CCCCCCCC[n+]1ccn(C)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 13,5,,0,15,10,3
+71,cation__imidazolium,imidazolium,CCCCCCCCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 14,5,,0,15,10,2
+72,cation__imidazolium,imidazolium,CCCCCCCCCn1cc[n+](CCCCCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 22,5,,0,23,18,2
+73,cation__imidazolium,imidazolium,CCCCCCCCCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 13 15,5,,0,16,11,2
+74,cation__imidazolium,imidazolium,CCCCCCCCCCn1cc[n+](C)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 13 15,5,,0,17,12,3
+75,cation__imidazolium,imidazolium,CCCCCCCCCCn1cc[n+](CCCCCCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 13 24,5,,0,25,20,2
+76,cation__imidazolium,imidazolium,CCCCCCCCCCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 14 16,5,,0,17,12,2
+77,cation__imidazolium,imidazolium,CCCCCCCCCCCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,12 13 14 15 17,5,,0,18,13,2
+78,cation__imidazolium,imidazolium,CCCCCCCCCCCCn1cc[n+](CCCCCCCCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,12 13 14 15 28,5,,0,29,24,2
+79,cation__imidazolium,imidazolium,CCCCCCCCCCCCCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,14 15 16 17 19,5,,0,20,15,2
+80,cation__imidazolium,imidazolium,CCCCCCCCCCCCCCCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,16 17 18 19 21,5,,0,22,17,2
+81,cation__imidazolium,imidazolium,CCCCCCCCCCCCCCCCCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,18 19 20 21 23,5,,0,24,19,2
+82,cation__imidazolium,imidazolium,C[n+]1ccn(C2CCCC2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 10,5,,0,11,6,2
+83,cation__imidazolium,imidazolium,CCCC[n+]1ccn(C2CCCC2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 13,5,,0,14,9,2
+84,cation__imidazolium,imidazolium,C[n+]1ccn(CC2CCCC2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 11,5,,0,12,7,2
+85,cation__imidazolium,imidazolium,C[n+]1ccn(CCC2CCCC2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 12,5,,0,13,8,2
+86,cation__imidazolium,imidazolium,C[n+]1ccn(C2CCCCC2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 11,5,,0,12,7,2
+87,cation__imidazolium,imidazolium,CC[n+]1ccn(C2CCCCC2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 12,5,,0,13,8,2
+88,cation__imidazolium,imidazolium,C[n+]1ccn(CC2CCCCC2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 12,5,,0,13,8,2
+89,cation__imidazolium,imidazolium,C[n+]1ccn(CCC2CCCCC2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 13,5,,0,14,9,2
+90,cation__imidazolium,imidazolium,C[n+]1ccn(CCCC2CCCCC2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 14,5,,0,15,10,2
+91,cation__imidazolium,imidazolium,C[n+]1ccn(C2CCCCCC2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 12,5,,0,13,8,2
+92,cation__imidazolium,imidazolium,C=CCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 8,5,,0,9,4,2
+93,cation__imidazolium,imidazolium,C=CCn1cc[n+](CCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 11,5,,0,12,7,2
+94,cation__imidazolium,imidazolium,C=CCn1cc[n+](CCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 13,5,,0,14,9,2
+95,cation__imidazolium,imidazolium,C=CCn1cc[n+](CCCCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 15,5,,0,16,11,2
+96,cation__imidazolium,imidazolium,C=CCn1cc[n+](CCCCCCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 17,5,,0,18,13,2
+97,cation__imidazolium,imidazolium,C=CCn1cc[n+](CCCCCCCCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 19,5,,0,20,15,2
+98,cation__imidazolium,imidazolium,C=CCn1cc[n+](CCCCCCCCCCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 21,5,,0,22,17,2
+99,cation__imidazolium,imidazolium,C=CCn1cc[n+](C)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 8,5,,0,10,5,3
+100,cation__imidazolium,imidazolium,C=CCCn1cc[n+](C)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 9,5,,0,11,6,3
+101,cation__imidazolium,imidazolium,CC=CC[n+]1ccn(C)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 9,5,,0,11,6,3
+102,cation__imidazolium,imidazolium,CCCCCCCCC=CCCCCCCCC[n+]1ccn(C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,18 19 20 21 23,5,,0,24,19,2
+103,cation__imidazolium,imidazolium,CCCCCC=CCC=CCCCCCCCC[n+]1ccn(C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,18 19 20 21 23,5,,0,24,19,2
+104,cation__imidazolium,imidazolium,C=Cn1cc[n+](CCCCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 14,5,,0,15,10,2
+105,cation__imidazolium,imidazolium,C=Cn1cc[n+](CCCCCCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 16,5,,0,17,12,2
+106,cation__imidazolium,imidazolium,C=CCn1cc[n+](C=C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 9,5,,0,10,5,2
+107,cation__imidazolium,imidazolium,C#CCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 8,5,,0,9,4,2
+108,cation__imidazolium,imidazolium,C[n+]1ccn(Cc2ccccc2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 12,5,,0,13,8,2
+109,cation__imidazolium,imidazolium,C[n+]1ccn(CCc2ccccc2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 13,5,,0,14,9,2
+110,cation__imidazolium,imidazolium,C[n+]1ccn(CCCc2ccccc2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 14,5,,0,15,10,2
+111,cation__imidazolium,imidazolium,c1ccc(Cn2cc[n+](Cc3ccccc3)c2)cc1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 16,5,,0,19,14,2
+112,cation__imidazolium,imidazolium,C[n+]1ccn(CCO)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 8,5,,0,9,4,2
+113,cation__imidazolium,imidazolium,Cc1n(CCO)cc[n+]1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 6 7 8,5,,0,10,5,3
+114,cation__imidazolium,imidazolium,C[n+]1ccn(CCCO)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 9,5,,0,10,5,2
+115,cation__imidazolium,imidazolium,CC[n+]1ccn(CCCO)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 10,5,,0,11,6,2
+116,cation__imidazolium,imidazolium,CC(O)Cn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 9,5,,0,10,5,2
+117,cation__imidazolium,imidazolium,C[n+]1ccn(CCCCCCO)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 12,5,,0,13,8,2
+118,cation__imidazolium,imidazolium,CC[n+]1ccn(CCCCCCO)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 13,5,,0,14,9,2
+119,cation__imidazolium,imidazolium,CCCC[n+]1ccn(CCCCCCO)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 15,5,,0,16,11,2
+120,cation__imidazolium,imidazolium,C[n+]1ccn(CCCCCCCCO)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 14,5,,0,15,10,2
+121,cation__imidazolium,imidazolium,CCCCCCOC[n+]1ccn(C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 13,5,,0,14,9,2
+122,cation__imidazolium,imidazolium,CCCOCn1cc[n+](COCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 14,5,,0,15,10,2
+123,cation__imidazolium,imidazolium,CCCCOCn1cc[n+](COCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 16,5,,0,17,12,2
+124,cation__imidazolium,imidazolium,CCCCCOCn1cc[n+](COCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 18,5,,0,19,14,2
+125,cation__imidazolium,imidazolium,CCCCCCOCn1cc[n+](COCCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 20,5,,0,21,16,2
+126,cation__imidazolium,imidazolium,CCCCCCCOCn1cc[n+](COCCCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 22,5,,0,23,18,2
+127,cation__imidazolium,imidazolium,CCCCCCCCOCn1cc[n+](COCCCCCCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 13 24,5,,0,25,20,2
+128,cation__imidazolium,imidazolium,COCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 8,5,,0,9,4,2
+129,cation__imidazolium,imidazolium,CC[n+]1ccn(COC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 9,5,,0,10,5,2
+130,cation__imidazolium,imidazolium,CCC[n+]1ccn(COC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 10,5,,0,11,6,2
+131,cation__imidazolium,imidazolium,CCCC[n+]1ccn(COC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 11,5,,0,12,7,2
+132,cation__imidazolium,imidazolium,CCOCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 9,5,,0,10,5,2
+133,cation__imidazolium,imidazolium,CCOCn1cc[n+](CC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 10,5,,0,11,6,2
+134,cation__imidazolium,imidazolium,CCC[n+]1ccn(COCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 11,5,,0,12,7,2
+135,cation__imidazolium,imidazolium,CCCC[n+]1ccn(COCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 12,5,,0,13,8,2
+136,cation__imidazolium,imidazolium,COCC[n+]1ccn(C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 9,5,,0,10,5,2
+137,cation__imidazolium,imidazolium,CC[n+]1ccn(CCOC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 10,5,,0,11,6,2
+138,cation__imidazolium,imidazolium,CCC[n+]1ccn(CCOC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 11,5,,0,12,7,2
+139,cation__imidazolium,imidazolium,CCCC[n+]1ccn(CCOC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 12,5,,0,13,8,2
+140,cation__imidazolium,imidazolium,CCOCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 10,5,,0,11,6,2
+141,cation__imidazolium,imidazolium,CCOCCn1cc[n+](CC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 11,5,,0,12,7,2
+142,cation__imidazolium,imidazolium,CCC[n+]1ccn(CCOCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 12,5,,0,13,8,2
+143,cation__imidazolium,imidazolium,CCCC[n+]1ccn(CCOCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 13,5,,0,14,9,2
+144,cation__imidazolium,imidazolium,COCCOCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 12,5,,0,13,8,2
+145,cation__imidazolium,imidazolium,COCCOCCOCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 13 15,5,,0,16,11,2
+146,cation__imidazolium,imidazolium,COCCn1cc[n+](COC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 11,5,,0,12,7,2
+147,cation__imidazolium,imidazolium,COCCn1cc[n+](CCOC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 12,5,,0,13,8,2
+148,cation__imidazolium,imidazolium,CCOCn1cc[n+](CCOC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 12,5,,0,13,8,2
+149,cation__imidazolium,imidazolium,CCOCC[n+]1ccn(COC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 12,5,,0,13,8,2
+150,cation__imidazolium,imidazolium,CCOCC[n+]1ccn(COCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 13,5,,0,14,9,2
+151,cation__imidazolium,imidazolium,CCOCC[n+]1ccn(CCOC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 13,5,,0,14,9,2
+152,cation__imidazolium,imidazolium,CCOCCn1cc[n+](CCOCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 14,5,,0,15,10,2
+153,cation__imidazolium,imidazolium,COCC[n+]1ccn(C)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 9,5,,0,11,6,3
+154,cation__imidazolium,imidazolium,CCc1n(C)cc[n+]1CCOC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 5 6 7,5,,0,12,7,3
+155,cation__imidazolium,imidazolium,CCn1cc[n+](CCOC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 10,5,,0,12,7,3
+156,cation__imidazolium,imidazolium,CCc1n(CC)cc[n+]1CCOC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 6 7 8,5,,0,13,8,3
+157,cation__imidazolium,imidazolium,CCCn1cc[n+](CCOC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 11,5,,0,13,8,3
+158,cation__imidazolium,imidazolium,CCCn1cc[n+](CCOC)c1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 11,5,,0,14,9,3
+159,cation__imidazolium,imidazolium,CCCCn1cc[n+](CCOC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 12,5,,0,14,9,3
+160,cation__imidazolium,imidazolium,CCCCn1cc[n+](CCOC)c1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 12,5,,0,15,10,3
+161,cation__imidazolium,imidazolium,CCCCCn1cc[n+](CCOC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 13,5,,0,15,10,3
+162,cation__imidazolium,imidazolium,CCCCCn1cc[n+](CCOC)c1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 13,5,,0,16,11,3
+163,cation__imidazolium,imidazolium,CCOCC[n+]1ccn(C)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 10,5,,0,12,7,3
+164,cation__imidazolium,imidazolium,CCOCC[n+]1ccn(C)c1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 10,5,,0,13,8,3
+165,cation__imidazolium,imidazolium,CCOCC[n+]1ccn(CC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 11,5,,0,13,8,3
+166,cation__imidazolium,imidazolium,CCOCC[n+]1ccn(CC)c1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 11,5,,0,14,9,3
+167,cation__imidazolium,imidazolium,CCCn1cc[n+](CCOCC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 12,5,,0,14,9,3
+168,cation__imidazolium,imidazolium,CCCn1cc[n+](CCOCC)c1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 12,5,,0,15,10,3
+169,cation__imidazolium,imidazolium,CCCCn1cc[n+](CCOCC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 13,5,,0,15,10,3
+170,cation__imidazolium,imidazolium,CCCCn1cc[n+](CCOCC)c1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 13,5,,0,16,11,3
+171,cation__imidazolium,imidazolium,CCCCCn1cc[n+](CCOCC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 14,5,,0,16,11,3
+172,cation__imidazolium,imidazolium,CCCCCn1cc[n+](CCOCC)c1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 14,5,,0,17,12,3
+173,cation__imidazolium,imidazolium,CCc1n(CCOC)cc[n+]1CCOC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 8 9 10,5,,0,15,10,3
+174,cation__imidazolium,imidazolium,CCOCC[n+]1ccn(CCOC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 13,5,,0,15,10,3
+175,cation__imidazolium,imidazolium,CCOCC[n+]1ccn(CCOC)c1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 13,5,,0,16,11,3
+176,cation__imidazolium,imidazolium,CCOCCn1cc[n+](CCOCC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 14,5,,0,16,11,3
+177,cation__imidazolium,imidazolium,CCOCCn1cc[n+](CCOCC)c1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 14,5,,0,17,12,3
+178,cation__imidazolium,imidazolium,COCCCn1cc[n+](CCOC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 13,5,,0,15,10,3
+179,cation__imidazolium,imidazolium,CCc1n(CCCOC)cc[n+]1CCOC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 9 10 11,5,,0,16,11,3
+180,cation__imidazolium,imidazolium,CCOCC[n+]1ccn(CCCOC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 14,5,,0,16,11,3
+181,cation__imidazolium,imidazolium,CCOCC[n+]1ccn(CCCOC)c1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 14,5,,0,17,12,3
+182,cation__imidazolium,imidazolium,C[n+]1ccn(CCOCCO)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 11,5,,0,12,7,2
+183,cation__imidazolium,imidazolium,CCCCOCc1n(C)cc[n+]1CCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 9 10 11,5,,0,15,10,3
+184,cation__imidazolium,imidazolium,CCOCc1n(C)cc[n+]1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 7 8 9,5,,0,11,6,3
+185,cation__imidazolium,imidazolium,CCCOCc1n(C)cc[n+]1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 8 9 10,5,,0,12,7,3
+186,cation__imidazolium,imidazolium,CCOCc1n(C)cc[n+]1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 7 8 9,5,,0,12,7,3
+187,cation__imidazolium,imidazolium,CCCOCc1n(CC)cc[n+]1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 9 10 11,5,,0,13,8,3
+188,cation__imidazolium,imidazolium,CCOCc1n(CC)cc[n+]1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 8 9 10,5,,0,13,8,3
+189,cation__imidazolium,imidazolium,CCCOCc1n(CC)cc[n+]1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 9 10 11,5,,0,14,9,3
+190,cation__imidazolium,imidazolium,CCOCc1n(C)cc[n+]1CCOC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 7 8 9,5,,0,14,9,3
+191,cation__imidazolium,imidazolium,CCCOCc1n(C)cc[n+]1CCOC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 8 9 10,5,,0,15,10,3
+192,cation__imidazolium,imidazolium,CCOCc1n(CC)cc[n+]1CCOC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 8 9 10,5,,0,15,10,3
+193,cation__imidazolium,imidazolium,CCCOCc1n(CC)cc[n+]1CCOC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 9 10 11,5,,0,16,11,3
+194,cation__imidazolium,imidazolium,CCOCC[n+]1ccn(C)c1COCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 10,5,,0,15,10,3
+195,cation__imidazolium,imidazolium,CCCOCc1n(C)cc[n+]1CCOCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 8 9 10,5,,0,16,11,3
+196,cation__imidazolium,imidazolium,CCOCC[n+]1ccn(CC)c1COCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 11,5,,0,16,11,3
+197,cation__imidazolium,imidazolium,CCCOCc1n(CC)cc[n+]1CCOCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 9 10 11,5,,0,17,12,3
+198,cation__imidazolium,imidazolium,CCC[n+]1ccn(C)c1COCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 8,5,,0,13,8,3
+199,cation__imidazolium,imidazolium,CCCOCc1n(C)cc[n+]1CCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 8 9 10,5,,0,14,9,3
+200,cation__imidazolium,imidazolium,CCC[n+]1ccn(CC)c1COCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 9,5,,0,14,9,3
+201,cation__imidazolium,imidazolium,CCCOCc1n(CC)cc[n+]1CCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 9 10 11,5,,0,15,10,3
+202,cation__imidazolium,imidazolium,CCCC[n+]1ccn(C)c1COCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 9,5,,0,14,9,3
+203,cation__imidazolium,imidazolium,CCCC[n+]1ccn(C)c1COCCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 9,5,,0,15,10,3
+204,cation__imidazolium,imidazolium,CCCC[n+]1ccn(CC)c1COCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 10,5,,0,15,10,3
+205,cation__imidazolium,imidazolium,CCCC[n+]1ccn(CC)c1COCCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 10,5,,0,16,11,3
+206,cation__imidazolium,imidazolium,CCCCC[n+]1ccn(C)c1COCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 10,5,,0,15,10,3
+207,cation__imidazolium,imidazolium,CCCCC[n+]1ccn(C)c1COCCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 10,5,,0,16,11,3
+208,cation__imidazolium,imidazolium,CCCCC[n+]1ccn(CC)c1COCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 11,5,,0,16,11,3
+209,cation__imidazolium,imidazolium,CCCCC[n+]1ccn(CC)c1COCCC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 11,5,,0,17,12,3
+210,cation__imidazolium,imidazolium,CC1CCC(C(C)C)C(OC[n+]2ccn(C)c2)C1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 14 16,5,,0,18,13,2
+211,cation__imidazolium,imidazolium,CCn1cc[n+](COC2CC(C)CCC2C(C)C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 18,5,,0,19,14,2
+212,cation__imidazolium,imidazolium,CCCn1cc[n+](COC2CC(C)CCC2C(C)C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 19,5,,0,20,15,2
+213,cation__imidazolium,imidazolium,CCCCn1cc[n+](COC2CC(C)CCC2C(C)C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 20,5,,0,21,16,2
+214,cation__imidazolium,imidazolium,CCCCCn1cc[n+](COC2CC(C)CCC2C(C)C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 21,5,,0,22,17,2
+215,cation__imidazolium,imidazolium,CCCCCCn1cc[n+](COC2CC(C)CCC2C(C)C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 22,5,,0,23,18,2
+216,cation__imidazolium,imidazolium,CCCCCCCn1cc[n+](COC2CC(C)CCC2C(C)C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 23,5,,0,24,19,2
+217,cation__imidazolium,imidazolium,CCCCCCCCn1cc[n+](COC2CC(C)CCC2C(C)C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 24,5,,0,25,20,2
+218,cation__imidazolium,imidazolium,CCCCCCCCCn1cc[n+](COC2CC(C)CCC2C(C)C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 25,5,,0,26,21,2
+219,cation__imidazolium,imidazolium,CCCCCCCCCCn1cc[n+](COC2CC(C)CCC2C(C)C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 13 26,5,,0,27,22,2
+220,cation__imidazolium,imidazolium,CCCCCCCCCCCn1cc[n+](COC2CC(C)CCC2C(C)C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 14 27,5,,0,28,23,2
+221,cation__imidazolium,imidazolium,CCCCCCCCCCCCn1cc[n+](COC2CC(C)CCC2C(C)C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,12 13 14 15 28,5,,0,29,24,2
+222,cation__imidazolium,imidazolium,COc1ccc(-[n+]2ccn(C)c2)cc1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 11,5,,0,14,9,2
+223,cation__imidazolium,imidazolium,CCCCNC(=O)NCCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 14 16,5,,0,17,12,2
+224,cation__imidazolium,imidazolium,C[n+]1ccn(CC(F)(F)F)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 10,5,,0,11,6,2
+225,cation__imidazolium,imidazolium,C[n+]1ccn(CCC(F)(F)F)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 11,5,,0,12,7,2
+226,cation__imidazolium,imidazolium,C[n+]1ccn(CCC(F)(F)C(F)(F)F)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 14,5,,0,15,10,2
+227,cation__imidazolium,imidazolium,C[n+]1ccn(CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)F)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 20,5,,0,21,16,2
+228,cation__imidazolium,imidazolium,C[n+]1ccn(CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 26,5,,0,27,22,2
+229,cation__imidazolium,imidazolium,Cn1cc[n+](CCCl)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 8,5,,0,9,4,2
+230,cation__imidazolium,imidazolium,BrCC(Br)Cn1cc[n+](C(Br)CBr)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 13,5,,0,14,9,2
+231,cation__imidazolium,imidazolium,BrCC(Br)Cn1cc[n+](CC(Br)CBr)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 14,5,,0,15,10,2
+232,cation__imidazolium,imidazolium,C[n+]1ccn(CCC(F)(Br)C(F)(F)Br)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 14,5,,0,15,10,2
+233,cation__imidazolium,imidazolium,FC(F)(Br)C(F)(Br)CCn1cc[n+](CC(Br)CBr)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 18,5,,0,19,14,2
+234,cation__imidazolium,imidazolium,Cn1c[n+](CC(Br)CBr)c(Br)c1Br,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 9 11,5,,0,13,8,4
+235,cation__imidazolium,imidazolium,Cn1c[n+](CC(Br)CBr)c(I)c1I,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 9 11,5,,0,13,8,4
+236,cation__imidazolium,imidazolium,BrCC(Br)Cn1c[n+](CC(Br)CBr)c(I)c1I,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 13 15,5,,0,17,12,4
+237,cation__imidazolium,imidazolium,Cn1cc[n+](CC#N)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 8,5,,0,9,4,2
+238,cation__imidazolium,imidazolium,Cn1cc[n+](CCC#N)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 9,5,,0,10,5,2
+239,cation__imidazolium,imidazolium,Cn1cc[n+](CCCC#N)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 10,5,,0,11,6,2
+240,cation__imidazolium,imidazolium,Cc1n(C)cc[n+]1CCCC#N,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 4 5 6,5,,0,12,7,3
+241,cation__imidazolium,imidazolium,Cn1cc[n+](CCCCC#N)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 11,5,,0,12,7,2
+242,cation__imidazolium,imidazolium,CCCC[n+]1ccn(CCC#N)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 12,5,,0,13,8,2
+243,cation__imidazolium,imidazolium,CCCCCC[n+]1ccn(CCC#N)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 14,5,,0,15,10,2
+244,cation__imidazolium,imidazolium,CCCCCCCC[n+]1ccn(CCC#N)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 16,5,,0,17,12,2
+245,cation__imidazolium,imidazolium,CCCCCCCCCC[n+]1ccn(CCC#N)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 13 18,5,,0,19,14,2
+246,cation__imidazolium,imidazolium,N#CCCn1cc[n+](Cc2ccccc2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 15,5,,0,16,11,2
+247,cation__imidazolium,imidazolium,C=CC[n+]1ccn(CCC#N)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 11,5,,0,12,7,2
+248,cation__imidazolium,imidazolium,N#CCCn1cc[n+](CCO)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 11,5,,0,12,7,2
+249,cation__imidazolium,imidazolium,CCOCC[n+]1ccn(CCC#N)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 13,5,,0,14,9,2
+250,cation__imidazolium,imidazolium,CCC[n+]1ccn(C)c1C#N,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 8,5,,0,11,6,3
+251,cation__imidazolium,imidazolium,C[n+]1ccn(CCN)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 8,5,,0,9,4,2
+252,cation__imidazolium,imidazolium,C[n+]1ccn(CCCN)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 9,5,,0,10,5,2
+253,cation__imidazolium,imidazolium,C[n+]1ccn(CC(=O)O)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 9,5,,0,10,5,2
+254,cation__imidazolium,imidazolium,Cc1n(C)cc[n+]1CC(=O)O,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 4 5 6,5,,0,11,6,3
+255,cation__imidazolium,imidazolium,CCCCn1cc[n+](CC(=O)O)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 12,5,,0,13,8,2
+256,cation__imidazolium,imidazolium,CCOC(=O)C[n+]1ccn(C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 11,5,,0,12,7,2
+257,cation__imidazolium,imidazolium,CCn1cc[n+](C)c1SC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 7,5,,0,10,5,3
+258,cation__imidazolium,imidazolium,CCCSc1n(CC)cc[n+]1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 8 9 10,5,,0,12,7,3
+259,cation__imidazolium,imidazolium,CCn1cc[n+](C)c1SC(C)C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 7,5,,0,12,7,3
+260,cation__imidazolium,imidazolium,CCCCCCCCSc1n(CC)cc[n+]1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 13 14 15,5,,0,17,12,3
+261,cation__imidazolium,imidazolium,CCCCCCn1cc[n+](C)c1SC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 11,5,,0,14,9,3
+262,cation__imidazolium,imidazolium,O=S(=O)(O)CCC[n+]1cc[nH]c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 11,5,,0,12,7,1
+263,cation__imidazolium,imidazolium,Cn1cc[n+](CCCS(=O)(=O)O)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 12,5,,0,13,8,2
+264,cation__imidazolium,imidazolium,CCn1cc[n+](CCCS(=O)(=O)O)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 13,5,,0,14,9,2
+265,cation__imidazolium,imidazolium,CCCCn1cc[n+](CCCS(=O)(=O)O)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 15,5,,0,16,11,2
+266,cation__imidazolium,imidazolium,Cn1cc[n+](CCCCS(=O)(=O)O)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 13,5,,0,14,9,2
+267,cation__imidazolium,imidazolium,COS(=O)(=O)CCCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 14,5,,0,15,10,2
+268,cation__imidazolium,imidazolium,CCOS(=O)(=O)CCCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 13 15,5,,0,16,11,2
+269,cation__imidazolium,imidazolium,CCCCn1cc[n+](CCP(=O)(OCC)OCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 18,5,,0,19,14,2
+270,cation__imidazolium,imidazolium,CCCCn1cc[n+](CCCP(=O)(OCC)OCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 19,5,,0,20,15,2
+271,cation__imidazolium,imidazolium,CCCCCCn1cc[n+](CCP(=O)(OCC)OCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 20,5,,0,21,16,2
+272,cation__imidazolium,imidazolium,CCCCCCn1cc[n+](CCCP(=O)(OCC)OCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 21,5,,0,22,17,2
+273,cation__imidazolium,imidazolium,CCCCCCCCn1cc[n+](CCP(=O)(OCC)OCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 22,5,,0,23,18,2
+274,cation__imidazolium,imidazolium,CCCCCCCCn1cc[n+](CCCP(=O)(OCC)OCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 23,5,,0,24,19,2
+275,cation__imidazolium,imidazolium,C[n+]1ccn(C[Si](C)(C)C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 10,5,,0,11,6,2
+276,cation__imidazolium,imidazolium,Cc1n(C)cc[n+]1C[Si](C)(C)C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 4 5 6,5,,0,12,7,3
+277,cation__imidazolium,imidazolium,C[n+]1ccn(C[Si](C)(C)c2ccccc2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 15,5,,0,16,11,2
+278,cation__imidazolium,imidazolium,C[n+]1ccn(C[Si](C)(C)O[Si](C)(C)C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 14,5,,0,15,10,2
+279,cation__imidazolium,imidazolium,CCCCOCc1n(C)cc[n+]1C[Si](C)(C)C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 9 10 11,5,,0,17,12,3
+280,cation__imidazolium,imidazolium,Cn1cc[n+](C[Si](C)(C)O[Si](C)(C)c2ccccc2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 19,5,,0,20,15,2
+281,cation__imidazolium,imidazolium,Cn1cc[n+](C[Si](C)(C)O[Si](C)(c2ccccc2)c2ccccc2)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 24,5,,0,25,20,2
+282,cation__imidazolium,imidazolium,CCCCNC(=O)C[n+]1ccn(CC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 14,5,,0,15,10,2
+283,cation__imidazolium,imidazolium,CC[n+]1ccn(C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 7,5,,0,8,3,2
+1122,cation__imidazolium,imidazolium,CCn1cc[nH+]c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 6,5,,0,8,3,2
+1123,cation__imidazolium,imidazolium,CCn1cc[n+](CC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 8,5,,0,10,5,3
+1124,cation__imidazolium,imidazolium,CC(C)Cn1cc[n+](CC(C)C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 12,5,,0,13,8,2
+1125,cation__imidazolium,imidazolium,CCCCC(CC)Cn1cc[n+](CC(CC)CCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 20,5,,0,21,16,2
+1126,cation__imidazolium,imidazolium,C=CCn1cc[n+](CC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 9,5,,0,10,5,2
+1127,cation__imidazolium,imidazolium,C=CCn1cc[n+](CCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 10,5,,0,11,6,2
+1128,cation__imidazolium,imidazolium,CC(C)=C[n+]1ccn(C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 9,5,,0,10,5,2
+1129,cation__imidazolium,imidazolium,C=Cn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 7,5,,0,8,3,2
+1130,cation__imidazolium,imidazolium,C=Cn1cc[n+](CC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 8,5,,0,9,4,2
+1131,cation__imidazolium,imidazolium,C=Cn1cc[n+](CCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 9,5,,0,10,5,2
+1132,cation__imidazolium,imidazolium,C=Cn1cc[n+](CCCC)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 10,5,,0,11,6,2
+1133,cation__imidazolium,imidazolium,C=CCn1cc[n+](CC=C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 10,5,,0,11,6,2
+1134,cation__imidazolium,imidazolium,C#CCn1cc[n+](CC#C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 10,5,,0,11,6,2
+1135,cation__imidazolium,imidazolium,Cc1[nH+]ccn1Cc1ccccc1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 5,5,,0,13,8,2
+1136,cation__imidazolium,imidazolium,COCCCn1cc[n+](C)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 10,5,,0,11,6,2
+1137,cation__imidazolium,imidazolium,COC[n+]1ccn(C)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 8,5,,0,10,5,3
+1138,cation__imidazolium,imidazolium,CCc1n(C)cc[n+]1COC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 5 6 7,5,,0,11,6,3
+1139,cation__imidazolium,imidazolium,CCc1n(CC)cc[n+]1COC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 6 7 8,5,,0,12,7,3
+1140,cation__imidazolium,imidazolium,CCCn1cc[n+](COC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 10,5,,0,12,7,3
+1141,cation__imidazolium,imidazolium,CCCn1cc[n+](COC)c1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 10,5,,0,13,8,3
+1142,cation__imidazolium,imidazolium,CCCCn1cc[n+](COC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 11,5,,0,13,8,3
+1143,cation__imidazolium,imidazolium,CCCCn1cc[n+](COC)c1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 11,5,,0,14,9,3
+1144,cation__imidazolium,imidazolium,COCCn1cc[n+](COC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 11,5,,0,13,8,3
+1145,cation__imidazolium,imidazolium,CCc1n(CCOC)cc[n+]1COC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 8 9 10,5,,0,14,9,3
+1146,cation__imidazolium,imidazolium,CCOCCn1cc[n+](COC)c1C,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 12,5,,0,14,9,3
+1147,cation__imidazolium,imidazolium,CCOCCn1cc[n+](COC)c1CC,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 12,5,,0,15,10,3
+1148,cation__imidazolium,imidazolium,C[n+]1ccn(CC(Br)CBr)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 10,5,,0,11,6,2
+1149,cation__imidazolium,imidazolium,N#CCCCn1cc[n+](CCCC#N)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 14,5,,0,15,10,2
+1150,cation__imidazolium,imidazolium,C[n+]1ccn(CCCC(=O)O)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 11,5,,0,12,7,2
+1151,cation__imidazolium,imidazolium,CCCC[n+]1ccn(CCCNCc2ccccc2O)c1,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 20,5,,0,21,16,2
+1158,cation__imidazolium,imidazolium,CCCCn1c[n+](CC)c2ccccc21,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 9 14,5,10 11 12 13,4,15,6,2
+765,cation__morpholinium,morpholinium,C1COCC[NH2+]1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,0 1 2 3 4 5,6,,0,6,0,0
+766,cation__morpholinium,morpholinium,C[NH+]1CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,1 2 3 4 5 6,6,,0,7,1,1
+767,cation__morpholinium,morpholinium,CC[NH+]1CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,2 3 4 5 6 7,6,,0,8,2,1
+768,cation__morpholinium,morpholinium,CC[N+]1(C)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,2 4 5 6 7 8,6,,0,9,3,2
+769,cation__morpholinium,morpholinium,CCC[N+]1(C)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,3 5 6 7 8 9,6,,0,10,4,2
+770,cation__morpholinium,morpholinium,CCCC[N+]1(C)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,4 6 7 8 9 10,6,,0,11,5,2
+771,cation__morpholinium,morpholinium,CCCCC[N+]1(C)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,5 7 8 9 10 11,6,,0,12,6,2
+772,cation__morpholinium,morpholinium,CCCCCC[N+]1(C)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,6 8 9 10 11 12,6,,0,13,7,2
+773,cation__morpholinium,morpholinium,CCCCCCC[N+]1(C)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,7 9 10 11 12 13,6,,0,14,8,2
+774,cation__morpholinium,morpholinium,CCCCCCCC[N+]1(C)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,8 10 11 12 13 14,6,,0,15,9,2
+775,cation__morpholinium,morpholinium,CCCCCCCCC[N+]1(C)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,9 11 12 13 14 15,6,,0,16,10,2
+776,cation__morpholinium,morpholinium,CCCCCCCCCC[N+]1(C)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,10 12 13 14 15 16,6,,0,17,11,2
+777,cation__morpholinium,morpholinium,C=CC[N+]1(C)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,3 5 6 7 8 9,6,,0,10,4,2
+778,cation__morpholinium,morpholinium,C=CC[N+]1(CC)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,3 6 7 8 9 10,6,,0,11,5,2
+779,cation__morpholinium,morpholinium,C[N+]1(CCCO)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,1 6 7 8 9 10,6,,0,11,5,2
+780,cation__morpholinium,morpholinium,COCC[N+]1(C)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,4 6 7 8 9 10,6,,0,11,5,2
+781,cation__morpholinium,morpholinium,CCOCC[N+]1(C)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,5 7 8 9 10 11,6,,0,12,6,2
+782,cation__morpholinium,morpholinium,CCCCOCC[N+]1(C)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,7 9 10 11 12 13,6,,0,14,8,2
+783,cation__morpholinium,morpholinium,C[N+]1(CCCF)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,1 6 7 8 9 10,6,,0,11,5,2
+784,cation__morpholinium,morpholinium,C[N+]1(CCOCC(F)(F)F)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,1 10 11 12 13 14,6,,0,15,9,2
+785,cation__morpholinium,morpholinium,C[N+]1(CCOCC(F)(F)C(F)(F)C(F)(F)C(F)F)CCOCC1,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,1 18 19 20 21 22,6,,0,23,17,2
+761,cation__oxazolidinium,oxazolidinium,CCC[N+]1(C)CCOC1,G0,[#6]-[#6]-[#7+]1(-[#6])-[#6]-[#6]-[#8]-[#6]-1,1 2 3 4 5 6 7 8,8,,0,9,1,1
+762,cation__oxazolidinium,oxazolidinium,CCCC[N+]1(C)CCOC1,G0,[#6]-[#6]-[#7+]1(-[#6])-[#6]-[#6]-[#8]-[#6]-1,2 3 4 5 6 7 8 9,8,,0,10,2,1
+763,cation__oxazolidinium,oxazolidinium,COCC[N+]1(C)CCOC1,G0,[#6]-[#6]-[#7+]1(-[#6])-[#6]-[#6]-[#8]-[#6]-1,2 3 4 5 6 7 8 9,8,,0,10,2,1
+764,cation__oxazolidinium,oxazolidinium,C[N+]1(CCCF)CCOC1,G0,[#6]-[#6]-[#7+]1(-[#6])-[#6]-[#6]-[#8]-[#6]-1,0 1 2 3 6 7 8 9,8,,0,10,2,1
+805,cation__phosphonium,phosphonium,CCC[P+](C)(C)C,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 6,4,,0,7,3,1
+806,cation__phosphonium,phosphonium,CC(C)C[P+](C)(C)C,G0,[#6]-[#15+](-[#6])-[#6],4 5 6 7,4,,0,8,4,1
+807,cation__phosphonium,phosphonium,CCCC[P+](CC)(CC)CC,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 7,4,,0,11,7,4
+808,cation__phosphonium,phosphonium,CCCC[P+](C)(CCCC)CCCC,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 6,4,,0,14,10,3
+809,cation__phosphonium,phosphonium,CCCC[P+](CC)(CCCC)CCCC,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 7,4,,0,15,11,4
+810,cation__phosphonium,phosphonium,CC[P+](CC(C)C)(CC(C)C)CC(C)C,G0,[#6]-[#15+](-[#6])-[#6],1 2 3 7,4,,0,15,11,4
+811,cation__phosphonium,phosphonium,C=CC[P+](C)(C)C,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 6,4,,0,7,3,1
+812,cation__phosphonium,phosphonium,C=CC[P+](CCCC)(CCCC)CCCC,G0,[#6]-[#15+](-[#6])-[#6],2 3 4 8,4,,0,16,12,4
+813,cation__phosphonium,phosphonium,C=CCCC[P+](CC)(CC)CC,G0,[#6]-[#15+](-[#6])-[#6],4 5 6 8,4,,0,12,8,4
+814,cation__phosphonium,phosphonium,CCCC[P+](CCCC)(CCCC)CCCC,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 9,4,,0,17,13,4
+815,cation__phosphonium,phosphonium,CCCCC[P+](CC)(CC)CC,G0,[#6]-[#15+](-[#6])-[#6],4 5 6 8,4,,0,12,8,4
+816,cation__phosphonium,phosphonium,CCCCCCCC[P+](C)(C)C,G0,[#6]-[#15+](-[#6])-[#6],8 9 10 11,4,,0,12,8,1
+817,cation__phosphonium,phosphonium,CCCCCCCC[P+](CC)(CC)CC,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 11,4,,0,15,11,4
+818,cation__phosphonium,phosphonium,CCCCCCCCCCCC[P+](CC)(CC)CC,G0,[#6]-[#15+](-[#6])-[#6],11 12 13 15,4,,0,19,15,4
+819,cation__phosphonium,phosphonium,CCCCCCCCCCCCCC[P+](CCCC)(CCCC)CCCC,G0,[#6]-[#15+](-[#6])-[#6],13 14 15 19,4,,0,27,23,4
+820,cation__phosphonium,phosphonium,CCCCCC[P+](C)(C)C,G0,[#6]-[#15+](-[#6])-[#6],6 7 8 9,4,,0,10,6,1
+821,cation__phosphonium,phosphonium,CCCCCC[P+](CC)(CC)CC,G0,[#6]-[#15+](-[#6])-[#6],5 6 7 9,4,,0,13,9,4
+822,cation__phosphonium,phosphonium,CCCCCC[P+](CCCC)(CCCC)CCCC,G0,[#6]-[#15+](-[#6])-[#6],5 6 7 11,4,,0,19,15,4
+823,cation__phosphonium,phosphonium,CCCCCC[P+](CC)(CCCCCC)CCCCCC,G0,[#6]-[#15+](-[#6])-[#6],5 6 7 9,4,,0,21,17,4
+824,cation__phosphonium,phosphonium,CCCCCC[P+](CCC)(CCCCCC)CCCCCC,G0,[#6]-[#15+](-[#6])-[#6],5 6 7 10,4,,0,22,18,4
+825,cation__phosphonium,phosphonium,CCCCCC[P+](CCCC)(CCCCCC)CCCCCC,G0,[#6]-[#15+](-[#6])-[#6],5 6 7 11,4,,0,23,19,4
+826,cation__phosphonium,phosphonium,CCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,G0,[#6]-[#15+](-[#6])-[#6],5 6 7 13,4,,0,25,21,4
+827,cation__phosphonium,phosphonium,CCCCCCC[P+](CC)(CC)CC,G0,[#6]-[#15+](-[#6])-[#6],6 7 8 10,4,,0,14,10,4
+828,cation__phosphonium,phosphonium,CCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,G0,[#6]-[#15+](-[#6])-[#6],6 7 8 14,4,,0,26,22,4
+829,cation__phosphonium,phosphonium,CCCCCCCC[P+](CCCC)(CCCC)CCCC,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 13,4,,0,21,17,4
+830,cation__phosphonium,phosphonium,CCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 15,4,,0,27,23,4
+831,cation__phosphonium,phosphonium,CCCCCCCC[P+](CCC)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 12,4,,0,28,24,4
+832,cation__phosphonium,phosphonium,CCCCCCCC[P+](CCCC)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 13,4,,0,29,25,4
+833,cation__phosphonium,phosphonium,CCCCCCCC[P+](CCCCC)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 14,4,,0,30,26,4
+834,cation__phosphonium,phosphonium,CCCCCCCC[P+](CCCCCC)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 15,4,,0,31,27,4
+835,cation__phosphonium,phosphonium,CCCCCCCC[P+](CCCCCCC)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 16,4,,0,32,28,4
+836,cation__phosphonium,phosphonium,CCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 17,4,,0,33,29,4
+837,cation__phosphonium,phosphonium,CCCCCCCCC[P+](CC)(CC)CC,G0,[#6]-[#15+](-[#6])-[#6],8 9 10 12,4,,0,16,12,4
+838,cation__phosphonium,phosphonium,CCCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#15+](-[#6])-[#6],8 9 10 18,4,,0,34,30,4
+839,cation__phosphonium,phosphonium,CCCCCCCCCC[P+](CC)(CC)CC,G0,[#6]-[#15+](-[#6])-[#6],9 10 11 13,4,,0,17,13,4
+840,cation__phosphonium,phosphonium,CCCCCCCCCC[P+](CCCC)(CCCC)CCCC,G0,[#6]-[#15+](-[#6])-[#6],9 10 11 15,4,,0,23,19,4
+841,cation__phosphonium,phosphonium,CCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,G0,[#6]-[#15+](-[#6])-[#6],9 10 11 17,4,,0,29,25,4
+842,cation__phosphonium,phosphonium,CCCCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#15+](-[#6])-[#6],9 10 11 19,4,,0,35,31,4
+843,cation__phosphonium,phosphonium,CCCCCCCCCCCC[P+](CCCC)(CCCC)CCCC,G0,[#6]-[#15+](-[#6])-[#6],11 12 13 17,4,,0,25,21,4
+844,cation__phosphonium,phosphonium,CCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,G0,[#6]-[#15+](-[#6])-[#6],11 12 13 19,4,,0,31,27,4
+845,cation__phosphonium,phosphonium,CCCCCCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#15+](-[#6])-[#6],11 12 13 21,4,,0,37,33,4
+846,cation__phosphonium,phosphonium,CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,G0,[#6]-[#15+](-[#6])-[#6],13 14 15 21,4,,0,33,29,4
+847,cation__phosphonium,phosphonium,CCCCCCCCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#15+](-[#6])-[#6],13 14 15 23,4,,0,39,35,4
+848,cation__phosphonium,phosphonium,CCCCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC,G0,[#6]-[#15+](-[#6])-[#6],15 16 17 23,4,,0,35,31,4
+849,cation__phosphonium,phosphonium,CCCCCCCCCCCCCCCCCC[P+](CCCC)(CCCC)CCCC,G0,[#6]-[#15+](-[#6])-[#6],17 18 19 23,4,,0,31,27,4
+850,cation__phosphonium,phosphonium,CC[P+](CC)(CC)Cc1ccccc1,G0,[#6]-[#15+](-[#6])-[#6],1 2 3 5,4,,0,14,10,4
+851,cation__phosphonium,phosphonium,CCCC[P+](CCO)(CCCC)CCCC,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 8,4,,0,16,12,4
+852,cation__phosphonium,phosphonium,COC[P+](C)(C)C,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 6,4,,0,7,3,1
+853,cation__phosphonium,phosphonium,CC[P+](CC)(CC)COC,G0,[#6]-[#15+](-[#6])-[#6],1 2 3 5,4,,0,10,6,4
+854,cation__phosphonium,phosphonium,CC[P+](CC)(CC)COCCOC,G0,[#6]-[#15+](-[#6])-[#6],1 2 3 5,4,,0,13,9,4
+855,cation__phosphonium,phosphonium,CC[P+](CC)(CC)CCOC,G0,[#6]-[#15+](-[#6])-[#6],1 2 3 5,4,,0,11,7,4
+856,cation__phosphonium,phosphonium,CCCC[P+](CCCC)(CCCC)CCCN,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 9,4,,0,17,13,4
+857,cation__phosphonium,phosphonium,CCCC[P+](CCCC)(CCCC)CCOS(=O)(=O)O,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 9,4,,0,20,16,4
+858,cation__phosphonium,phosphonium,CCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CCOS(=O)(=O)O,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 17,4,,0,32,28,4
+1202,cation__phosphonium,phosphonium,CCCC[PH+](CCCC)CCCC,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 9,4,,0,13,9,3
+1203,cation__phosphonium,phosphonium,CC[P+](CC)(CC)CC,G0,[#6]-[#15+](-[#6])-[#6],1 2 3 5,4,,0,9,5,4
+1204,cation__phosphonium,phosphonium,CCCCCC[P+](CCCCCC)(CCCCCC)CC(C)C,G0,[#6]-[#15+](-[#6])-[#6],5 6 7 13,4,,0,23,19,4
+1205,cation__phosphonium,phosphonium,CCCCCCCC[P+](C)(CCCCCCCC)CCCCCCCC,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 10,4,,0,26,22,3
+1206,cation__phosphonium,phosphonium,C=CCC[P+](CC)(CC)CC,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 7,4,,0,11,7,4
+1207,cation__phosphonium,phosphonium,C=Cc1ccc(C[P+](CCCCCCCC)(CCCCCCCC)CCCCCCCC)cc1,G0,[#6]-[#15+](-[#6])-[#6],6 7 8 16,4,,0,34,30,4
+1208,cation__phosphonium,phosphonium,CCOC[P+](CC)(CC)CC,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 7,4,,0,11,7,4
+1209,cation__phosphonium,phosphonium,CCCC[P+](CCCC)(CCCC)COC,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 9,4,,0,16,12,4
+1210,cation__phosphonium,phosphonium,CCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CC(O)CO,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 17,4,,0,30,26,4
+745,cation__piperazinium,piperazinium,CCN1CC[NH2+]CC1,G0,[#7]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,2 3 4 5 6 7,6,,0,8,2,1
+1200,cation__piperazinium,piperazinium,CC[N+]1(CC)CCNCC1,G0,[#7]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,2 5 6 7 8 9,6,,0,10,4,2
+711,cation__piperidinium,piperidinium,C1CC[NH2+]CC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,0 1 2 3 4 5,6,,0,6,0,0
+712,cation__piperidinium,piperidinium,C[NH+]1CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,1 2 3 4 5 6,6,,0,7,1,1
+713,cation__piperidinium,piperidinium,CC[N+]1(C)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,2 4 5 6 7 8,6,,0,9,3,2
+714,cation__piperidinium,piperidinium,CCC[N+]1(C)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,3 5 6 7 8 9,6,,0,10,4,2
+715,cation__piperidinium,piperidinium,CCCC[N+]1(C)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,4 6 7 8 9 10,6,,0,11,5,2
+716,cation__piperidinium,piperidinium,CC(C)C[N+]1(C)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,4 6 7 8 9 10,6,,0,11,5,2
+717,cation__piperidinium,piperidinium,CCCC[N+]1(CC)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,4 7 8 9 10 11,6,,0,12,6,2
+718,cation__piperidinium,piperidinium,CCCCC[N+]1(C)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,5 7 8 9 10 11,6,,0,12,6,2
+719,cation__piperidinium,piperidinium,CCCCC[N+]1(CC)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,5 8 9 10 11 12,6,,0,13,7,2
+720,cation__piperidinium,piperidinium,CCCCCC[N+]1(C)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,6 8 9 10 11 12,6,,0,13,7,2
+721,cation__piperidinium,piperidinium,CCCCCCC[N+]1(C)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,7 9 10 11 12 13,6,,0,14,8,2
+722,cation__piperidinium,piperidinium,CCCCCCCC[N+]1(C)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,8 10 11 12 13 14,6,,0,15,9,2
+723,cation__piperidinium,piperidinium,C=CC[N+]1(C)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,3 5 6 7 8 9,6,,0,10,4,2
+724,cation__piperidinium,piperidinium,C=CC[N+]1(CC=C)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,3 7 8 9 10 11,6,,0,12,6,2
+725,cation__piperidinium,piperidinium,COC[N+]1(C)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,3 5 6 7 8 9,6,,0,10,4,2
+726,cation__piperidinium,piperidinium,CC[N+]1(COC)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,2 6 7 8 9 10,6,,0,11,5,2
+727,cation__piperidinium,piperidinium,COCC[N+]1(C)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,4 6 7 8 9 10,6,,0,11,5,2
+728,cation__piperidinium,piperidinium,CC[N+]1(CCOC)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,2 7 8 9 10 11,6,,0,12,6,2
+729,cation__piperidinium,piperidinium,COCC[N+]1(CCOC)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,4 9 10 11 12 13,6,,0,14,8,2
+730,cation__piperidinium,piperidinium,CCOCC[N+]1(CCOC)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,5 10 11 12 13 14,6,,0,15,9,2
+731,cation__piperidinium,piperidinium,COCCOCC[N+]1(C)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,7 9 10 11 12 13,6,,0,14,8,2
+732,cation__piperidinium,piperidinium,COCCOCC[N+]1(CCOCCOC)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,7 15 16 17 18 19,6,,0,20,14,2
+733,cation__piperidinium,piperidinium,C[N+]1(CCO)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,1 5 6 7 8 9,6,,0,10,4,2
+734,cation__piperidinium,piperidinium,CC[N+]1(CCO)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,2 6 7 8 9 10,6,,0,11,5,2
+735,cation__piperidinium,piperidinium,C[N+]1(CCCO)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,1 6 7 8 9 10,6,,0,11,5,2
+736,cation__piperidinium,piperidinium,CC[N+]1(CCCO)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,2 7 8 9 10 11,6,,0,12,6,2
+737,cation__piperidinium,piperidinium,CC[N+]1(CC(=O)OC)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,2 8 9 10 11 12,6,,0,13,7,2
+738,cation__piperidinium,piperidinium,C[N+]1(CC#N)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,1 5 6 7 8 9,6,,0,10,4,2
+739,cation__piperidinium,piperidinium,C[N+]1(CCCC#N)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,1 7 8 9 10 11,6,,0,12,6,2
+740,cation__piperidinium,piperidinium,C[N+]1(CCCC(F)(F)F)CCCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,1 9 10 11 12 13,6,,0,14,8,2
+741,cation__piperidinium,piperidinium,CCCC[N+]1(C)CCCC(C)C1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,4 6 7 8 9 11,6,,0,12,6,3
+742,cation__piperidinium,piperidinium,CCCCCC[N+]1(C)CCCC(C)C1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,6 8 9 10 11 13,6,,0,14,8,3
+743,cation__piperidinium,piperidinium,COCC[N+]1(C)CCCC(C)C1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,4 6 7 8 9 11,6,,0,12,6,3
+744,cation__piperidinium,piperidinium,COCCOCC[N+]1(C)CCCC(C)C1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,7 9 10 11 12 14,6,,0,15,9,3
+284,cation__pyrazolium,pyrazolium,CC[n+]1cccn1C,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],1 2 3 4 5 6 7,7,,0,8,1,1
+285,cation__pyrazolium,pyrazolium,CCCC[n+]1cccn1C,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],3 4 5 6 7 8 9,7,,0,10,3,1
+286,cation__pyrazolium,pyrazolium,Cc1cn(C)[n+](C)c1,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],1 2 3 4 5 6 7,7,,0,8,1,1
+287,cation__pyrazolium,pyrazolium,CC[n+]1c(C)cc(C)n1C,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],1 2 3 5 6 8 9,7,,0,10,3,3
+288,cation__pyrazolium,pyrazolium,CCC[n+]1c(C)cc(C)n1C,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],2 3 4 6 7 9 10,7,,0,11,4,3
+289,cation__pyrazolium,pyrazolium,CCCC[n+]1c(C)cc(C)n1C,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],3 4 5 7 8 10 11,7,,0,12,5,3
+290,cation__pyrazolium,pyrazolium,Cc1cc(C)[n+](C)n1-c1ccccc1,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],1 2 3 5 6 7 8,7,9 10 11 12 13,5,14,2,2
+291,cation__pyrazolium,pyrazolium,CCCC[n+]1c(C)cc(C)n1-c1ccccc1,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],3 4 5 7 8 10 11,7,12 13 14 15 16,5,17,5,3
+292,cation__pyrazolium,pyrazolium,CCCCC[n+]1c(C)cc(C)n1-c1ccccc1,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],4 5 6 8 9 11 12,7,13 14 15 16 17,5,18,6,3
+293,cation__pyrazolium,pyrazolium,CCCCCC[n+]1c(C)cc(C)n1-c1ccccc1,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],5 6 7 9 10 12 13,7,14 15 16 17 18,5,19,7,3
+294,cation__pyrazolium,pyrazolium,CCCCCCC[n+]1c(C)cc(C)n1-c1ccccc1,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],6 7 8 10 11 13 14,7,15 16 17 18 19,5,20,8,3
+295,cation__pyrazolium,pyrazolium,COCC[n+]1cccn1C,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],3 4 5 6 7 8 9,7,,0,10,3,1
+296,cation__pyrazolium,pyrazolium,CCn1ccc[n+]1CCOC,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],1 2 3 4 5 6 7,7,,0,11,4,2
+297,cation__pyrazolium,pyrazolium,CCOCC[n+]1cccn1C,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],4 5 6 7 8 9 10,7,,0,11,4,1
+298,cation__pyrazolium,pyrazolium,CCOCC[n+]1cccn1CC,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],4 5 6 7 8 9 10,7,,0,12,5,2
+299,cation__pyrazolium,pyrazolium,COCC[n+]1c(C)cc(C)n1C,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],3 4 5 7 8 10 11,7,,0,12,5,3
+300,cation__pyrazolium,pyrazolium,CCn1c(C)cc(C)[n+]1CCOC,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],1 2 3 5 6 8 9,7,,0,13,6,4
+432,cation__pyridazolium,pyridazolium,FC(F)(F)CC[n+]1ccccn1,G0,[#9]-[#6](-[#9])-[#6]-[#6]-[#7+]1:[#6]:[#6]:[#6]:[#6]:[#7]:1,0 1 2 4 5 6 7 8 9 10 11,11,,0,12,1,1
+433,cation__pyridazolium,pyridazolium,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CC[n+]1ccccn1,G0,[#9]-[#6](-[#9])-[#6]-[#6]-[#7+]1:[#6]:[#6]:[#6]:[#6]:[#7]:1,16 17 18 19 20 21 22 23 24 25 26,11,,0,27,16,1
+332,cation__pyridinium,pyridinium,c1cc[nH+]cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,0 1 2 3 4 5,6,,0,6,0,0
+333,cation__pyridinium,pyridinium,Cc1cc[nH+]cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 5 6,6,,0,7,1,1
+334,cation__pyridinium,pyridinium,C[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 5 6,6,,0,7,1,1
+335,cation__pyridinium,pyridinium,CC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 3 4 5 6 7,6,,0,8,2,1
+336,cation__pyridinium,pyridinium,CCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,3 4 5 6 7 8,6,,0,9,3,1
+337,cation__pyridinium,pyridinium,CCCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 7 8 9,6,,0,10,4,1
+338,cation__pyridinium,pyridinium,CCCCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 6 7 8 9 10,6,,0,11,5,1
+339,cation__pyridinium,pyridinium,CCCCCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 7 8 9 10 11,6,,0,12,6,1
+340,cation__pyridinium,pyridinium,CCCCCCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 8 9 10 11 12,6,,0,13,7,1
+341,cation__pyridinium,pyridinium,CCCCCCCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 9 10 11 12 13,6,,0,14,8,1
+342,cation__pyridinium,pyridinium,CCCCCCCCCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,10 11 12 13 14 15,6,,0,16,10,1
+343,cation__pyridinium,pyridinium,CCCCCCCCCCCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,12 13 14 15 16 17,6,,0,18,12,1
+344,cation__pyridinium,pyridinium,c1ccc(C[n+]2ccccc2)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 6 7 8 9 10,6,,0,13,7,1
+345,cation__pyridinium,pyridinium,COCCOCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 8 9 10 11 12,6,,0,13,7,1
+346,cation__pyridinium,pyridinium,COCCOCCOCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,10 11 12 13 14 15,6,,0,16,10,1
+347,cation__pyridinium,pyridinium,COCCOCCOCCOCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,13 14 15 16 17 18,6,,0,19,13,1
+348,cation__pyridinium,pyridinium,Cc1ccc[n+](C)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 5 7,6,,0,8,2,2
+349,cation__pyridinium,pyridinium,CCc1cccc[n+]1C,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 3 4 5 6 7,6,,0,9,3,2
+350,cation__pyridinium,pyridinium,CC[n+]1ccccc1C,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 3 4 5 6 7,6,,0,9,3,2
+351,cation__pyridinium,pyridinium,CC[n+]1cccc(C)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 3 4 5 6 8,6,,0,9,3,2
+352,cation__pyridinium,pyridinium,CC[n+]1ccc(C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 3 4 5 7 8,6,,0,9,3,2
+353,cation__pyridinium,pyridinium,CCc1cccc[n+]1CC,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 3 4 5 6 7,6,,0,10,4,2
+354,cation__pyridinium,pyridinium,CCCc1cccc[n+]1CC,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,3 4 5 6 7 8,6,,0,11,5,2
+355,cation__pyridinium,pyridinium,CCCCc1cccc[n+]1CC,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 7 8 9,6,,0,12,6,2
+356,cation__pyridinium,pyridinium,CCCCCc1cccc[n+]1CC,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 6 7 8 9 10,6,,0,13,7,2
+357,cation__pyridinium,pyridinium,CCCCCCc1cccc[n+]1CC,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 7 8 9 10 11,6,,0,14,8,2
+358,cation__pyridinium,pyridinium,CCCCCCCc1cccc[n+]1CC,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 8 9 10 11 12,6,,0,15,9,2
+359,cation__pyridinium,pyridinium,CCCCCCCCc1cccc[n+]1CC,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 9 10 11 12 13,6,,0,16,10,2
+360,cation__pyridinium,pyridinium,CCC[n+]1ccccc1C,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,3 4 5 6 7 8,6,,0,10,4,2
+361,cation__pyridinium,pyridinium,CCC[n+]1cccc(C)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,3 4 5 6 7 9,6,,0,10,4,2
+362,cation__pyridinium,pyridinium,CCC[n+]1ccc(C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,3 4 5 6 8 9,6,,0,10,4,2
+363,cation__pyridinium,pyridinium,CCCC[n+]1ccccc1C,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 7 8 9,6,,0,11,5,2
+364,cation__pyridinium,pyridinium,CCCC[n+]1cccc(C)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 7 8 10,6,,0,11,5,2
+365,cation__pyridinium,pyridinium,Cc1ccc[n+](CC(C)C)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 5 10,6,,0,11,5,2
+366,cation__pyridinium,pyridinium,CCCC[n+]1ccc(C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 7 9 10,6,,0,11,5,2
+367,cation__pyridinium,pyridinium,CCCC[n+]1cccc(C)c1C,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 7 8 10,6,,0,12,6,3
+368,cation__pyridinium,pyridinium,CCCC[n+]1cc(C)cc(C)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 8 9 11,6,,0,12,6,3
+369,cation__pyridinium,pyridinium,CCCC[n+]1cc(CC)ccc1C,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 9 10 11,6,,0,13,7,3
+370,cation__pyridinium,pyridinium,CCCC[n+]1cc(C)cc(C)c1C,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 8 9 11,6,,0,13,7,4
+371,cation__pyridinium,pyridinium,CCCCCC[n+]1cccc(C)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 7 8 9 10 12,6,,0,13,7,2
+372,cation__pyridinium,pyridinium,CCCCCC[n+]1ccc(C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 7 8 9 11 12,6,,0,13,7,2
+373,cation__pyridinium,pyridinium,CCCCCC[n+]1ccc(C)cc1C,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 7 8 9 11 12,6,,0,14,8,3
+374,cation__pyridinium,pyridinium,CCCCCC[n+]1cc(C)cc(C)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 7 8 10 11 13,6,,0,14,8,3
+375,cation__pyridinium,pyridinium,CCCCCCCC[n+]1cccc(C)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 9 10 11 12 14,6,,0,15,9,2
+376,cation__pyridinium,pyridinium,CCCCCCCC[n+]1ccc(C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 9 10 11 13 14,6,,0,15,9,2
+377,cation__pyridinium,pyridinium,CCCCCCCC[n+]1cccc(C)c1C,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 9 10 11 12 14,6,,0,16,10,3
+378,cation__pyridinium,pyridinium,CCCCCCCC[n+]1cc(C)cc(C)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 9 10 12 13 15,6,,0,16,10,3
+379,cation__pyridinium,pyridinium,CCCCCCCC[n+]1cc(CC)ccc1C,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 9 10 13 14 15,6,,0,17,11,3
+380,cation__pyridinium,pyridinium,CCCCCCCC[n+]1cc(C)cc(C)c1C,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 9 10 12 13 15,6,,0,17,11,4
+381,cation__pyridinium,pyridinium,Cc1cccc[n+]1Cc1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 5 6,6,,0,14,8,2
+382,cation__pyridinium,pyridinium,Cc1ccc[n+](Cc2ccccc2)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 5 13,6,,0,14,8,2
+383,cation__pyridinium,pyridinium,Cc1cc[n+](Cc2ccccc2)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 12 13,6,,0,14,8,2
+384,cation__pyridinium,pyridinium,COCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 7 8 9,6,,0,10,4,1
+385,cation__pyridinium,pyridinium,OCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,3 4 5 6 7 8,6,,0,9,3,1
+386,cation__pyridinium,pyridinium,OCCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 7 8 9,6,,0,10,4,1
+387,cation__pyridinium,pyridinium,CC1CCC(C(C)C)C(OC[n+]2ccccc2)C1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,11 12 13 14 15 16,6,,0,18,12,1
+388,cation__pyridinium,pyridinium,Cc1cccc[n+]1COC1CC(C)CCC1C(C)C,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 5 6,6,,0,19,13,2
+389,cation__pyridinium,pyridinium,CC1CCC(C(C)C)C(OC[n+]2ccc(C(C)(C)C)cc2)C1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,11 12 13 14 19 20,6,,0,22,16,2
+390,cation__pyridinium,pyridinium,CCC(=O)OC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 7 8 9 10 11,6,,0,12,6,1
+391,cation__pyridinium,pyridinium,N#CC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,3 4 5 6 7 8,6,,0,9,3,1
+392,cation__pyridinium,pyridinium,N#CCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 7 8 9,6,,0,10,4,1
+393,cation__pyridinium,pyridinium,N#CCCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 6 7 8 9 10,6,,0,11,5,1
+394,cation__pyridinium,pyridinium,N#CCCCCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 8 9 10 11 12,6,,0,13,7,1
+395,cation__pyridinium,pyridinium,N#CCCCCCCCCCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,12 13 14 15 16 17,6,,0,18,12,1
+396,cation__pyridinium,pyridinium,Cc1ccc[n+](CC#N)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 5 9,6,,0,10,4,2
+397,cation__pyridinium,pyridinium,Cc1cc[n+](CC#N)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 8 9,6,,0,10,4,2
+398,cation__pyridinium,pyridinium,Cc1ccc(C)[n+](CC#N)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 6 10,6,,0,11,5,3
+399,cation__pyridinium,pyridinium,Cc1cccc[n+]1CCCC#N,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 5 6,6,,0,12,6,2
+400,cation__pyridinium,pyridinium,Cc1ccc[n+](CCCC#N)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 5 11,6,,0,12,6,2
+401,cation__pyridinium,pyridinium,Cc1cc[n+](CCCC#N)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 10 11,6,,0,12,6,2
+402,cation__pyridinium,pyridinium,CCc1cccc[n+]1CCCC#N,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 3 4 5 6 7,6,,0,13,7,2
+403,cation__pyridinium,pyridinium,CCc1cc[n+](CCCC#N)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 3 4 5 11 12,6,,0,13,7,2
+404,cation__pyridinium,pyridinium,Cc1ccc(C)[n+](CCCC#N)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 6 12,6,,0,13,7,3
+405,cation__pyridinium,pyridinium,Cc1cccc[n+]1CCCCCC#N,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 5 6,6,,0,14,8,2
+406,cation__pyridinium,pyridinium,Cc1ccc[n+](CCCCCC#N)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 5 13,6,,0,14,8,2
+407,cation__pyridinium,pyridinium,Cc1cc[n+](CCCCCC#N)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 12 13,6,,0,14,8,2
+408,cation__pyridinium,pyridinium,CC[n+]1ccccc1C#N,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 3 4 5 6 7,6,,0,10,4,2
+409,cation__pyridinium,pyridinium,CC[n+]1cccc(C#N)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 3 4 5 6 9,6,,0,10,4,2
+410,cation__pyridinium,pyridinium,CC[n+]1ccc(C#N)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 3 4 5 8 9,6,,0,10,4,2
+411,cation__pyridinium,pyridinium,CCCC[n+]1ccc(C#N)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 7 10 11,6,,0,12,6,2
+412,cation__pyridinium,pyridinium,CCCC[n+]1cccc(C#N)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 7 8 11,6,,0,12,6,2
+413,cation__pyridinium,pyridinium,CCCCCC[n+]1cccc(C#N)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 7 8 9 10 13,6,,0,14,8,2
+414,cation__pyridinium,pyridinium,CCCCCC[n+]1ccc(C#N)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 7 8 9 12 13,6,,0,14,8,2
+415,cation__pyridinium,pyridinium,CCCCCCCC[n+]1cccc(C#N)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 9 10 11 12 15,6,,0,16,10,2
+416,cation__pyridinium,pyridinium,CCCCCCCC[n+]1ccc(C#N)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 9 10 11 14 15,6,,0,16,10,2
+417,cation__pyridinium,pyridinium,COC(=O)c1ccc[n+](CCCC#N)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 7 8 14,6,,0,15,9,2
+418,cation__pyridinium,pyridinium,CCCC[n+]1ccc(N(C)C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 7 11 12,6,,0,13,7,2
+419,cation__pyridinium,pyridinium,CCCCCC[n+]1ccc(N(C)C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 7 8 9 13 14,6,,0,15,9,2
+420,cation__pyridinium,pyridinium,CCCCCC[n+]1ccc(N(C)C)c(C)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 7 8 9 13 15,6,,0,16,10,3
+421,cation__pyridinium,pyridinium,COC[n+]1ccc(N(C)C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,3 4 5 6 10 11,6,,0,12,6,2
+422,cation__pyridinium,pyridinium,CCOC[n+]1ccc(N(C)C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 5 6 7 11 12,6,,0,13,7,2
+423,cation__pyridinium,pyridinium,CCCOC[n+]1ccc(N(C)C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 6 7 8 12 13,6,,0,14,8,2
+424,cation__pyridinium,pyridinium,CCCCOC[n+]1ccc(N(C)C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 7 8 9 13 14,6,,0,15,9,2
+425,cation__pyridinium,pyridinium,CCCCCOC[n+]1ccc(N(C)C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 8 9 10 14 15,6,,0,16,10,2
+426,cation__pyridinium,pyridinium,CCCCCCOC[n+]1ccc(N(C)C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 9 10 11 15 16,6,,0,17,11,2
+427,cation__pyridinium,pyridinium,CCCCCCCOC[n+]1ccc(N(C)C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,9 10 11 12 16 17,6,,0,18,12,2
+428,cation__pyridinium,pyridinium,CCCCCCCCOC[n+]1ccc(N(C)C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,10 11 12 13 17 18,6,,0,19,13,2
+429,cation__pyridinium,pyridinium,CCCCCCCCCOC[n+]1ccc(N(C)C)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,11 12 13 14 18 19,6,,0,20,14,2
+430,cation__pyridinium,pyridinium,O=S(=O)(O)CCCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 9 10 11 12 13,6,,0,14,8,1
+431,cation__pyridinium,pyridinium,CCCCCCCCCC[n+]1ccc(-c2ccncc2)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,10 11 12 13 20 21,6,,0,22,16,2
+1165,cation__pyridinium,pyridinium,CCCCCCCCCCCCCCCC[n+]1ccccc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,16 17 18 19 20 21,6,,0,22,16,1
+1166,cation__pyridinium,pyridinium,c1cc[n+](CC2CCCCC2)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,0 1 2 3 11 12,6,,0,13,7,1
+1167,cation__pyridinium,pyridinium,CCCCCC[n+]1cc(C)cc(C)c1CC,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 7 8 10 11 13,6,,0,16,10,4
+1168,cation__pyridinium,pyridinium,CCCCCC[n+]1cc(CC)cc(CC)c1CCC,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 7 8 11 12 15,6,,0,19,13,4
+1169,cation__pyridinium,pyridinium,CCCCCCCC[n+]1ccccc1C,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 9 10 11 12 13,6,,0,15,9,2
+1170,cation__pyridinium,pyridinium,CCOC(=O)c1ccc[n+](CC)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 6 7 8 9 12,6,,0,13,7,2
+1171,cation__pyridinium,pyridinium,CCCCOC(=O)c1ccc[n+](CCCC)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 8 9 10 11 16,6,,0,17,11,2
+1172,cation__pyridinium,pyridinium,CC[n+]1cccc(C(F)(F)F)c1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 3 4 5 6 11,6,,0,12,6,2
+1173,cation__pyridinium,pyridinium,CC[n+]1ccc(C(F)(F)F)cc1,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 3 4 5 10 11,6,,0,12,6,2
+444,cation__pyrrolidinium,pyrrolidinium,O=C1CCC[NH2+]1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 2 3 4 5,5,,0,6,1,1
+445,cation__pyrrolidinium,pyrrolidinium,C[NH+]1CCCC1=O,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 2 3 4 5,5,,0,7,2,2
+446,cation__pyrrolidinium,pyrrolidinium,C[N+]1(C)CCCC1=O,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 3 4 5 6,5,,0,8,3,3
+447,cation__pyrrolidinium,pyrrolidinium,C[N+]1(CC2CO2)CCCC1=O,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 6 7 8 9,5,,0,11,6,3
+677,cation__pyrrolidinium,pyrrolidinium,C1CC[NH2+]C1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,0 1 2 3 4,5,,0,5,0,0
+678,cation__pyrrolidinium,pyrrolidinium,C[NH+]1CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 2 3 4 5,5,,0,6,1,1
+679,cation__pyrrolidinium,pyrrolidinium,CCCC[NH+]1CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,4 5 6 7 8,5,,0,9,4,1
+680,cation__pyrrolidinium,pyrrolidinium,C[N+]1(C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 3 4 5 6,5,,0,7,2,2
+681,cation__pyrrolidinium,pyrrolidinium,CC[N+]1(C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,2 4 5 6 7,5,,0,8,3,2
+682,cation__pyrrolidinium,pyrrolidinium,CCC[N+]1(C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,3 5 6 7 8,5,,0,9,4,2
+683,cation__pyrrolidinium,pyrrolidinium,CCCC[N+]1(C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,4 6 7 8 9,5,,0,10,5,2
+684,cation__pyrrolidinium,pyrrolidinium,CC(C)C[N+]1(C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,4 6 7 8 9,5,,0,10,5,2
+685,cation__pyrrolidinium,pyrrolidinium,CCCC[N+]1(CC)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,4 7 8 9 10,5,,0,11,6,2
+686,cation__pyrrolidinium,pyrrolidinium,CCCCC[N+]1(C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,5 7 8 9 10,5,,0,11,6,2
+687,cation__pyrrolidinium,pyrrolidinium,CCCCCC[N+]1(C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,6 8 9 10 11,5,,0,12,7,2
+688,cation__pyrrolidinium,pyrrolidinium,CCCCCCC[N+]1(C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,7 9 10 11 12,5,,0,13,8,2
+689,cation__pyrrolidinium,pyrrolidinium,CCCCCCCC[N+]1(C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,8 10 11 12 13,5,,0,14,9,2
+690,cation__pyrrolidinium,pyrrolidinium,CCCCCCCCCC[N+]1(C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,10 12 13 14 15,5,,0,16,11,2
+691,cation__pyrrolidinium,pyrrolidinium,C=CC[N+]1(C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,3 5 6 7 8,5,,0,9,4,2
+692,cation__pyrrolidinium,pyrrolidinium,C=CC[N+]1(CC=C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,3 7 8 9 10,5,,0,11,6,2
+693,cation__pyrrolidinium,pyrrolidinium,C[N+]1(Cc2ccccc2)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 9 10 11 12,5,,0,13,8,2
+694,cation__pyrrolidinium,pyrrolidinium,C[N+]1(CC2CCCCC2)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 9 10 11 12,5,,0,13,8,2
+695,cation__pyrrolidinium,pyrrolidinium,COC[N+]1(C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,3 5 6 7 8,5,,0,9,4,2
+696,cation__pyrrolidinium,pyrrolidinium,COCC[N+]1(C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,4 6 7 8 9,5,,0,10,5,2
+697,cation__pyrrolidinium,pyrrolidinium,CCOCC[N+]1(C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,5 7 8 9 10,5,,0,11,6,2
+698,cation__pyrrolidinium,pyrrolidinium,COCCOCC[N+]1(C)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,7 9 10 11 12,5,,0,13,8,2
+699,cation__pyrrolidinium,pyrrolidinium,COCC[N+]1(CCOC)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,4 9 10 11 12,5,,0,13,8,2
+700,cation__pyrrolidinium,pyrrolidinium,CCOCC[N+]1(CCOC)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,5 10 11 12 13,5,,0,14,9,2
+701,cation__pyrrolidinium,pyrrolidinium,COCCOCC[N+]1(CCOCCOC)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,7 15 16 17 18,5,,0,19,14,2
+702,cation__pyrrolidinium,pyrrolidinium,C[N+]1(CCO)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 5 6 7 8,5,,0,9,4,2
+703,cation__pyrrolidinium,pyrrolidinium,C[N+]1(CCCO)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 6 7 8 9,5,,0,10,5,2
+704,cation__pyrrolidinium,pyrrolidinium,C[N+]1(CC(O)CO)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 7 8 9 10,5,,0,11,6,2
+705,cation__pyrrolidinium,pyrrolidinium,O=C(N1CCCC1)[NH+]1CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,7 8 9 10 11,5,,0,12,7,1
+706,cation__pyrrolidinium,pyrrolidinium,C[N+]1(C[Si](C)(C)O[Si](C)(C)c2ccccc2)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 16 17 18 19,5,,0,20,15,2
+707,cation__pyrrolidinium,pyrrolidinium,C[N+]1(CCCCCCN)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 9 10 11 12,5,,0,13,8,2
+708,cation__pyrrolidinium,pyrrolidinium,C[N+]1(CC#N)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 5 6 7 8,5,,0,9,4,2
+709,cation__pyrrolidinium,pyrrolidinium,C[N+]1(CCCC#N)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 7 8 9 10,5,,0,11,6,2
+710,cation__pyrrolidinium,pyrrolidinium,C[N+]1(CCCC(F)(F)F)CCCC1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,1 9 10 11 12,5,,0,13,8,2
+1174,cation__pyrrolidinium,pyrrolidinium,CCCCCCCCCC[N+]1(C)CCCC1=O,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,10 12 13 14 15,5,,0,17,12,3
+1175,cation__pyrrolidinium,pyrrolidinium,CCCCCCCCCCCC[N+]1(C)CCCC1=O,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,12 14 15 16 17,5,,0,19,14,3
+1176,cation__pyrrolidinium,pyrrolidinium,CCCCCCCCCCCCCC[N+]1(C)CCCC1=O,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,14 16 17 18 19,5,,0,21,16,3
+1177,cation__pyrrolidinium,pyrrolidinium,CCCCCCCCCCCCCCCC[N+]1(C)CCCC1=O,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,16 18 19 20 21,5,,0,23,18,3
+1178,cation__pyrrolidinium,pyrrolidinium,CCCCCCCCCCCCCCCCCC[N+]1(C)CCCC1=O,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,18 20 21 22 23,5,,0,25,20,3
+1199,cation__pyrrolidinium,pyrrolidinium,COC(=O)C1CCC[NH2+]1,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,4 5 6 7 8,5,,0,9,4,1
+434,cation__quinolinium,quinolinium,CCCC[n+]1cccc2ccccc21,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,4 5 6 7 8 9 10 11 12 13,10,,0,14,4,1
+435,cation__quinolinium,quinolinium,CCCCCC[n+]1cccc2ccccc21,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,6 7 8 9 10 11 12 13 14 15,10,,0,16,6,1
+436,cation__quinolinium,quinolinium,CCCC[n+]1ccc2ccccc2c1,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,4 5 6 7 8 9 10 11 12 13,10,,0,14,4,1
+437,cation__quinolinium,quinolinium,CCCCCC[n+]1ccc2ccccc2c1,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,6 7 8 9 10 11 12 13 14 15,10,,0,16,6,1
+438,cation__quinolinium,quinolinium,CCCCCCCC[n+]1ccc2ccccc2c1,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,8 9 10 11 12 13 14 15 16 17,10,,0,18,8,1
+439,cation__quinolinium,quinolinium,CCCCCCCCCCCCCCCCCC[n+]1ccc2ccccc2c1,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,18 19 20 21 22 23 24 25 26 27,10,,0,28,18,1
+440,cation__quinolinium,quinolinium,Cc1cc2cccc[n+]2cc1C,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,1 2 3 4 5 6 7 8 9 10,10,,0,12,2,2
+441,cation__quinolinium,quinolinium,CCc1cc2cccc[n+]2cc1CC,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,2 3 4 5 6 7 8 9 10 11,10,,0,14,4,2
+859,cation__sulfonium,sulfonium,C[S+](C)C,G0,[#6]-[#16+](-[#6])-[#6],0 1 2 3,4,,0,4,0,0
+860,cation__sulfonium,sulfonium,CC[S+](C)C,G0,[#6]-[#16+](-[#6])-[#6],1 2 3 4,4,,0,5,1,1
+861,cation__sulfonium,sulfonium,CC[S+](C)CC,G0,[#6]-[#16+](-[#6])-[#6],1 2 3 4,4,,0,6,2,2
+862,cation__sulfonium,sulfonium,CC[S+](CC)CC,G0,[#6]-[#16+](-[#6])-[#6],1 2 3 5,4,,0,7,3,3
+863,cation__sulfonium,sulfonium,CCC[S+](C)C,G0,[#6]-[#16+](-[#6])-[#6],2 3 4 5,4,,0,6,2,1
+864,cation__sulfonium,sulfonium,CCC[S+](C)CC,G0,[#6]-[#16+](-[#6])-[#6],2 3 4 5,4,,0,7,3,2
+865,cation__sulfonium,sulfonium,CCC[S+](CC)CC,G0,[#6]-[#16+](-[#6])-[#6],2 3 4 6,4,,0,8,4,3
+866,cation__sulfonium,sulfonium,CCCC[S+](C)C,G0,[#6]-[#16+](-[#6])-[#6],3 4 5 6,4,,0,7,3,1
+867,cation__sulfonium,sulfonium,CCCC[S+](C)CC,G0,[#6]-[#16+](-[#6])-[#6],3 4 5 6,4,,0,8,4,2
+868,cation__sulfonium,sulfonium,CCCC[S+](CC)CC,G0,[#6]-[#16+](-[#6])-[#6],3 4 5 7,4,,0,9,5,3
+869,cation__sulfonium,sulfonium,CCCC[S+](CCCC)CCCC,G0,[#6]-[#16+](-[#6])-[#6],3 4 5 9,4,,0,13,9,3
+870,cation__sulfonium,sulfonium,CCCCC[S+](C)C,G0,[#6]-[#16+](-[#6])-[#6],4 5 6 7,4,,0,8,4,1
+871,cation__sulfonium,sulfonium,CCCCC[S+](C)CC,G0,[#6]-[#16+](-[#6])-[#6],4 5 6 7,4,,0,9,5,2
+872,cation__sulfonium,sulfonium,CCCCC[S+](CC)CC,G0,[#6]-[#16+](-[#6])-[#6],4 5 6 8,4,,0,10,6,3
+873,cation__sulfonium,sulfonium,CCCCCC[S+](C)C,G0,[#6]-[#16+](-[#6])-[#6],5 6 7 8,4,,0,9,5,1
+1215,cation__sulfonium,sulfonium,CCC[S+](C)CCC,G0,[#6]-[#16+](-[#6])-[#6],2 3 4 5,4,,0,8,4,2
+1216,cation__sulfonium,sulfonium,CCC[S+](CC)CCC,G0,[#6]-[#16+](-[#6])-[#6],2 3 4 6,4,,0,9,5,3
+1217,cation__sulfonium,sulfonium,CCCC[S+](C)CCCC,G0,[#6]-[#16+](-[#6])-[#6],3 4 5 6,4,,0,10,6,2
+1218,cation__sulfonium,sulfonium,CCCC[S+](CC)CCCC,G0,[#6]-[#16+](-[#6])-[#6],3 4 5 7,4,,0,11,7,3
+1219,cation__sulfonium,sulfonium,C#CC[S+](C)C,G0,[#6]-[#16+](-[#6])-[#6],2 3 4 5,4,,0,6,2,1
+1220,cation__sulfonium,sulfonium,CCOC(=O)C[S+](C)C,G0,[#6]-[#16+](-[#6])-[#6],5 6 7 8,4,,0,9,5,1
+331,cation__thiazolium,thiazolium,CCSc1[nH+]c2ccccc2s1,G0,[#7+]1:[#6]:[#16]:[#6]:[#6]:1,3 4 5 10 11,5,6 7 8 9,4,12,3,1
+1159,cation__thiazolium,thiazolium,CCCC[n+]1cscc1C,G0,[#7+]1:[#6]:[#16]:[#6]:[#6]:1,4 5 6 7 8,5,,0,10,5,2
+1160,cation__thiazolium,thiazolium,Cc1csc[n+]1Cc1ccccc1,G0,[#7+]1:[#6]:[#16]:[#6]:[#6]:1,1 2 3 4 5,5,,0,13,8,2
+1161,cation__thiazolium,thiazolium,Cc1csc[n+]1CCO,G0,[#7+]1:[#6]:[#16]:[#6]:[#6]:1,1 2 3 4 5,5,,0,9,4,2
+1162,cation__thiazolium,thiazolium,CC[n+]1csc(CCO)c1C,G0,[#7+]1:[#6]:[#16]:[#6]:[#6]:1,2 3 4 5 9,5,,0,11,6,3
+1163,cation__thiazolium,thiazolium,Cc1c(CCO)sc[n+]1Cc1ccccc1,G0,[#7+]1:[#6]:[#16]:[#6]:[#6]:1,1 2 6 7 8,5,,0,16,11,3
+1164,cation__thiazolium,thiazolium,CCOC(=O)C[n+]1cscc1C,G0,[#7+]1:[#6]:[#16]:[#6]:[#6]:1,6 7 8 9 10,5,,0,12,7,2
+882,cation__thiouronium,thiouronium,CC[S+]=C(N)N,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],0 1 2 3 4 5,6,,0,6,0,0
+883,cation__thiouronium,thiouronium,CC[S+]=C(NC)NC,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],0 1 2 3 4 6,6,,0,8,2,2
+884,cation__thiouronium,thiouronium,CC[S+]=C(N(C)C)N(C)C,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],0 1 2 3 4 7,6,,0,10,4,4
+885,cation__thiouronium,thiouronium,CCNC(NCC)=[S+]CC,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],2 3 4 7 8 9,6,,0,10,4,2
+886,cation__thiouronium,thiouronium,CCCC[S+]=C(N)N,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],2 3 4 5 6 7,6,,0,8,2,1
+887,cation__thiouronium,thiouronium,CCCC[S+]=C(NC)NC,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],2 3 4 5 6 8,6,,0,10,4,3
+888,cation__thiouronium,thiouronium,CCCC[S+]=C(NCC)NCC,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],2 3 4 5 6 9,6,,0,12,6,3
+889,cation__thiouronium,thiouronium,CCCC[S+]=C(N(C)C)N(C)C,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],2 3 4 5 6 9,6,,0,12,6,5
+890,cation__thiouronium,thiouronium,CCCCCC[S+]=C(N)N,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],4 5 6 7 8 9,6,,0,10,4,1
+891,cation__thiouronium,thiouronium,CCCCCC[S+]=C(NC)NC,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],4 5 6 7 8 10,6,,0,12,6,3
+892,cation__thiouronium,thiouronium,CCCCCC[S+]=C(N(C)C)N(C)C,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],4 5 6 7 8 11,6,,0,14,8,5
+893,cation__thiouronium,thiouronium,CCCCCC[S+]=C(NCC)NCC,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],4 5 6 7 8 11,6,,0,14,8,3
+894,cation__thiouronium,thiouronium,CCCCCCCC[S+]=C(NC)NC,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],6 7 8 9 10 12,6,,0,14,8,3
+895,cation__thiouronium,thiouronium,CCCCCCCC[S+]=C(NCC)NCC,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],6 7 8 9 10 13,6,,0,16,10,3
+896,cation__thiouronium,thiouronium,CCCCCCCC[S+]=C(N(C)C)N(C)C,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],6 7 8 9 10 13,6,,0,16,10,5
+1221,cation__thiouronium,thiouronium,CCCCCCCC[S+]=C(N)N,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],6 7 8 9 10 11,6,,0,12,6,1
+301,cation__triazolium,triazolium,CCCCn1cc[n+](C)n1,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],3 4 5 6 7 8 9,7,,0,10,3,1
+302,cation__triazolium,triazolium,CCCCCCn1cc[n+](C)n1,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],5 6 7 8 9 10 11,7,,0,12,5,1
+303,cation__triazolium,triazolium,CCCCCCCCn1cc[n+](C)n1,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],7 8 9 10 11 12 13,7,,0,14,7,1
+304,cation__triazolium,triazolium,CCCCCCCCCCn1cc[n+](C)n1,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],9 10 11 12 13 14 15,7,,0,16,9,1
+305,cation__triazolium,triazolium,CCCCCCCCCCCCn1cc[n+](C)n1,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],11 12 13 14 15 16 17,7,,0,18,11,1
+306,cation__triazolium,triazolium,CCCc1cn(CCC)n[n+]1CCC,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],3 4 5 6 9 10 11,7,,0,14,7,3
+307,cation__triazolium,triazolium,CCCn1cc(C(C)C)[n+](CCC)n1,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],2 3 4 5 9 10 13,7,,0,14,7,3
+308,cation__triazolium,triazolium,CCC[n+]1nn(C(C)C)cc1C(C)C,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],2 3 4 5 6 9 10,7,,0,14,7,4
+309,cation__triazolium,triazolium,CC(C)c1cn(C(C)C)n[n+]1C(C)C,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],3 4 5 6 9 10 11,7,,0,14,7,5
+310,cation__triazolium,triazolium,CCCCCCn1cc(CCC)[n+](C)n1,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],5 6 7 8 12 13 14,7,,0,15,8,2
+311,cation__triazolium,triazolium,CCCc1cn(Cc2ccccc2)n[n+]1C,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],3 4 5 6 13 14 15,7,,0,16,9,2
+312,cation__triazolium,triazolium,C[n+]1nn(Cc2ccccc2)cc1-c1ccccc1,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],0 1 2 3 4 11 12,7,,0,19,12,2
+313,cation__triazolium,triazolium,CCCCCCn1cc(-c2ccccc2)[n+](C)n1,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],5 6 7 8 15 16 17,7,,0,18,11,2
+314,cation__triazolium,triazolium,CCCCCCCCn1cc(-c2ccccc2)[n+](C)n1,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],7 8 9 10 17 18 19,7,,0,20,13,2
+315,cation__triazolium,triazolium,CCCCCCc1cn(-c2ccccc2)n[n+]1C,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],6 7 8 9 15 16 17,7,10 11 12 13 14,5,18,6,1
+316,cation__triazolium,triazolium,CCCc1cn(CCOCCOCCOC)n[n+]1C,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],3 4 5 6 16 17 18,7,,0,19,12,2
+317,cation__triazolium,triazolium,COCCOCCOCCn1cc(-c2ccccc2)[n+](C)n1,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],9 10 11 12 19 20 21,7,,0,22,15,2
+318,cation__triazolium,triazolium,CCCc1cn(C[Si](C)(C)C)n[n+]1C,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],3 4 5 6 11 12 13,7,,0,14,7,2
+319,cation__triazolium,triazolium,C[n+]1nn(C[Si](C)(C)C)cc1-c1ccccc1,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],0 1 2 3 4 9 10,7,,0,17,10,2
+320,cation__triazolium,triazolium,CCCCn1c[n+](C)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 8 9,6,,0,10,4,2
+321,cation__triazolium,triazolium,CCCCCn1c[n+](CCCCS(=O)(=O)O)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 16 17,6,,0,18,12,2
+322,cation__triazolium,triazolium,Cn1c[n+](N)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,0 1 2 3 5 6,6,,0,7,1,1
+323,cation__triazolium,triazolium,CCCCCCCn1c[n+](CCF)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 13 14,6,,0,15,9,2
+324,cation__triazolium,triazolium,CCCCCCCCCCn1c[n+](CCF)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 16 17,6,,0,18,12,2
+325,cation__triazolium,triazolium,Cn1c[n+](CCC(F)(F)F)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,0 1 2 3 10 11,6,,0,12,6,1
+326,cation__triazolium,triazolium,CCCn1c[n+](CCC(F)(F)F)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 12 13,6,,0,14,8,2
+327,cation__triazolium,triazolium,CCCCn1c[n+](CCC(F)(F)F)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 13 14,6,,0,15,9,2
+328,cation__triazolium,triazolium,CCCCCCCn1c[n+](CCC(F)(F)F)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 16 17,6,,0,18,12,2
+329,cation__triazolium,triazolium,CCCCCCCCCCn1c[n+](CCC(F)(F)F)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 19 20,6,,0,21,15,2
+1152,cation__triazolium,triazolium,CCn1c[n+](C)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 6 7,6,,0,8,2,2
+1153,cation__triazolium,triazolium,CCCn1c[n+](C)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 7 8,6,,0,9,3,2
+1154,cation__triazolium,triazolium,CCCCCCn1c[n+](C)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 10 11,6,,0,12,6,2
+1155,cation__triazolium,triazolium,CCCCCCCCn1c[n+](C)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 12 13,6,,0,14,8,2
+1156,cation__triazolium,triazolium,CCCCCCCCCCn1c[n+](C)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 14 15,6,,0,16,10,2
+1157,cation__triazolium,triazolium,CCCCCCCCCCCCn1c[n+](C)cn1,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 14 16 17,6,,0,18,12,2

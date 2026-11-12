@@ -1,0 +1,281 @@
+{
+  "facts": {
+    "atom_environments_creatable": {
+      "file": "01_inputs/observed_atom_environments.csv",
+      "rule": "rows whose creatable flag is 1",
+      "value": 27
+    },
+    "atom_environments_observed": {
+      "file": "01_inputs/observed_atom_environments.csv",
+      "rule": "every row of the file, one per environment the inventory displays",
+      "value": 57
+    },
+    "atoms_an_edit_touched_or_built": {
+      "file": "05_single_edits/valence_ledger.csv",
+      "rule": "every row of the file, one per atom an edit touched or built",
+      "value": 614137
+    },
+    "atoms_kept_as_they_were_and_merely_touched": {
+      "file": "05_single_edits/valence_ledger.csv",
+      "rule": "rows whose role is retained and touched: the edit changed what their bonds spend and nothing else about them",
+      "value": 483639
+    },
+    "body_atoms_held_in_a_ring_the_core_covers_in_part": {
+      "file": "04_fragments/ring_shared_atoms.csv",
+      "rule": "the sum of ring_shared_count over the file",
+      "value": 130
+    },
+    "bond_environments_observed": {
+      "file": "01_inputs/observed_bond_environments.csv",
+      "rule": "every row of the file, one per bonded pair the inventory displays",
+      "value": 71
+    },
+    "component_instances": {
+      "file": "04_fragments/component_instances.csv",
+      "rule": "every row of the file, one per body component of one ion",
+      "value": 2845
+    },
+    "core_candidates_considered": {
+      "file": "03_cores/core_candidate_diagnostics.csv",
+      "rule": "every row of the file",
+      "value": 502
+    },
+    "core_selection_decisions_recorded": {
+      "file": "03_cores/core_selection_decisions.csv",
+      "rule": "every row of the file, one per decision point per accepted core",
+      "value": 1354
+    },
+    "cores_accepted": {
+      "file": "03_cores/family_core_models.csv",
+      "rule": "every row of the file, one per accepted core",
+      "value": 44
+    },
+    "cores_supported_by_the_fewest_members_allowed": {
+      "file": "03_cores/core_support_distribution.csv",
+      "rule": "the cores count on the row whose support is the floor in force",
+      "value": 6
+    },
+    "definitions_accepted": {
+      "file": "05_single_edits/operator_definition_space.csv",
+      "rule": "the sum of accepted over the file",
+      "value": 4684120
+    },
+    "definitions_offered": {
+      "file": "05_single_edits/operator_definition_space.csv",
+      "rule": "the sum of offered over the file",
+      "value": 6383397
+    },
+    "definitions_refused_by_the_terminal_halogen_restriction": {
+      "file": "05_single_edits/operator_definition_space.csv",
+      "rule": "the sum of terminal_halogen over the file",
+      "value": 0
+    },
+    "definitions_refused_for_being_above_the_lowest_valence_with_hydrogen": {
+      "file": "05_single_edits/operator_definition_space.csv",
+      "rule": "the sum of above_lowest_valence_with_hydrogen over the file",
+      "value": 69
+    },
+    "definitions_surviving_the_atom_environment_condition": {
+      "file": "05_single_edits/operator_definition_space.csv",
+      "rule": "the sum of surviving_after_atom_environment over the file",
+      "value": 4787489
+    },
+    "definitions_surviving_the_bond_environment_condition": {
+      "file": "05_single_edits/operator_definition_space.csv",
+      "rule": "the sum of surviving_after_bond_environment over the file",
+      "value": 4684189
+    },
+    "definitions_surviving_the_valence_ledger": {
+      "file": "05_single_edits/operator_definition_space.csv",
+      "rule": "the sum of surviving_after_ledger over the file",
+      "value": 4910239
+    },
+    "distinct_products_at_the_reported_allowance": {
+      "file": "05_single_edits/examination_records.csv",
+      "rule": "distinct product_smiles among certified rows at order_index at most 50",
+      "value": 193892
+    },
+    "elements_an_edit_may_place": {
+      "file": "01_inputs/observed_atom_environments.csv",
+      "rule": "distinct element among the creatable rows",
+      "value": 10
+    },
+    "entries_excluded_as_duplicates": {
+      "file": "02_curation/curation_audit.csv",
+      "rule": "rows whose status is excluded_duplicate_in_family",
+      "value": 986
+    },
+    "entries_excluded_on_declared_charge": {
+      "file": "02_curation/curation_audit.csv",
+      "rule": "rows whose status is excluded_declared_charge_not_required",
+      "value": 108
+    },
+    "entries_excluded_out_of_scope": {
+      "file": "02_curation/curation_audit.csv",
+      "rule": "rows whose status is excluded_out_of_scope",
+      "value": 65
+    },
+    "examinations": {
+      "file": "05_single_edits/examination_records.csv",
+      "rule": "every row of the file",
+      "value": 476056
+    },
+    "examinations_at_the_reported_allowance": {
+      "file": "05_single_edits/examination_records.csv",
+      "rule": "rows whose order_index is at most 50",
+      "value": 268891
+    },
+    "families_a_floor_of_three_would_leave_without_any_core": {
+      "file": "03_cores/support_floor_cost.csv",
+      "rule": "the families_left_with_no_core_at_all on the floor-of-three row",
+      "value": 3
+    },
+    "families_retained": {
+      "file": "02_curation/curation_audit.csv",
+      "rule": "distinct family_id among the retained rows",
+      "value": 38
+    },
+    "families_with_more_than_one_core": {
+      "file": "03_cores/family_core_coverage.csv",
+      "rule": "rows whose core count exceeds one",
+      "value": 7
+    },
+    "ions_a_core_reached": {
+      "file": "03_cores/source_core_assignments.csv",
+      "rule": "every row of the file, one per ion a core matched",
+      "value": 1222
+    },
+    "ions_holding_a_ring_the_core_covers_in_part": {
+      "file": "04_fragments/ring_shared_atoms.csv",
+      "rule": "every row of the file",
+      "value": 28
+    },
+    "ions_with_a_core_and_no_site_for_any_operator": {
+      "file": "03_cores/ions_without_an_editable_site.csv",
+      "rule": "every row of the file",
+      "value": 0
+    },
+    "ions_without_a_core": {
+      "file": "03_cores/ions_without_a_core.csv",
+      "rule": "every row of the file",
+      "value": 19
+    },
+    "judge_disagreements_with_certification": {
+      "file": "05_single_edits/examination_records.csv",
+      "rule": "rows whose judge_agrees_with_certification flag is 0",
+      "value": 0
+    },
+    "largest_library_component_heavy_atoms": {
+      "file": "04_fragments/component_library.csv",
+      "rule": "the largest heavy_atoms in the file",
+      "value": 30
+    },
+    "library_components": {
+      "file": "04_fragments/component_library.csv",
+      "rule": "every row of the file",
+      "value": 255
+    },
+    "library_components_attached_at_more_than_one_point": {
+      "file": "04_fragments/component_library.csv",
+      "rule": "rows whose attachment_count exceeds one",
+      "value": 0
+    },
+    "library_components_of_one_heavy_atom": {
+      "file": "04_fragments/component_library.csv",
+      "rule": "rows whose heavy_atoms is one",
+      "value": 11
+    },
+    "median_similarity_between_a_product_and_the_ion_it_came_from": {
+      "file": "05_single_edits/examination_records.csv",
+      "rule": "the median of similarity_to_parent over certified rows, unrounded",
+      "value": 0.514286
+    },
+    "of_those_the_number_whose_total_valence_was_conserved": {
+      "file": "05_single_edits/valence_ledger.csv",
+      "rule": "retained and touched rows whose total valence before equals total valence after. The ledger is one subtraction and it requires this of every one of them, so any shortfall is a defect and not a result",
+      "value": 483639
+    },
+    "perception_check_mismatches": {
+      "file": "09_validation/perception_check.csv",
+      "rule": "rows whose agrees flag is 0, which must be none",
+      "value": 0
+    },
+    "products_certified_at_the_reported_allowance": {
+      "file": "05_single_edits/examination_records.csv",
+      "rule": "rows whose order_index is at most 50 and whose certified flag is 1",
+      "value": 268891
+    },
+    "products_identical_to_the_parent": {
+      "file": "05_single_edits/examination_records.csv",
+      "rule": "rows whose identical_to_parent flag is 1",
+      "value": 0
+    },
+    "products_refused_by_certification": {
+      "file": "05_single_edits/refusal_records.csv",
+      "rule": "every row of the file, which is expected to be empty",
+      "value": 0
+    },
+    "retained_ions": {
+      "file": "02_curation/curation_audit.csv",
+      "rule": "rows whose status is retained",
+      "value": 1241
+    },
+    "ring_environments_observed": {
+      "file": "01_inputs/observed_ring_environments.csv",
+      "rule": "every row of the file, one per (bond order, ring size) pair",
+      "value": 11
+    },
+    "rings_traced_to_their_source": {
+      "file": "09_validation/perception_check.csv",
+      "rule": "every row of the file",
+      "value": 398094
+    },
+    "sequential_candidates_recorded": {
+      "file": "07_sequential/trajectory_candidates.csv",
+      "rule": "every row of the file",
+      "value": 79080
+    },
+    "sequential_roots": {
+      "file": "07_sequential/root_selection.csv",
+      "rule": "every row of the file, one per core",
+      "value": 44
+    },
+    "sequential_rounds_recorded": {
+      "file": "07_sequential/trajectory_steps.csv",
+      "rule": "every row of the file",
+      "value": 1584
+    },
+    "signature_collisions": {
+      "file": "09_validation/signature_collisions.csv",
+      "rule": "every row of the file, which must be empty",
+      "value": 0
+    },
+    "source_entries_read": {
+      "file": "02_curation/curation_audit.csv",
+      "rule": "every row of the file, one per source entry",
+      "value": 2431
+    },
+    "string_control_attempts": {
+      "file": "06_string_controls/string_control_records.csv",
+      "rule": "every row of the file",
+      "value": 300007
+    },
+    "string_control_products_accepted": {
+      "file": "06_string_controls/string_control_records.csv",
+      "rule": "rows whose accepted flag is 1",
+      "value": 83783
+    },
+    "terminal_fragments_at_two_or_more_heavy_atoms": {
+      "file": "04_fragments/terminal_fragments.csv",
+      "rule": "every row of the file",
+      "value": 247
+    },
+    "terminal_fragments_that_are_not_library_components": {
+      "file": "04_fragments/terminal_fragments.csv",
+      "rule": "rows whose is_itself_a_library_component flag is 0",
+      "value": 141
+    }
+  },
+  "files_missing": [],
+  "note": "Every value above was computed by reading the file named beside it. The paper quotes this table and nothing else."
+}

@@ -1,0 +1,124 @@
+{
+  "source_notebook": "IonWeaver code.ipynb",
+  "source_notebook_sha256": "8188b1a0dcead8b069ba9188ec17f91246df98f595c0216d48fdfd2dee905350",
+  "vendored_utc": "2026-11-10T15:57:01Z",
+  "pins": {
+    "RDKIT_VERSION": "2026.03.6",
+    "SELFIES_VERSION": "2.2.0",
+    "SEED": "20261005",
+    "ALLOWANCE": "100",
+    "SEQUENTIAL_ALLOWANCE": "50"
+  },
+  "module_order": [
+    "common",
+    "inputs",
+    "curation",
+    "registry",
+    "cores",
+    "discovery",
+    "fragments",
+    "ledger",
+    "operators",
+    "build",
+    "perception",
+    "single",
+    "strings",
+    "sequential",
+    "archive",
+    "examples",
+    "diversity",
+    "facts"
+  ],
+  "modules": {
+    "common": {
+      "file": "common.py",
+      "sha256": "4bf39b6601a55cc15ee3f729086ff706b6b7baac2c3264ff4c4bbc54f3059660",
+      "lines": 333
+    },
+    "inputs": {
+      "file": "inputs.py",
+      "sha256": "ac707d58dfb59f40d58930e6fa4d1f72d02f2c59fd81531dfe4c82b6c14c0a53",
+      "lines": 132
+    },
+    "curation": {
+      "file": "curation.py",
+      "sha256": "35bb9d60fa04b42083a421aba878940962e72413481f5e9bdbbd241d23c280bc",
+      "lines": 186
+    },
+    "registry": {
+      "file": "registry.py",
+      "sha256": "ae13fd3fffd8b8fe29d28f7243d19dcbd334b4c7d513b562c974371304d839fc",
+      "lines": 183
+    },
+    "cores": {
+      "file": "cores.py",
+      "sha256": "14ee52af7d5a7f97acae5646e2fff9d0ca076d5b27d8852449b37441366ff115",
+      "lines": 373
+    },
+    "discovery": {
+      "file": "discovery.py",
+      "sha256": "2845978b8f79532bb34f50f682482605f0db264e377f6c74a7fdc560e2274074",
+      "lines": 203
+    },
+    "fragments": {
+      "file": "fragments.py",
+      "sha256": "82a155e9ebd2bec6aa6d8e94f9f546be9de2afc3f881ea1e165b4917a04473ac",
+      "lines": 591
+    },
+    "ledger": {
+      "file": "ledger.py",
+      "sha256": "f239f6b08cc497ae524cae115ec81518676e14245d399716307418e007b70c7d",
+      "lines": 198
+    },
+    "operators": {
+      "file": "operators.py",
+      "sha256": "0592c5ff96727d6fc2356a54ec0b1a55ec165d30ffb79e22c911ad76ad16d134",
+      "lines": 845
+    },
+    "build": {
+      "file": "build.py",
+      "sha256": "7f8ad562f21eba3cc3a432d4b58fd29d9ffee252be47f7b3905df24b725672f1",
+      "lines": 360
+    },
+    "perception": {
+      "file": "perception.py",
+      "sha256": "d4024e48ec03601c22095b86a59247db95d47797b24b0af7ed7814ed9cdad683",
+      "lines": 176
+    },
+    "single": {
+      "file": "single.py",
+      "sha256": "aaaa0b65b8ae047b380c64a6fb9da98d461a36e48e5f73350b9eec82b5c317bf",
+      "lines": 353
+    },
+    "strings": {
+      "file": "strings.py",
+      "sha256": "f9b5a5b3236c9392ce72d3f50d17b8b3827cc0f45da2f6af349ade5b28f1f9ca",
+      "lines": 256
+    },
+    "sequential": {
+      "file": "sequential.py",
+      "sha256": "c8770038c8eafd4d9b90831ba684dc54fb0b1f56aa56fd70fcc65ee19fbfd753",
+      "lines": 232
+    },
+    "archive": {
+      "file": "archive.py",
+      "sha256": "efe4a56c50c58e9351219bf5c4f0e1675e30642aaddf1d8f995ff29943a67c32",
+      "lines": 300
+    },
+    "examples": {
+      "file": "examples.py",
+      "sha256": "1456acd045e4976887b402eb969c6d4a33c43c507311376f8ba8a9c8985f7006",
+      "lines": 268
+    },
+    "diversity": {
+      "file": "diversity.py",
+      "sha256": "f94b989849538a361123fc62046ffc6b59e4beba6cdd4e51b4f4dd3556002fe3",
+      "lines": 204
+    },
+    "facts": {
+      "file": "facts.py",
+      "sha256": "429e3ef399a83e95528d1ef7d3f2a9b599f851adca9444b39e630c0960aeb33d",
+      "lines": 328
+    }
+  }
+}

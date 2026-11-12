@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- A protected core (blue ring) with the body it carries (lavender), and one
+       added atom (amber). The same roles the figures use, nothing else. -->
+  <circle cx="16" cy="15" r="7.4" fill="none" stroke="#2F6DB5" stroke-width="2.6"/>
+  <circle cx="16" cy="15" r="2.5" fill="#2F6DB5"/>
+  <path d="M22.4 19.2 L27 23" stroke="#7B2FA0" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M9.6 19.2 L5 23" stroke="#7B2FA0" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="27.4" cy="23.6" r="3" fill="#D9781E"/>
+  <circle cx="4.6" cy="23.6" r="2.4" fill="#C9B6DE"/>
+</svg>

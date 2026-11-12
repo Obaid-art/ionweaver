@@ -1,0 +1,1223 @@
+inventory_id,family_id,grammar_id,pattern,matched_atoms,usable_matches_available,match_chosen_by_key
+1088,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 5 6,1,only_one_option
+1089,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,7 6 5 4 3 2 1,1,only_one_option
+1090,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,6 5 4 3 2 1 7,1,only_one_option
+1091,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,5 4 3 2 1 7 6,1,only_one_option
+1092,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,7 6 5 4 3 9 8,1,only_one_option
+1093,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,8 7 6 5 4 10 9,1,only_one_option
+1094,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,5 4 3 2 1 8 6,1,only_one_option
+1095,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,8 7 5 4 3 2 1,1,only_one_option
+1096,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 9 10,1,only_one_option
+1097,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,7 6 5 4 3 2 8,1,only_one_option
+1098,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,6 5 4 3 2 8 7,1,only_one_option
+1099,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 5 6,1,only_one_option
+1100,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 5 7,1,only_one_option
+1101,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 6 7,1,only_one_option
+1102,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 6 7,1,only_one_option
+1103,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 4 5 7 8,1,only_one_option
+1104,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 5 6,1,only_one_option
+1105,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 5 7,1,only_one_option
+1106,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 6 7,1,only_one_option
+1240,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 5 10,1,only_one_option
+1241,anion__alcoholates,G0,[#8-]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 9 10,1,only_one_option
+1062,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],1 2 3 4,1,only_one_option
+1063,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],1 3 4 5,1,only_one_option
+1064,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],2 3 4 5,1,only_one_option
+1065,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],1 3 4 5,1,only_one_option
+1066,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],3 5 6 7,1,only_one_option
+1067,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],3 4 5 6,1,only_one_option
+1068,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],1 4 5 6,1,only_one_option
+1069,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],5 7 8 9,1,only_one_option
+1070,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],3 1 0 2,1,only_one_option
+1071,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],3 5 6 7,1,only_one_option
+1072,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],1 4 5 6,1,only_one_option
+1073,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],4 6 7 8,1,only_one_option
+1074,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],7 9 10 11,1,only_one_option
+1075,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],2 3 4 5,1,only_one_option
+1076,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],1 6 7 8,1,only_one_option
+1077,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],5 7 8 9,1,only_one_option
+1078,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],1 8 9 10,1,only_one_option
+1079,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],4 6 7 8,1,only_one_option
+1080,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],4 6 7 8,1,only_one_option
+1081,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],1 9 10 11,1,only_one_option
+1082,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],1 12 13 14,1,only_one_option
+1083,anion__aminoacids,G0,[#6]-[#6](=[#8])-[#8-],1 10 11 12,1,only_one_option
+928,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],0 1 2,6,atom_index_order
+929,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],2 1 3,3,atom_index_order
+930,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],3 2 4,3,atom_index_order
+931,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],4 3 5,3,atom_index_order
+932,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],5 4 6,3,atom_index_order
+933,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],6 5 7,3,atom_index_order
+934,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],3 2 4,3,atom_index_order
+935,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],0 1 2,3,atom_index_order
+936,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],0 1 2,3,atom_index_order
+937,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],0 1 2,3,atom_index_order
+938,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],0 1 2,3,atom_index_order
+939,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],0 1 2,3,atom_index_order
+940,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],0 1 2,3,atom_index_order
+941,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],9 8 10,3,atom_index_order
+942,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],8 7 9,3,atom_index_order
+943,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],7 6 8,3,atom_index_order
+944,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],8 7 9,3,atom_index_order
+945,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],7 6 8,3,atom_index_order
+946,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],0 1 2,3,atom_index_order
+947,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],0 1 2,3,atom_index_order
+948,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],8 7 9,3,atom_index_order
+949,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],7 6 8,3,atom_index_order
+950,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],6 5 7,3,atom_index_order
+957,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],3 2 4,1,only_one_option
+958,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],3 2 4,3,atom_index_order
+961,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],3 2 4,1,only_one_option
+962,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],3 2 4,1,only_one_option
+963,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],3 2 4,1,only_one_option
+964,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],3 2 4,1,only_one_option
+1230,anion__bf4_derivatives,G0,[#9]-[#5-]-[#9],6 5 7,3,atom_index_order
+955,anion__bf4_derivatives,G1,[#7]#[#6]-[#5-](-[#6]#[#7])-[#6],0 1 2 3 4 5,12,atom_index_order
+956,anion__bf4_derivatives,G1,[#7]#[#6]-[#5-](-[#6]#[#7])-[#6],0 1 2 4 5 6,3,atom_index_order
+959,anion__bf4_derivatives,G1,[#7]#[#6]-[#5-](-[#6]#[#7])-[#6],0 1 2 3 4 5,6,atom_index_order
+960,anion__bf4_derivatives,G1,[#7]#[#6]-[#5-](-[#6]#[#7])-[#6],0 1 2 3 4 5,6,atom_index_order
+965,anion__bf4_derivatives,G1,[#7]#[#6]-[#5-](-[#6]#[#7])-[#6],0 1 2 4 5 6,1,only_one_option
+966,anion__bf4_derivatives,G1,[#7]#[#6]-[#5-](-[#6]#[#7])-[#6],0 1 2 4 5 6,1,only_one_option
+1025,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1026,anion__carboxylates,G0,[#8]=[#6]-[#8-],2 1 3,1,only_one_option
+1027,anion__carboxylates,G0,[#8]=[#6]-[#8-],3 2 4,1,only_one_option
+1028,anion__carboxylates,G0,[#8]=[#6]-[#8-],4 3 5,1,only_one_option
+1029,anion__carboxylates,G0,[#8]=[#6]-[#8-],4 3 5,1,only_one_option
+1030,anion__carboxylates,G0,[#8]=[#6]-[#8-],5 4 6,1,only_one_option
+1031,anion__carboxylates,G0,[#8]=[#6]-[#8-],6 5 7,1,only_one_option
+1032,anion__carboxylates,G0,[#8]=[#6]-[#8-],7 6 8,1,only_one_option
+1033,anion__carboxylates,G0,[#8]=[#6]-[#8-],8 7 9,1,only_one_option
+1034,anion__carboxylates,G0,[#8]=[#6]-[#8-],9 8 10,1,only_one_option
+1035,anion__carboxylates,G0,[#8]=[#6]-[#8-],10 9 11,1,only_one_option
+1036,anion__carboxylates,G0,[#8]=[#6]-[#8-],16 15 17,1,only_one_option
+1037,anion__carboxylates,G0,[#8]=[#6]-[#8-],18 17 19,1,only_one_option
+1038,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1039,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1040,anion__carboxylates,G0,[#8]=[#6]-[#8-],4 3 5,1,only_one_option
+1041,anion__carboxylates,G0,[#8]=[#6]-[#8-],7 6 8,1,only_one_option
+1042,anion__carboxylates,G0,[#8]=[#6]-[#8-],10 9 11,1,only_one_option
+1043,anion__carboxylates,G0,[#8]=[#6]-[#8-],4 3 5,1,only_one_option
+1044,anion__carboxylates,G0,[#8]=[#6]-[#8-],5 4 6,1,only_one_option
+1045,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1046,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1047,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1048,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1049,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1050,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1051,anion__carboxylates,G0,[#8]=[#6]-[#8-],9 8 10,1,only_one_option
+1052,anion__carboxylates,G0,[#8]=[#6]-[#8-],9 8 10,1,only_one_option
+1053,anion__carboxylates,G0,[#8]=[#6]-[#8-],11 10 12,1,only_one_option
+1054,anion__carboxylates,G0,[#8]=[#6]-[#8-],12 11 13,1,only_one_option
+1055,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1057,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1058,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1059,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1060,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1061,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1085,anion__carboxylates,G0,[#8]=[#6]-[#8-],0 1 2,1,only_one_option
+1239,anion__carboxylates,G0,[#8]=[#6]-[#8-],5 4 6,1,only_one_option
+1107,anion__heterocyclic_amines,G0,[#6]1:[#7]:[#6]:[#7-]:[#6]:1,0 4 3 2 1,1,only_one_option
+1110,anion__heterocyclic_amines,G0,[#6]1:[#7]:[#6]:[#7-]:[#6]:1,2 3 4 9 10,1,only_one_option
+1115,anion__heterocyclic_amines,G0,[#6]1:[#7]:[#6]:[#7-]:[#6]:1,7 6 5 4 3,1,only_one_option
+1116,anion__heterocyclic_amines,G0,[#6]1:[#7]:[#6]:[#7-]:[#6]:1,8 7 6 5 4,1,only_one_option
+1117,anion__heterocyclic_amines,G0,[#6]1:[#7]:[#6]:[#7-]:[#6]:1,4 3 2 10 9,1,only_one_option
+1120,anion__heterocyclic_amines,G0,[#6]1:[#7]:[#6]:[#7-]:[#6]:1,1 2 3 4 5,1,only_one_option
+1121,anion__heterocyclic_amines,G0,[#6]1:[#7]:[#6]:[#7-]:[#6]:1,2 3 4 5 6,1,only_one_option
+1112,anion__heterocyclic_amines,G1,[#6]1:[#6]:[#6]:[#7]:[#7-]:1,4 5 6 7 8,1,only_one_option
+1113,anion__heterocyclic_amines,G1,[#6]1:[#6]:[#6]:[#7]:[#7-]:1,3 2 1 9 8,1,only_one_option
+1114,anion__heterocyclic_amines,G1,[#6]1:[#6]:[#6]:[#7]:[#7-]:1,3 7 6 5 4,1,only_one_option
+927,anion__methanides,G0,[#7]#[#6]-[#6-](-[#6]#[#7])-[#6],0 1 2 3 4 5,3,atom_index_order
+1226,anion__methanides,G0,[#7]#[#6]-[#6-](-[#6]#[#7])-[#6],8 7 6 9 10 5,1,only_one_option
+1227,anion__methanides,G0,[#7]#[#6]-[#6-](-[#6]#[#7])-[#6],9 8 7 10 11 1,1,only_one_option
+1228,anion__methanides,G0,[#7]#[#6]-[#6-](-[#6]#[#7])-[#6],10 9 8 11 12 2,1,only_one_option
+1229,anion__methanides,G0,[#7]#[#6]-[#6-](-[#6]#[#7])-[#6],11 10 9 12 13 3,1,only_one_option
+916,anion__ntf2_derivatives,G0,[#8]=[#16](=[#8])-[#7-],2 1 3 4,2,atom_index_order
+917,anion__ntf2_derivatives,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 4,2,atom_index_order
+918,anion__ntf2_derivatives,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 4,2,atom_index_order
+919,anion__ntf2_derivatives,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 3,2,atom_index_order
+920,anion__ntf2_derivatives,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 3,2,atom_index_order
+921,anion__ntf2_derivatives,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 3,2,atom_index_order
+922,anion__ntf2_derivatives,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 3,2,atom_index_order
+923,anion__ntf2_derivatives,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 3,2,atom_index_order
+925,anion__ntf2_derivatives,G0,[#8]=[#16](=[#8])-[#7-],4 3 5 2,1,only_one_option
+1224,anion__ntf2_derivatives,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 3,2,atom_index_order
+1225,anion__ntf2_derivatives,G0,[#8]=[#16](=[#8])-[#7-],0 1 2 4,2,atom_index_order
+951,anion__organic_borates,G0,[#8]=[#6]1-[#8]-[#5-]-[#8]-[#6]-1,0 1 2 3 15 16,2,atom_index_order
+953,anion__organic_borates,G0,[#8]=[#6]1-[#8]-[#5-]-[#8]-[#6]-1,0 1 2 3 4 5,4,atom_index_order
+1231,anion__organic_borates,G0,[#8]=[#6]1-[#8]-[#5-]-[#8]-[#6]-1,0 1 2 3 6 7,2,atom_index_order
+967,anion__organic_borates,G1,[#6]1:[#6]:[#6]:[#6](:[#6]:[#6]:1)-[#5-](-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1)(-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1)-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,15 10 9 8 21 16 7 6 5 4 56 51 50 22 23 24 29 30 35 36 37 38 43 44 49,1,only_one_option
+968,anion__organic_borates,G1,[#6]1:[#6]:[#6]:[#6](:[#6]:[#6]:1)-[#5-](-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1)(-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1)-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,1 2 4 6 41 43 7 8 9 11 13 15 17 19 20 22 24 26 28 30 31 33 35 37 39,1,only_one_option
+952,anion__organic_borates,G2,"[#8&!R]=&!@[#6]1-&@[#6]-,:;@[#6]-&@[#8]-&@[#5]2(-&@[#8]-&@1)-&@[#8]-&@[#6]-,:;@[#6]-&@[#6](-&@[#8]-&@2)=&!@[#8&!R]",0 1 2 3 5 6 7 8 9 11 12 14 13,4,atom_index_order
+954,anion__organic_borates,G2,"[#8&!R]=&!@[#6]1-&@[#6]-,:;@[#6]-&@[#8]-&@[#5]2(-&@[#8]-&@1)-&@[#8]-&@[#6]-,:;@[#6]-&@[#6](-&@[#8]-&@2)=&!@[#8&!R]",0 1 20 15 14 3 2 13 12 7 5 4 6,1,only_one_option
+969,anion__pf6_derivatives,G0,[#9]-[#15-](-[#9])-[#9],0 1 2 3,20,atom_index_order
+970,anion__pf6_derivatives,G0,[#9]-[#15-](-[#9])-[#9],8 7 9 10,1,only_one_option
+971,anion__pf6_derivatives,G0,[#9]-[#15-](-[#9])-[#9],11 10 12 13,1,only_one_option
+972,anion__pf6_derivatives,G0,[#9]-[#15-](-[#9])-[#9],14 13 15 16,1,only_one_option
+1002,anion__phosphates,G0,[#8]=[#15]-[#8-],0 1 2,1,only_one_option
+1003,anion__phosphates,G0,[#8]=[#15]-[#8-],0 1 2,1,only_one_option
+1004,anion__phosphates,G0,[#8]=[#15]-[#8-],3 2 4,1,only_one_option
+1005,anion__phosphates,G0,[#8]=[#15]-[#8-],4 3 5,1,only_one_option
+1006,anion__phosphates,G0,[#8]=[#15]-[#8-],6 5 7,1,only_one_option
+1007,anion__phosphates,G0,[#8]=[#15]-[#8-],10 9 11,1,only_one_option
+1008,anion__phosphates,G0,[#8]=[#15]-[#8-],2 1 3,1,only_one_option
+1009,anion__phosphates,G0,[#8]=[#15]-[#8-],3 2 4,1,only_one_option
+1010,anion__phosphates,G0,[#8]=[#15]-[#8-],4 3 5,1,only_one_option
+1011,anion__phosphates,G0,[#8]=[#15]-[#8-],6 5 7,1,only_one_option
+1012,anion__phosphates,G0,[#8]=[#15]-[#8-],8 7 9,1,only_one_option
+1013,anion__phosphates,G0,[#8]=[#15]-[#8-],10 9 11,1,only_one_option
+1014,anion__phosphates,G0,[#8]=[#15]-[#8-],9 8 10,1,only_one_option
+1015,anion__phosphates,G0,[#8]=[#15]-[#8-],0 1 2,1,only_one_option
+990,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],0 1 2 3 4,1,only_one_option
+992,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],3 2 4 5 1,1,only_one_option
+993,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],4 3 5 6 2,1,only_one_option
+994,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],6 5 7 8 4,1,only_one_option
+995,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],8 7 9 10 6,1,only_one_option
+996,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],10 9 11 12 8,1,only_one_option
+997,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],14 13 15 16 12,1,only_one_option
+998,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],6 5 7 8 4,1,only_one_option
+999,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],7 6 8 9 5,1,only_one_option
+1000,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],9 8 10 11 7,1,only_one_option
+1001,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],10 9 11 12 8,1,only_one_option
+1233,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],7 6 8 9 5,1,only_one_option
+1234,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],0 1 2 3 4,1,only_one_option
+1235,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],0 1 2 3 4,1,only_one_option
+1236,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],0 1 2 3 4,1,only_one_option
+1237,anion__sulfates,G0,[#8]=[#16](=[#8])(-[#8-])-[#8],0 1 2 3 4,1,only_one_option
+974,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 2 3 4,1,only_one_option
+975,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],2 3 4 5,1,only_one_option
+976,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],4 5 6 7,1,only_one_option
+977,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 0 2 3,1,only_one_option
+978,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 0 2 3,1,only_one_option
+979,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 0 2 3,1,only_one_option
+980,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],24 25 26 27,1,only_one_option
+981,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],30 31 32 33,1,only_one_option
+982,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],18 19 20 21,1,only_one_option
+983,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 0 2 3,1,only_one_option
+984,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],5 6 7 8,1,only_one_option
+985,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],8 9 10 11,1,only_one_option
+986,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],13 14 15 16,1,only_one_option
+987,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 2 3 4,1,only_one_option
+988,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],3 4 5 6,1,only_one_option
+989,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 0 2 3,1,only_one_option
+991,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],8 9 10 11,1,only_one_option
+1017,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 0 2 3,1,only_one_option
+1018,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 0 2 3,1,only_one_option
+1019,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 0 2 3,1,only_one_option
+1020,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 0 2 3,1,only_one_option
+1021,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 0 2 3,1,only_one_option
+1022,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 0 2 3,1,only_one_option
+1023,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 0 2 3,1,only_one_option
+1024,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 0 2 3,1,only_one_option
+1232,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 0 2 3,1,only_one_option
+1238,anion__sulfonates,G0,[#16](=[#8])(=[#8])-[#8-],1 0 2 3,1,only_one_option
+673,cation__amidium,G0,[#6]-[#8]-[#6]=[#7+](-[#6])-[#6],0 1 2 3 4 5,1,only_one_option
+674,cation__amidium,G0,[#6]-[#8]-[#6]=[#7+](-[#6])-[#6],1 2 3 4 5 6,1,only_one_option
+675,cation__amidium,G0,[#6]-[#8]-[#6]=[#7+](-[#6])-[#6],8 7 5 2 1 3,1,only_one_option
+676,cation__amidium,G0,[#6]-[#8]-[#6]=[#7+](-[#6])-[#6],1 2 3 5 6 7,1,only_one_option
+1198,cation__amidium,G0,[#6]-[#8]-[#6]=[#7+](-[#6])-[#6],1 2 3 5 6 8,1,only_one_option
+454,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,1,only_one_option
+455,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,1,only_one_option
+456,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,1,only_one_option
+457,cation__ammonium,G0,[#6]-[#6]-[#7+],1 3 4,1,only_one_option
+458,cation__ammonium,G0,[#6]-[#6]-[#7+],3 4 5,1,only_one_option
+459,cation__ammonium,G0,[#6]-[#6]-[#7+],2 4 5,1,only_one_option
+460,cation__ammonium,G0,[#6]-[#6]-[#7+],6 7 8,1,only_one_option
+464,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,2,atom_index_order
+465,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,3,atom_index_order
+466,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,1,only_one_option
+467,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,2,atom_index_order
+468,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,1,only_one_option
+469,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,3,atom_index_order
+470,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,4,atom_index_order
+471,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,1,only_one_option
+472,cation__ammonium,G0,[#6]-[#6]-[#7+],7 6 3,2,bonds_leaving_the_match
+473,cation__ammonium,G0,[#6]-[#6]-[#7+],6 5 3,3,atom_index_order
+474,cation__ammonium,G0,[#6]-[#6]-[#7+],6 5 3,3,bonds_leaving_the_match
+475,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,2,atom_index_order
+476,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 3,4,atom_index_order
+477,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 3,2,atom_index_order
+478,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,5,bonds_leaving_the_match
+479,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,3,atom_index_order
+480,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,4,atom_index_order
+481,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,1,only_one_option
+482,cation__ammonium,G0,[#6]-[#6]-[#7+],8 7 4,2,bonds_leaving_the_match
+483,cation__ammonium,G0,[#6]-[#6]-[#7+],7 6 4,3,atom_index_order
+484,cation__ammonium,G0,[#6]-[#6]-[#7+],6 5 4,4,atom_index_order
+485,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,2,atom_index_order
+486,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,3,atom_index_order
+487,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,2,atom_index_order
+488,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,3,atom_index_order
+489,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,3,atom_index_order
+490,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,4,atom_index_order
+491,cation__ammonium,G0,[#6]-[#6]-[#7+],9 8 5,2,bonds_leaving_the_match
+492,cation__ammonium,G0,[#6]-[#6]-[#7+],7 6 5,4,atom_index_order
+493,cation__ammonium,G0,[#6]-[#6]-[#7+],3 4 5,4,atom_index_order
+494,cation__ammonium,G0,[#6]-[#6]-[#7+],4 5 6,1,only_one_option
+495,cation__ammonium,G0,[#6]-[#6]-[#7+],8 7 6,4,atom_index_order
+496,cation__ammonium,G0,[#6]-[#6]-[#7+],4 5 6,2,atom_index_order
+497,cation__ammonium,G0,[#6]-[#6]-[#7+],4 5 6,3,atom_index_order
+498,cation__ammonium,G0,[#6]-[#6]-[#7+],4 5 6,4,atom_index_order
+499,cation__ammonium,G0,[#6]-[#6]-[#7+],4 5 6,3,atom_index_order
+500,cation__ammonium,G0,[#6]-[#6]-[#7+],4 5 6,4,atom_index_order
+501,cation__ammonium,G0,[#6]-[#6]-[#7+],5 6 7,1,only_one_option
+502,cation__ammonium,G0,[#6]-[#6]-[#7+],11 10 7,2,bonds_leaving_the_match
+503,cation__ammonium,G0,[#6]-[#6]-[#7+],9 8 7,4,atom_index_order
+504,cation__ammonium,G0,[#6]-[#6]-[#7+],9 8 7,5,atom_index_order
+505,cation__ammonium,G0,[#6]-[#6]-[#7+],9 8 7,6,bonds_leaving_the_match
+506,cation__ammonium,G0,[#6]-[#6]-[#7+],5 6 7,4,atom_index_order
+507,cation__ammonium,G0,[#6]-[#6]-[#7+],5 6 7,4,atom_index_order
+508,cation__ammonium,G0,[#6]-[#6]-[#7+],6 7 8,1,only_one_option
+509,cation__ammonium,G0,[#6]-[#6]-[#7+],10 9 8,4,atom_index_order
+510,cation__ammonium,G0,[#6]-[#6]-[#7+],6 7 8,4,atom_index_order
+511,cation__ammonium,G0,[#6]-[#6]-[#7+],4 7 8,2,atom_index_order
+512,cation__ammonium,G0,[#6]-[#6]-[#7+],6 7 8,3,atom_index_order
+513,cation__ammonium,G0,[#6]-[#6]-[#7+],6 7 8,4,atom_index_order
+514,cation__ammonium,G0,[#6]-[#6]-[#7+],6 7 8,4,atom_index_order
+515,cation__ammonium,G0,[#6]-[#6]-[#7+],8 9 10,1,only_one_option
+516,cation__ammonium,G0,[#6]-[#6]-[#7+],12 11 10,4,atom_index_order
+517,cation__ammonium,G0,[#6]-[#6]-[#7+],8 9 10,2,atom_index_order
+518,cation__ammonium,G0,[#6]-[#6]-[#7+],8 9 10,3,atom_index_order
+519,cation__ammonium,G0,[#6]-[#6]-[#7+],8 9 10,2,atom_index_order
+520,cation__ammonium,G0,[#6]-[#6]-[#7+],8 9 10,4,atom_index_order
+521,cation__ammonium,G0,[#6]-[#6]-[#7+],10 11 12,1,only_one_option
+522,cation__ammonium,G0,[#6]-[#6]-[#7+],14 13 12,4,atom_index_order
+523,cation__ammonium,G0,[#6]-[#6]-[#7+],6 7 8,3,atom_index_order
+524,cation__ammonium,G0,[#6]-[#6]-[#7+],10 11 12,4,atom_index_order
+525,cation__ammonium,G0,[#6]-[#6]-[#7+],12 13 14,1,only_one_option
+526,cation__ammonium,G0,[#6]-[#6]-[#7+],16 15 14,4,atom_index_order
+527,cation__ammonium,G0,[#6]-[#6]-[#7+],14 15 16,4,atom_index_order
+528,cation__ammonium,G0,[#6]-[#6]-[#7+],16 17 18,1,only_one_option
+529,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,1,only_one_option
+530,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,2,atom_index_order
+531,cation__ammonium,G0,[#6]-[#6]-[#7+],3 2 1,2,atom_index_order
+532,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,3,bonds_leaving_the_match
+533,cation__ammonium,G0,[#6]-[#6]-[#7+],4 5 6,3,bonds_leaving_the_match
+534,cation__ammonium,G0,[#6]-[#6]-[#7+],6 7 8,3,bonds_leaving_the_match
+535,cation__ammonium,G0,[#6]-[#6]-[#7+],8 9 10,3,bonds_leaving_the_match
+536,cation__ammonium,G0,[#6]-[#6]-[#7+],10 11 12,3,bonds_leaving_the_match
+538,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,4,atom_index_order
+539,cation__ammonium,G0,[#6]-[#6]-[#7+],2 1 0,1,only_one_option
+540,cation__ammonium,G0,[#6]-[#6]-[#7+],1 3 4,1,only_one_option
+541,cation__ammonium,G0,[#6]-[#6]-[#7+],3 2 1,1,only_one_option
+542,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,2,atom_index_order
+543,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 3,3,atom_index_order
+544,cation__ammonium,G0,[#6]-[#6]-[#7+],4 5 6,2,atom_index_order
+545,cation__ammonium,G0,[#6]-[#6]-[#7+],12 11 8,2,bonds_leaving_the_match
+546,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,1,only_one_option
+547,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,2,atom_index_order
+548,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,3,atom_index_order
+549,cation__ammonium,G0,[#6]-[#6]-[#7+],3 2 1,3,atom_index_order
+550,cation__ammonium,G0,[#6]-[#6]-[#7+],2 1 0,1,only_one_option
+551,cation__ammonium,G0,[#6]-[#6]-[#7+],3 2 1,2,atom_index_order
+552,cation__ammonium,G0,[#6]-[#6]-[#7+],4 3 1,1,only_one_option
+553,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,3,atom_index_order
+554,cation__ammonium,G0,[#6]-[#6]-[#7+],5 4 1,1,only_one_option
+555,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,2,bonds_leaving_the_match
+556,cation__ammonium,G0,[#6]-[#6]-[#7+],3 4 5,2,atom_index_order
+557,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,2,atom_index_order
+558,cation__ammonium,G0,[#6]-[#6]-[#7+],2 1 0,1,only_one_option
+559,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 5,2,atom_index_order
+560,cation__ammonium,G0,[#6]-[#6]-[#7+],6 7 8,2,atom_index_order
+561,cation__ammonium,G0,[#6]-[#6]-[#7+],5 6 7,1,only_one_option
+562,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,2,bonds_leaving_the_match
+563,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,4,bonds_leaving_the_match
+564,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,1,only_one_option
+565,cation__ammonium,G0,[#6]-[#6]-[#7+],3 4 5,1,only_one_option
+567,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,1,only_one_option
+568,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,2,bonds_leaving_the_match
+569,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,3,atom_index_order
+570,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,4,atom_index_order
+571,cation__ammonium,G0,[#6]-[#6]-[#7+],9 8 5,2,bonds_leaving_the_match
+572,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,1,only_one_option
+573,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,3,atom_index_order
+574,cation__ammonium,G0,[#6]-[#6]-[#7+],8 7 4,1,only_one_option
+575,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,1,only_one_option
+576,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,2,atom_index_order
+577,cation__ammonium,G0,[#6]-[#6]-[#7+],3 4 5,1,only_one_option
+578,cation__ammonium,G0,[#6]-[#6]-[#7+],3 4 5,2,atom_index_order
+579,cation__ammonium,G0,[#6]-[#6]-[#7+],3 4 5,2,atom_index_order
+580,cation__ammonium,G0,[#6]-[#6]-[#7+],4 5 6,2,atom_index_order
+581,cation__ammonium,G0,[#6]-[#6]-[#7+],2 1 0,1,only_one_option
+582,cation__ammonium,G0,[#6]-[#6]-[#7+],8 7 4,1,only_one_option
+583,cation__ammonium,G0,[#6]-[#6]-[#7+],9 8 5,1,only_one_option
+584,cation__ammonium,G0,[#6]-[#6]-[#7+],10 9 6,1,only_one_option
+585,cation__ammonium,G0,[#6]-[#6]-[#7+],11 10 7,1,only_one_option
+586,cation__ammonium,G0,[#6]-[#6]-[#7+],12 11 8,1,only_one_option
+587,cation__ammonium,G0,[#6]-[#6]-[#7+],13 12 9,1,only_one_option
+588,cation__ammonium,G0,[#6]-[#6]-[#7+],14 13 10,1,only_one_option
+589,cation__ammonium,G0,[#6]-[#6]-[#7+],15 14 11,1,only_one_option
+590,cation__ammonium,G0,[#6]-[#6]-[#7+],16 15 12,1,only_one_option
+591,cation__ammonium,G0,[#6]-[#6]-[#7+],17 16 13,1,only_one_option
+592,cation__ammonium,G0,[#6]-[#6]-[#7+],18 17 14,1,only_one_option
+593,cation__ammonium,G0,[#6]-[#6]-[#7+],12 13 14,1,only_one_option
+594,cation__ammonium,G0,[#6]-[#6]-[#7+],12 13 14,1,only_one_option
+595,cation__ammonium,G0,[#6]-[#6]-[#7+],12 13 14,1,only_one_option
+596,cation__ammonium,G0,[#6]-[#6]-[#7+],12 13 14,1,only_one_option
+597,cation__ammonium,G0,[#6]-[#6]-[#7+],12 13 14,1,only_one_option
+598,cation__ammonium,G0,[#6]-[#6]-[#7+],12 13 14,1,only_one_option
+599,cation__ammonium,G0,[#6]-[#6]-[#7+],12 13 14,1,only_one_option
+600,cation__ammonium,G0,[#6]-[#6]-[#7+],15 14 11,1,only_one_option
+601,cation__ammonium,G0,[#6]-[#6]-[#7+],16 15 12,1,only_one_option
+602,cation__ammonium,G0,[#6]-[#6]-[#7+],17 16 13,1,only_one_option
+603,cation__ammonium,G0,[#6]-[#6]-[#7+],12 13 14,1,only_one_option
+604,cation__ammonium,G0,[#6]-[#6]-[#7+],18 17 14,1,only_one_option
+605,cation__ammonium,G0,[#6]-[#6]-[#7+],8 7 4,1,only_one_option
+606,cation__ammonium,G0,[#6]-[#6]-[#7+],9 8 5,1,only_one_option
+607,cation__ammonium,G0,[#6]-[#6]-[#7+],10 9 6,1,only_one_option
+608,cation__ammonium,G0,[#6]-[#6]-[#7+],11 10 7,1,only_one_option
+609,cation__ammonium,G0,[#6]-[#6]-[#7+],12 11 8,1,only_one_option
+610,cation__ammonium,G0,[#6]-[#6]-[#7+],14 13 10,1,only_one_option
+611,cation__ammonium,G0,[#6]-[#6]-[#7+],15 14 11,1,only_one_option
+612,cation__ammonium,G0,[#6]-[#6]-[#7+],16 15 12,1,only_one_option
+613,cation__ammonium,G0,[#6]-[#6]-[#7+],10 9 6,2,bonds_leaving_the_match
+614,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,3,atom_index_order
+615,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,4,atom_index_order
+616,cation__ammonium,G0,[#6]-[#6]-[#7+],8 7 6,4,atom_index_order
+617,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,4,atom_index_order
+618,cation__ammonium,G0,[#6]-[#6]-[#7+],6 5 4,4,atom_index_order
+619,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,2,bonds_leaving_the_match
+620,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,4,atom_index_order
+621,cation__ammonium,G0,[#6]-[#6]-[#7+],3 4 5,2,bonds_leaving_the_match
+622,cation__ammonium,G0,[#6]-[#6]-[#7+],4 5 6,2,bonds_leaving_the_match
+623,cation__ammonium,G0,[#6]-[#6]-[#7+],4 5 6,1,only_one_option
+624,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,2,bonds_leaving_the_match
+625,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,2,bonds_leaving_the_match
+626,cation__ammonium,G0,[#6]-[#6]-[#7+],5 4 3,4,atom_index_order
+627,cation__ammonium,G0,[#6]-[#6]-[#7+],5 4 1,1,only_one_option
+628,cation__ammonium,G0,[#6]-[#6]-[#7+],5 4 1,1,only_one_option
+630,cation__ammonium,G0,[#6]-[#6]-[#7+],3 4 5,1,only_one_option
+631,cation__ammonium,G0,[#6]-[#6]-[#7+],6 5 4,2,bonds_leaving_the_match
+632,cation__ammonium,G0,[#6]-[#6]-[#7+],6 5 4,2,bonds_leaving_the_match
+633,cation__ammonium,G0,[#6]-[#6]-[#7+],5 4 1,1,only_one_option
+634,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,4,atom_index_order
+635,cation__ammonium,G0,[#6]-[#6]-[#7+],4 5 6,4,atom_index_order
+636,cation__ammonium,G0,[#6]-[#6]-[#7+],6 7 8,4,atom_index_order
+637,cation__ammonium,G0,[#6]-[#6]-[#7+],5 4 1,1,only_one_option
+638,cation__ammonium,G0,[#6]-[#6]-[#7+],5 4 1,1,only_one_option
+639,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 3,1,only_one_option
+640,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,1,only_one_option
+641,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,2,atom_index_order
+642,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,3,atom_index_order
+643,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,1,only_one_option
+644,cation__ammonium,G0,[#6]-[#6]-[#7+],4 5 6,1,only_one_option
+645,cation__ammonium,G0,[#6]-[#6]-[#7+],5 6 7,1,only_one_option
+646,cation__ammonium,G0,[#6]-[#6]-[#7+],6 7 8,1,only_one_option
+647,cation__ammonium,G0,[#6]-[#6]-[#7+],7 8 9,1,only_one_option
+648,cation__ammonium,G0,[#6]-[#6]-[#7+],8 9 10,1,only_one_option
+649,cation__ammonium,G0,[#6]-[#6]-[#7+],9 10 11,1,only_one_option
+650,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,3,atom_index_order
+651,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 3,3,atom_index_order
+652,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,1,only_one_option
+653,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,1,only_one_option
+654,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,1,only_one_option
+655,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,1,only_one_option
+656,cation__ammonium,G0,[#6]-[#6]-[#7+],5 4 1,1,only_one_option
+657,cation__ammonium,G0,[#6]-[#6]-[#7+],5 4 1,1,only_one_option
+658,cation__ammonium,G0,[#6]-[#6]-[#7+],4 6 7,1,only_one_option
+659,cation__ammonium,G0,[#6]-[#6]-[#7+],5 7 8,1,only_one_option
+660,cation__ammonium,G0,[#6]-[#6]-[#7+],5 4 6,2,bonds_leaving_the_match
+661,cation__ammonium,G0,[#6]-[#6]-[#7+],6 5 7,2,bonds_leaving_the_match
+662,cation__ammonium,G0,[#6]-[#6]-[#7+],7 6 8,2,bonds_leaving_the_match
+663,cation__ammonium,G0,[#6]-[#6]-[#7+],8 7 9,2,bonds_leaving_the_match
+664,cation__ammonium,G0,[#6]-[#6]-[#7+],7 8 9,2,bonds_leaving_the_match
+665,cation__ammonium,G0,[#6]-[#6]-[#7+],8 9 10,2,bonds_leaving_the_match
+666,cation__ammonium,G0,[#6]-[#6]-[#7+],6 4 5,2,bonds_leaving_the_match
+667,cation__ammonium,G0,[#6]-[#6]-[#7+],2 4 5,2,atom_index_order
+668,cation__ammonium,G0,[#6]-[#6]-[#7+],2 4 5,2,atom_index_order
+669,cation__ammonium,G0,[#6]-[#6]-[#7+],2 4 5,2,atom_index_order
+670,cation__ammonium,G0,[#6]-[#6]-[#7+],4 6 7,2,atom_index_order
+671,cation__ammonium,G0,[#6]-[#6]-[#7+],5 7 8,2,atom_index_order
+1181,cation__ammonium,G0,[#6]-[#6]-[#7+],3 2 4,2,bonds_leaving_the_match
+1182,cation__ammonium,G0,[#6]-[#6]-[#7+],8 7 6,4,bonds_leaving_the_match
+1183,cation__ammonium,G0,[#6]-[#6]-[#7+],0 1 2,3,bonds_leaving_the_match
+1184,cation__ammonium,G0,[#6]-[#6]-[#7+],4 3 1,2,bonds_leaving_the_match
+1185,cation__ammonium,G0,[#6]-[#6]-[#7+],7 6 5,4,atom_index_order
+1186,cation__ammonium,G0,[#6]-[#6]-[#7+],2 3 4,4,atom_index_order
+1187,cation__ammonium,G0,[#6]-[#6]-[#7+],3 4 5,4,atom_index_order
+1188,cation__ammonium,G0,[#6]-[#6]-[#7+],11 12 13,3,atom_index_order
+1189,cation__ammonium,G0,[#6]-[#6]-[#7+],2 4 5,1,only_one_option
+1190,cation__ammonium,G0,[#6]-[#6]-[#7+],7 9 10,1,only_one_option
+1191,cation__ammonium,G0,[#6]-[#6]-[#7+],13 15 16,1,only_one_option
+1192,cation__ammonium,G0,[#6]-[#6]-[#7+],15 17 18,1,only_one_option
+1193,cation__ammonium,G0,[#6]-[#6]-[#7+],17 19 20,1,only_one_option
+1194,cation__ammonium,G0,[#6]-[#6]-[#7+],5 4 1,1,only_one_option
+1195,cation__ammonium,G0,[#6]-[#6]-[#7+],1 2 3,1,only_one_option
+1196,cation__ammonium,G0,[#6]-[#6]-[#7+],5 4 1,1,only_one_option
+1197,cation__ammonium,G0,[#6]-[#6]-[#7+],4 3 1,2,atom_index_order
+461,cation__ammonium,G1,[#6]-[#7+]-[#6],0 1 2,1,only_one_option
+462,cation__ammonium,G1,[#6]-[#7+]-[#6],0 1 2,3,atom_index_order
+463,cation__ammonium,G1,[#6]-[#7+]-[#6],0 1 2,6,atom_index_order
+537,cation__ammonium,G1,[#6]-[#7+]-[#6],0 1 2,6,atom_index_order
+566,cation__ammonium,G1,[#6]-[#7+]-[#6],4 3 5,6,atom_index_order
+629,cation__ammonium,G1,[#6]-[#7+]-[#6],0 1 2,3,bonds_leaving_the_match
+672,cation__ammonium,G1,[#6]-[#7+]-[#6],0 1 2,6,atom_index_order
+452,cation__azepanium,G0,[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]-1,1 2 3 4 5 6 7,1,only_one_option
+754,cation__azepanium,G0,[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]-1,6 7 8 9 10 11 4,1,only_one_option
+755,cation__azepanium,G0,[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]-1,8 9 10 11 12 13 6,1,only_one_option
+756,cation__azepanium,G0,[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]-1,6 7 8 9 10 11 4,1,only_one_option
+757,cation__azepanium,G0,[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]-1,9 10 11 12 13 14 7,1,only_one_option
+758,cation__azepanium,G0,[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]-1,9 10 11 12 13 14 4,1,only_one_option
+759,cation__azepanium,G0,[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]-1,15 16 17 18 19 20 7,1,only_one_option
+747,cation__bicyclic,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,3 4 5 6 7 8,1,only_one_option
+748,cation__bicyclic,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,3 2 12 11 10 9,1,only_one_option
+749,cation__bicyclic,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,5 4 14 13 12 11,1,only_one_option
+750,cation__bicyclic,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,7 6 16 15 14 13,1,only_one_option
+751,cation__bicyclic,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,9 8 18 17 16 15,1,only_one_option
+752,cation__bicyclic,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,11 10 20 19 18 17,1,only_one_option
+753,cation__bicyclic,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,15 14 24 23 22 21,1,only_one_option
+760,cation__bicyclic,G0,[#6]1=[#7+]-[#6]-[#6]-[#6]-[#7]-1,2 1 10 9 8 7,1,only_one_option
+442,cation__bicyclic,G1,[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]12-[#6]-[#6]-[#6](-[#6]-[#6]-1)-[#6]-[#6]-2,0 1 2 3 4 5 6 7 8 9 10 11 12 13,1,only_one_option
+443,cation__bicyclic,G1,[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+]12-[#6]-[#6]-[#6](-[#6]-[#6]-1)-[#6]-[#6]-2,2 3 4 5 6 7 8 9 10 11 12 13 14 15,1,only_one_option
+448,cation__cyclic_amidium,G0,[#6]1=[#7+](-[#6])-[#6]-[#6]-[#6]-1,4 3 2 8 7 6,1,only_one_option
+449,cation__cyclic_amidium,G0,[#6]1=[#7+](-[#6])-[#6]-[#6]-[#6]-1,5 4 3 9 8 7,1,only_one_option
+450,cation__cyclic_amidium,G0,[#6]1=[#7+](-[#6])-[#6]-[#6]-[#6]-1,3 2 1 8 7 6,1,only_one_option
+451,cation__cyclic_amidium,G0,[#6]1=[#7+](-[#6])-[#6]-[#6]-[#6]-1,3 4 5 7 8 9,1,only_one_option
+1179,cation__cyclic_amidium,G0,[#6]1=[#7+](-[#6])-[#6]-[#6]-[#6]-1,3 4 5 6 7 8,1,only_one_option
+1212,cation__cyclic_phosphonium,G0,[#6]-[#6]-[#6]-[#6]-[#15+]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,0 1 2 3 4 5 6 7 8 9 10,3,bonds_leaving_the_match
+1214,cation__cyclic_phosphonium,G0,[#6]-[#6]-[#6]-[#6]-[#15+]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1,11 12 13 14 4 5 6 7 8 9 10,2,bonds_leaving_the_match
+874,cation__cyclic_sulfonium,G0,[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-1,0 1 2 3 4 5,1,only_one_option
+875,cation__cyclic_sulfonium,G0,[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-1,1 2 3 4 5 6,1,only_one_option
+876,cation__cyclic_sulfonium,G0,[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-1,2 3 4 5 6 7,1,only_one_option
+877,cation__cyclic_sulfonium,G0,[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-1,3 4 5 6 7 8,1,only_one_option
+878,cation__cyclic_sulfonium,G0,[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-1,4 5 6 7 8 9,1,only_one_option
+879,cation__cyclic_sulfonium,G1,[#6]-[#6]-[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-[#6]-1,0 1 2 3 4 5 6 7 8,1,only_one_option
+880,cation__cyclic_sulfonium,G1,[#6]-[#6]-[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-[#6]-1,1 2 3 4 5 6 7 8 9,1,only_one_option
+881,cation__cyclic_sulfonium,G1,[#6]-[#6]-[#6]-[#16+]1-[#6]-[#6]-[#6]-[#6]-[#6]-1,2 3 4 5 6 7 8 9 10,1,only_one_option
+897,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],0 1 2 3 4 5 10 11 12 13 6 7 8,2,atom_index_order
+898,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],0 1 2 3 5 6 12 13 14 15 7 8 10,4,atom_index_order
+899,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],0 1 2 3 5 6 12 13 14 16 7 8 10,4,atom_index_order
+900,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],1 2 3 4 5 6 10 11 12 13 7 8 9,1,only_one_option
+901,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],1 2 3 4 7 8 12 13 14 15 9 10 11,2,atom_index_order
+902,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],1 2 3 4 7 8 16 17 18 21 9 10 13,4,atom_index_order
+903,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],2 3 4 5 6 7 11 12 13 14 8 9 10,1,only_one_option
+904,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],10 9 8 11 7 6 13 14 15 17 4 3 5,3,atom_index_order
+905,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],2 3 4 5 6 7 14 15 16 17 8 9 10,2,atom_index_order
+906,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],2 3 4 5 9 10 14 15 16 17 11 12 13,2,atom_index_order
+907,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],13 12 11 14 10 9 16 17 18 20 4 3 5,4,atom_index_order
+908,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],2 3 4 5 9 10 20 21 22 26 11 12 16,4,atom_index_order
+909,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],3 4 5 6 11 12 24 25 26 31 13 14 19,4,atom_index_order
+910,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],4 5 6 7 8 9 13 14 15 16 10 11 12,1,only_one_option
+911,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],12 11 10 13 9 8 15 16 17 19 6 5 7,3,atom_index_order
+912,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],4 5 6 7 13 14 18 19 20 21 15 16 17,2,atom_index_order
+913,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],17 16 15 18 14 13 20 21 22 24 6 5 7,4,atom_index_order
+914,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],4 5 6 7 13 14 28 29 30 36 15 16 22,4,atom_index_order
+915,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],8 9 10 11 21 22 44 45 46 56 23 24 34,4,atom_index_order
+1222,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],0 1 2 3 4 5 9 10 11 12 6 7 8,1,only_one_option
+1223,cation__cyclopropanium,G0,[#6]-[#6]-[#7](-[#6])-[#6]1:[#6](:[#6+]:1-[#7](-[#6])-[#6])-[#7](-[#6])-[#6],0 1 2 3 5 6 10 11 12 13 7 8 9,2,atom_index_order
+786,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],0 1 2 3 4 5 6 7,1,only_one_option
+787,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],5 4 6 3 2 7 8 9,1,only_one_option
+788,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],0 1 2 3 7 4 5 6,1,only_one_option
+789,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],1 2 3 4 8 5 6 7,1,only_one_option
+790,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],1 2 3 5 9 6 7 8,1,only_one_option
+791,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],2 3 4 5 9 6 7 8,1,only_one_option
+792,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],2 3 4 6 10 7 8 9,1,only_one_option
+793,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],2 3 4 7 11 8 9 10,1,only_one_option
+794,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],3 4 5 6 10 7 8 9,1,only_one_option
+795,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],3 4 5 7 11 8 9 10,1,only_one_option
+796,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],3 4 5 8 12 9 10 11,1,only_one_option
+797,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],3 4 5 9 13 10 11 12,1,only_one_option
+798,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],3 4 5 7 15 8 9 11,1,only_one_option
+799,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],5 6 7 13 27 14 15 21,1,only_one_option
+800,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],3 4 5 6 13 7 8 9,1,only_one_option
+801,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],4 5 6 7 14 8 9 10,1,only_one_option
+802,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],6 5 7 4 2 9 8 10,1,only_one_option
+803,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],7 6 8 5 2 10 9 11,1,only_one_option
+804,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],7 6 8 5 3 10 9 11,1,only_one_option
+1201,cation__guanidinium,G0,[#6]-[#7](-[#6])-[#6](=[#7+])-[#7](-[#6])-[#6],5 6 7 13 17 14 15 16,1,only_one_option
+1,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,0 1 2 3 4,1,only_one_option
+2,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 1,1,only_one_option
+3,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 2,1,only_one_option
+4,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 3,1,only_one_option
+5,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 4,1,only_one_option
+6,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 5,1,only_one_option
+7,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 6,1,only_one_option
+8,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 7,1,only_one_option
+9,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 8,1,only_one_option
+10,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 13 9,1,only_one_option
+11,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 14 10,1,only_one_option
+12,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,12 13 14 15 11,1,only_one_option
+13,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,13 14 15 16 12,1,only_one_option
+14,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 6,1,only_one_option
+15,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 7,1,only_one_option
+16,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 8,1,only_one_option
+17,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 13 9,1,only_one_option
+18,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 14 10,1,only_one_option
+19,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,12 13 14 15 11,1,only_one_option
+20,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,13 14 15 16 12,1,only_one_option
+21,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,14 15 16 17 13,1,only_one_option
+22,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,15 16 17 18 14,1,only_one_option
+23,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 11 7,1,only_one_option
+24,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 4,1,only_one_option
+25,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 1 2,1,only_one_option
+26,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 3 7,1,only_one_option
+27,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 7 6 5 9,1,only_one_option
+28,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 1 2,1,only_one_option
+29,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 2 3,1,only_one_option
+30,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 8 7 11 10,1,only_one_option
+31,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 6 1,1,only_one_option
+32,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 7 2,1,only_one_option
+33,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 7 2,1,only_one_option
+34,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 8 2,1,only_one_option
+35,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 4 3 2,1,only_one_option
+36,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 7 4 3 2,1,only_one_option
+37,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 4 3 8 6,1,only_one_option
+38,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 4 3 8 6,1,only_one_option
+39,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 4 3 9 6,1,only_one_option
+40,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 10 3,1,only_one_option
+41,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 4 3 8 6,1,only_one_option
+42,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 9 4,1,only_one_option
+43,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 10 7,1,only_one_option
+44,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 12 4,1,only_one_option
+45,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 9 4,1,only_one_option
+46,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 9 4,1,only_one_option
+47,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 10 5,1,only_one_option
+48,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 10 5,1,only_one_option
+49,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 11 5,1,only_one_option
+50,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 13 5,1,only_one_option
+51,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 13 7,1,only_one_option
+52,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 10 5,1,only_one_option
+53,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 14 5,1,only_one_option
+54,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 10 8,1,only_one_option
+55,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 7 6 11 9,1,only_one_option
+56,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 7 6 11 9,1,only_one_option
+57,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 12 6,1,only_one_option
+58,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 14 6,1,only_one_option
+59,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 16 6,1,only_one_option
+60,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 7 6 11 9,1,only_one_option
+61,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 8 7 12 10,1,only_one_option
+62,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 8 7 12 10,1,only_one_option
+63,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 8 7 12 10,1,only_one_option
+64,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 18 7,1,only_one_option
+65,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 13 8,1,only_one_option
+66,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 14 8,1,only_one_option
+67,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 15 8,1,only_one_option
+68,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 16 8,1,only_one_option
+69,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 20 8,1,only_one_option
+70,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 9 8 13 11,1,only_one_option
+71,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 14 9,1,only_one_option
+72,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 22 9,1,only_one_option
+73,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 15 10,1,only_one_option
+74,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 15 10,1,only_one_option
+75,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 24 10,1,only_one_option
+76,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,12 13 14 16 11,1,only_one_option
+77,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,13 14 15 17 12,1,only_one_option
+78,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,13 14 15 28 12,1,only_one_option
+79,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,15 16 17 19 14,1,only_one_option
+80,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,17 18 19 21 16,1,only_one_option
+81,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,19 20 21 23 18,1,only_one_option
+82,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 10 4,1,only_one_option
+83,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 13 7,1,only_one_option
+84,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 11 4,1,only_one_option
+85,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 12 4,1,only_one_option
+86,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 11 4,1,only_one_option
+87,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 3 2 12 5,1,only_one_option
+88,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 12 4,1,only_one_option
+89,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 13 4,1,only_one_option
+90,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 14 4,1,only_one_option
+91,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 12 4,1,only_one_option
+92,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 8 3,1,only_one_option
+93,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 11 3,1,only_one_option
+94,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 13 3,1,only_one_option
+95,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 15 3,1,only_one_option
+96,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 17 3,1,only_one_option
+97,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 19 3,1,only_one_option
+98,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 21 3,1,only_one_option
+99,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 8 3,1,only_one_option
+100,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 9 4,1,only_one_option
+101,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 9 7,1,only_one_option
+102,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,20 19 18 23 21,1,only_one_option
+103,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,20 19 18 23 21,1,only_one_option
+104,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 14 2,1,only_one_option
+105,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 16 2,1,only_one_option
+106,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 9 3,1,only_one_option
+107,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 8 3,1,only_one_option
+108,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 12 4,1,only_one_option
+109,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 13 4,1,only_one_option
+110,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 14 4,1,only_one_option
+111,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 16 5,1,only_one_option
+112,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 8 4,1,only_one_option
+113,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 1 2,1,only_one_option
+114,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 9 4,1,only_one_option
+115,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 3 2 10 5,1,only_one_option
+116,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 9 4,1,only_one_option
+117,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 12 4,1,only_one_option
+118,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 3 2 13 5,1,only_one_option
+119,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 15 7,1,only_one_option
+120,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 14 4,1,only_one_option
+121,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 9 8 13 11,1,only_one_option
+122,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 14 5,1,only_one_option
+123,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 16 6,1,only_one_option
+124,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 18 7,1,only_one_option
+125,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 20 8,1,only_one_option
+126,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 22 9,1,only_one_option
+127,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 24 10,1,only_one_option
+128,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 8 3,1,only_one_option
+129,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 3 2 9 5,1,only_one_option
+130,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 4 3 10 6,1,only_one_option
+131,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 11 7,1,only_one_option
+132,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 9 4,1,only_one_option
+133,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 10 4,1,only_one_option
+134,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 4 3 11 6,1,only_one_option
+135,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 12 7,1,only_one_option
+136,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 9 7,1,only_one_option
+137,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 3 2 10 5,1,only_one_option
+138,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 4 3 11 6,1,only_one_option
+139,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 12 7,1,only_one_option
+140,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 10 5,1,only_one_option
+141,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 11 5,1,only_one_option
+142,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 4 3 12 6,1,only_one_option
+143,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 13 7,1,only_one_option
+144,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 12 7,1,only_one_option
+145,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 15 10,1,only_one_option
+146,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 11 4,1,only_one_option
+147,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 12 4,1,only_one_option
+148,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 12 4,1,only_one_option
+149,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 12 8,1,only_one_option
+150,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 13 8,1,only_one_option
+151,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 13 8,1,only_one_option
+152,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 14 5,1,only_one_option
+153,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 9 7,1,only_one_option
+154,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 2 3,1,only_one_option
+155,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 10 2,1,only_one_option
+156,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 2 3,1,only_one_option
+157,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 11 3,1,only_one_option
+158,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 11 3,1,only_one_option
+159,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 12 4,1,only_one_option
+160,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 12 4,1,only_one_option
+161,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 13 5,1,only_one_option
+162,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 13 5,1,only_one_option
+163,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 10 8,1,only_one_option
+164,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 10 8,1,only_one_option
+165,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 11 8,1,only_one_option
+166,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 11 8,1,only_one_option
+167,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 12 3,1,only_one_option
+168,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 12 3,1,only_one_option
+169,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 13 4,1,only_one_option
+170,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 13 4,1,only_one_option
+171,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 14 5,1,only_one_option
+172,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 14 5,1,only_one_option
+173,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 2 3,1,only_one_option
+174,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 13 8,1,only_one_option
+175,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 13 8,1,only_one_option
+176,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 14 5,1,only_one_option
+177,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 14 5,1,only_one_option
+178,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 13 5,1,only_one_option
+179,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 2 3,1,only_one_option
+180,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 14 8,1,only_one_option
+181,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 14 8,1,only_one_option
+182,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 11 4,1,only_one_option
+183,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 6 7,1,only_one_option
+184,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 4 5,1,only_one_option
+185,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 5 6,1,only_one_option
+186,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 4 5,1,only_one_option
+187,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 5 6,1,only_one_option
+188,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 4 5,1,only_one_option
+189,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 5 6,1,only_one_option
+190,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 4 5,1,only_one_option
+191,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 5 6,1,only_one_option
+192,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 4 5,1,only_one_option
+193,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 5 6,1,only_one_option
+194,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 10 8,1,only_one_option
+195,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 5 6,1,only_one_option
+196,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 11 8,1,only_one_option
+197,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 5 6,1,only_one_option
+198,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 4 3 8 6,1,only_one_option
+199,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 5 6,1,only_one_option
+200,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 4 3 9 6,1,only_one_option
+201,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 5 6,1,only_one_option
+202,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 9 7,1,only_one_option
+203,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 9 7,1,only_one_option
+204,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 10 7,1,only_one_option
+205,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 10 7,1,only_one_option
+206,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 10 8,1,only_one_option
+207,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 10 8,1,only_one_option
+208,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 11 8,1,only_one_option
+209,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 11 8,1,only_one_option
+210,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,13 12 11 16 14,1,only_one_option
+211,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 18 2,1,only_one_option
+212,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 19 3,1,only_one_option
+213,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 20 4,1,only_one_option
+214,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 21 5,1,only_one_option
+215,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 22 6,1,only_one_option
+216,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 23 7,1,only_one_option
+217,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 24 8,1,only_one_option
+218,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 25 9,1,only_one_option
+219,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 26 10,1,only_one_option
+220,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,12 13 14 27 11,1,only_one_option
+221,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,13 14 15 28 12,1,only_one_option
+222,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 7 6 11 9,1,only_one_option
+223,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,12 13 14 16 11,1,only_one_option
+224,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 10 4,1,only_one_option
+225,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 11 4,1,only_one_option
+226,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 14 4,1,only_one_option
+227,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 20 4,1,only_one_option
+228,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 26 4,1,only_one_option
+229,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 8 1,1,only_one_option
+230,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 13 5,1,only_one_option
+231,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 14 5,1,only_one_option
+232,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 14 4,1,only_one_option
+233,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 18 9,1,only_one_option
+234,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 9 3 2 1,1,only_one_option
+235,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 9 3 2 1,1,only_one_option
+236,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,15 13 7 6 5,1,only_one_option
+237,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 8 1,1,only_one_option
+238,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 9 1,1,only_one_option
+239,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 10 1,1,only_one_option
+240,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 1 2,1,only_one_option
+241,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 11 1,1,only_one_option
+242,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 12 7,1,only_one_option
+243,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 7 6 14 9,1,only_one_option
+244,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 9 8 16 11,1,only_one_option
+245,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,12 11 10 18 13,1,only_one_option
+246,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 15 4,1,only_one_option
+247,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 4 3 11 6,1,only_one_option
+248,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 11 4,1,only_one_option
+249,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 6 5 13 8,1,only_one_option
+250,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 4 3 8 6,1,only_one_option
+251,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 8 4,1,only_one_option
+252,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 9 4,1,only_one_option
+253,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 9 4,1,only_one_option
+254,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 1 2,1,only_one_option
+255,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 12 4,1,only_one_option
+256,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 7 6 11 9,1,only_one_option
+257,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 7 2,1,only_one_option
+258,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 4 5,1,only_one_option
+259,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 7 2,1,only_one_option
+260,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,13 14 15 9 10,1,only_one_option
+261,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 11 6,1,only_one_option
+262,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 8 7 11 10,1,only_one_option
+263,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 12 1,1,only_one_option
+264,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 13 2,1,only_one_option
+265,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 15 4,1,only_one_option
+266,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 13 1,1,only_one_option
+267,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 11 12 14 9,1,only_one_option
+268,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 15 10,1,only_one_option
+269,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 18 4,1,only_one_option
+270,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 19 4,1,only_one_option
+271,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 20 6,1,only_one_option
+272,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 21 6,1,only_one_option
+273,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 22 8,1,only_one_option
+274,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 23 8,1,only_one_option
+275,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 10 4,1,only_one_option
+276,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 1 2,1,only_one_option
+277,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 15 4,1,only_one_option
+278,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 14 4,1,only_one_option
+279,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 6 7,1,only_one_option
+280,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 19 1,1,only_one_option
+281,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 24 1,1,only_one_option
+282,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,10 9 8 14 11,1,only_one_option
+283,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 3 2 7 5,1,only_one_option
+1122,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 2,1,only_one_option
+1123,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 8 2,1,only_one_option
+1124,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 12 4,1,only_one_option
+1125,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 20 8,1,only_one_option
+1126,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 9 3,1,only_one_option
+1127,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 10 3,1,only_one_option
+1128,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 9 7,1,only_one_option
+1129,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 7 2,1,only_one_option
+1130,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 8 2,1,only_one_option
+1131,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 9 2,1,only_one_option
+1132,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 10 2,1,only_one_option
+1133,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 10 3,1,only_one_option
+1134,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 10 3,1,only_one_option
+1135,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 3 2 1 5,1,only_one_option
+1136,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 10 5,1,only_one_option
+1137,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 4 3 8 6,1,only_one_option
+1138,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 2 3,1,only_one_option
+1139,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 2 3,1,only_one_option
+1140,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 10 3,1,only_one_option
+1141,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 10 3,1,only_one_option
+1142,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 11 4,1,only_one_option
+1143,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 11 4,1,only_one_option
+1144,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 11 4,1,only_one_option
+1145,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,8 9 10 2 3,1,only_one_option
+1146,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 12 5,1,only_one_option
+1147,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 12 5,1,only_one_option
+1148,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 10 4,1,only_one_option
+1149,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 14 5,1,only_one_option
+1150,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,3 2 1 11 4,1,only_one_option
+1151,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,6 5 4 20 7,1,only_one_option
+1158,cation__imidazolium,G0,[#6]1:[#6]:[#7+]:[#6]:[#7]:1,14 9 6 5 4,1,only_one_option
+765,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,0 1 2 3 4 5,1,only_one_option
+766,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,2 3 4 5 6 1,1,only_one_option
+767,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,3 4 5 6 7 2,1,only_one_option
+768,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,4 5 6 7 8 2,1,only_one_option
+769,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,5 6 7 8 9 3,1,only_one_option
+770,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,6 7 8 9 10 4,1,only_one_option
+771,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,7 8 9 10 11 5,1,only_one_option
+772,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,8 9 10 11 12 6,1,only_one_option
+773,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,9 10 11 12 13 7,1,only_one_option
+774,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,10 11 12 13 14 8,1,only_one_option
+775,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,11 12 13 14 15 9,1,only_one_option
+776,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,12 13 14 15 16 10,1,only_one_option
+777,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,5 6 7 8 9 3,1,only_one_option
+778,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,6 7 8 9 10 3,1,only_one_option
+779,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,6 7 8 9 10 1,1,only_one_option
+780,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,6 7 8 9 10 4,1,only_one_option
+781,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,7 8 9 10 11 5,1,only_one_option
+782,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,9 10 11 12 13 7,1,only_one_option
+783,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,6 7 8 9 10 1,1,only_one_option
+784,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,10 11 12 13 14 1,1,only_one_option
+785,cation__morpholinium,G0,[#6]1-[#6]-[#8]-[#6]-[#6]-[#7+]-1,18 19 20 21 22 1,1,only_one_option
+761,cation__oxazolidinium,G0,[#6]-[#6]-[#7+]1(-[#6])-[#6]-[#6]-[#8]-[#6]-1,1 2 3 4 5 6 7 8,1,only_one_option
+762,cation__oxazolidinium,G0,[#6]-[#6]-[#7+]1(-[#6])-[#6]-[#6]-[#8]-[#6]-1,2 3 4 5 6 7 8 9,1,only_one_option
+763,cation__oxazolidinium,G0,[#6]-[#6]-[#7+]1(-[#6])-[#6]-[#6]-[#8]-[#6]-1,2 3 4 5 6 7 8 9,1,only_one_option
+764,cation__oxazolidinium,G0,[#6]-[#6]-[#7+]1(-[#6])-[#6]-[#6]-[#8]-[#6]-1,3 2 1 0 6 7 8 9,1,only_one_option
+805,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],4 3 5 6,4,bonds_leaving_the_match
+806,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],5 4 6 7,4,bonds_leaving_the_match
+807,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 7,4,atom_index_order
+808,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 6,4,atom_index_order
+809,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 7,4,atom_index_order
+810,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],1 2 3 7,4,atom_index_order
+811,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],4 3 5 6,4,bonds_leaving_the_match
+812,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],2 3 4 8,4,atom_index_order
+813,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],4 5 6 8,4,atom_index_order
+814,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 9,4,atom_index_order
+815,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],4 5 6 8,4,atom_index_order
+816,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],9 8 10 11,4,bonds_leaving_the_match
+817,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 11,4,atom_index_order
+818,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],11 12 13 15,4,atom_index_order
+819,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],13 14 15 19,4,atom_index_order
+820,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],7 6 8 9,4,bonds_leaving_the_match
+821,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],5 6 7 9,4,atom_index_order
+822,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],5 6 7 11,4,atom_index_order
+823,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],5 6 7 9,4,atom_index_order
+824,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],5 6 7 10,4,atom_index_order
+825,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],5 6 7 11,4,atom_index_order
+826,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],5 6 7 13,4,atom_index_order
+827,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],6 7 8 10,4,atom_index_order
+828,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],6 7 8 14,4,atom_index_order
+829,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 13,4,atom_index_order
+830,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 15,4,atom_index_order
+831,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 12,4,atom_index_order
+832,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 13,4,atom_index_order
+833,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 14,4,atom_index_order
+834,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 15,4,atom_index_order
+835,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 16,4,atom_index_order
+836,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 17,4,atom_index_order
+837,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],8 9 10 12,4,atom_index_order
+838,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],8 9 10 18,4,atom_index_order
+839,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],9 10 11 13,4,atom_index_order
+840,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],9 10 11 15,4,atom_index_order
+841,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],9 10 11 17,4,atom_index_order
+842,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],9 10 11 19,4,atom_index_order
+843,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],11 12 13 17,4,atom_index_order
+844,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],11 12 13 19,4,atom_index_order
+845,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],11 12 13 21,4,atom_index_order
+846,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],13 14 15 21,4,atom_index_order
+847,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],13 14 15 23,4,atom_index_order
+848,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],15 16 17 23,4,atom_index_order
+849,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],17 18 19 23,4,atom_index_order
+850,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],1 2 3 5,4,atom_index_order
+851,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 8,4,atom_index_order
+852,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],4 3 5 6,4,bonds_leaving_the_match
+853,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],1 2 3 5,4,atom_index_order
+854,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],1 2 3 5,4,atom_index_order
+855,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],1 2 3 5,4,atom_index_order
+856,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 9,4,atom_index_order
+857,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 9,4,atom_index_order
+858,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 17,4,atom_index_order
+1202,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 9,1,only_one_option
+1203,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],1 2 3 5,4,atom_index_order
+1204,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],5 6 7 13,4,atom_index_order
+1205,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 10,4,atom_index_order
+1206,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 7,4,atom_index_order
+1207,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],6 7 8 16,4,atom_index_order
+1208,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 7,4,atom_index_order
+1209,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],3 4 5 9,4,atom_index_order
+1210,cation__phosphonium,G0,[#6]-[#15+](-[#6])-[#6],7 8 9 17,4,atom_index_order
+745,cation__piperazinium,G0,[#7]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,2 3 4 5 6 7,1,only_one_option
+1200,cation__piperazinium,G0,[#7]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,7 6 5 2 9 8,1,only_one_option
+711,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,0 1 2 3 4 5,1,only_one_option
+712,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,4 3 2 1 6 5,1,only_one_option
+713,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,6 5 4 2 8 7,1,only_one_option
+714,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,7 6 5 3 9 8,1,only_one_option
+715,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,8 7 6 4 10 9,1,only_one_option
+716,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,8 7 6 4 10 9,1,only_one_option
+717,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,9 8 7 4 11 10,1,only_one_option
+718,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,9 8 7 5 11 10,1,only_one_option
+719,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,10 9 8 5 12 11,1,only_one_option
+720,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,10 9 8 6 12 11,1,only_one_option
+721,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,11 10 9 7 13 12,1,only_one_option
+722,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,12 11 10 8 14 13,1,only_one_option
+723,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,7 6 5 3 9 8,1,only_one_option
+724,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,9 8 7 3 11 10,1,only_one_option
+725,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,7 6 5 3 9 8,1,only_one_option
+726,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,8 7 6 2 10 9,1,only_one_option
+727,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,8 7 6 4 10 9,1,only_one_option
+728,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,9 8 7 2 11 10,1,only_one_option
+729,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,11 10 9 4 13 12,1,only_one_option
+730,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,12 11 10 5 14 13,1,only_one_option
+731,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,11 10 9 7 13 12,1,only_one_option
+732,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,17 16 15 7 19 18,1,only_one_option
+733,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,7 6 5 1 9 8,1,only_one_option
+734,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,8 7 6 2 10 9,1,only_one_option
+735,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,8 7 6 1 10 9,1,only_one_option
+736,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,9 8 7 2 11 10,1,only_one_option
+737,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,10 9 8 2 12 11,1,only_one_option
+738,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,7 6 5 1 9 8,1,only_one_option
+739,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,9 8 7 1 11 10,1,only_one_option
+740,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,11 10 9 1 13 12,1,only_one_option
+741,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,8 7 6 4 11 9,1,only_one_option
+742,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,10 9 8 6 13 11,1,only_one_option
+743,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,8 7 6 4 11 9,1,only_one_option
+744,cation__piperidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-[#6]-1,11 10 9 7 14 12,1,only_one_option
+284,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],4 3 2 6 5 7 1,1,only_one_option
+285,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],6 5 4 8 7 9 3,1,only_one_option
+286,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],1 7 5 3 2 4 6,1,only_one_option
+287,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],5 3 2 8 6 9 1,1,only_one_option
+288,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],6 4 3 9 7 10 2,1,only_one_option
+289,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],7 5 4 10 8 11 3,1,only_one_option
+290,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],2 3 5 7 1 8 6,1,only_one_option
+291,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],7 5 4 10 8 11 3,1,only_one_option
+292,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],8 6 5 11 9 12 4,1,only_one_option
+293,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],9 7 6 12 10 13 5,1,only_one_option
+294,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],10 8 7 13 11 14 6,1,only_one_option
+295,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],6 5 4 8 7 9 3,1,only_one_option
+296,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],4 5 6 2 3 1 7,1,only_one_option
+297,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],7 6 5 9 8 10 4,1,only_one_option
+298,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],7 6 5 9 8 10 4,1,only_one_option
+299,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],7 5 4 10 8 11 3,1,only_one_option
+300,cation__pyrazolium,G0,[#6]1:[#6]:[#7+](:[#7](:[#6]:1)-[#6])-[#6],5 6 8 2 3 1 9,1,only_one_option
+432,cation__pyridazolium,G0,[#9]-[#6](-[#9])-[#6]-[#6]-[#7+]1:[#6]:[#6]:[#6]:[#6]:[#7]:1,0 1 2 4 5 6 7 8 9 10 11,3,atom_index_order
+433,cation__pyridazolium,G0,[#9]-[#6](-[#9])-[#6]-[#6]-[#7+]1:[#6]:[#6]:[#6]:[#6]:[#7]:1,17 16 18 19 20 21 22 23 24 25 26,1,only_one_option
+332,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,0 1 2 3 4 5,1,only_one_option
+333,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 5 6,1,only_one_option
+334,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 3 2 1 6 5,1,only_one_option
+335,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 4 3 2 7 6,1,only_one_option
+336,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 5 4 3 8 7,1,only_one_option
+337,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 6 5 4 9 8,1,only_one_option
+338,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 7 6 5 10 9,1,only_one_option
+339,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,9 8 7 6 11 10,1,only_one_option
+340,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,10 9 8 7 12 11,1,only_one_option
+341,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,11 10 9 8 13 12,1,only_one_option
+342,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,13 12 11 10 15 14,1,only_one_option
+343,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,15 14 13 12 17 16,1,only_one_option
+344,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 7 6 5 10 9,1,only_one_option
+345,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,10 9 8 7 12 11,1,only_one_option
+346,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,13 12 11 10 15 14,1,only_one_option
+347,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,16 15 14 13 18 17,1,only_one_option
+348,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 1 7 5 4 3,1,only_one_option
+349,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 3 2 7 6 5,1,only_one_option
+350,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 4 3 2 7 6,1,only_one_option
+351,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 4 3 2 8 6,1,only_one_option
+352,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 4 3 2 8 7,1,only_one_option
+353,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 3 2 7 6 5,1,only_one_option
+354,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 4 3 8 7 6,1,only_one_option
+355,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 5 4 9 8 7,1,only_one_option
+356,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 6 5 10 9 8,1,only_one_option
+357,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 7 6 11 10 9,1,only_one_option
+358,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,9 8 7 12 11 10,1,only_one_option
+359,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,10 9 8 13 12 11,1,only_one_option
+360,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 5 4 3 8 7,1,only_one_option
+361,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 5 4 3 9 7,1,only_one_option
+362,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 5 4 3 9 8,1,only_one_option
+363,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 6 5 4 9 8,1,only_one_option
+364,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 6 5 4 10 8,1,only_one_option
+365,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 1 10 5 4 3,1,only_one_option
+366,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 6 5 4 10 9,1,only_one_option
+367,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 6 5 4 10 8,1,only_one_option
+368,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 6 5 4 11 9,1,only_one_option
+369,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,9 6 5 4 11 10,1,only_one_option
+370,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 6 5 4 11 9,1,only_one_option
+371,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,9 8 7 6 12 10,1,only_one_option
+372,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,9 8 7 6 12 11,1,only_one_option
+373,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,9 8 7 6 12 11,1,only_one_option
+374,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,10 8 7 6 13 11,1,only_one_option
+375,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,11 10 9 8 14 12,1,only_one_option
+376,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,11 10 9 8 14 13,1,only_one_option
+377,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,11 10 9 8 14 12,1,only_one_option
+378,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,12 10 9 8 15 13,1,only_one_option
+379,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,13 10 9 8 15 14,1,only_one_option
+380,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,12 10 9 8 15 13,1,only_one_option
+381,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,3 2 1 6 5 4,1,only_one_option
+382,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 1 13 5 4 3,1,only_one_option
+383,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 12 13,1,only_one_option
+384,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 6 5 4 9 8,1,only_one_option
+385,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 5 4 3 8 7,1,only_one_option
+386,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 6 5 4 9 8,1,only_one_option
+387,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,14 13 12 11 16 15,1,only_one_option
+388,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,3 2 1 6 5 4,1,only_one_option
+389,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,14 13 12 11 20 19,1,only_one_option
+390,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,9 8 7 6 11 10,1,only_one_option
+391,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 5 4 3 8 7,1,only_one_option
+392,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 6 5 4 9 8,1,only_one_option
+393,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 7 6 5 10 9,1,only_one_option
+394,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,10 9 8 7 12 11,1,only_one_option
+395,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,15 14 13 12 17 16,1,only_one_option
+396,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 1 9 5 4 3,1,only_one_option
+397,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 8 9,1,only_one_option
+398,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 1 10 6 4 3,1,only_one_option
+399,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,3 2 1 6 5 4,1,only_one_option
+400,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 1 11 5 4 3,1,only_one_option
+401,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 10 11,1,only_one_option
+402,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,4 3 2 7 6 5,1,only_one_option
+403,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 3 4 5 11 12,1,only_one_option
+404,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 1 12 6 4 3,1,only_one_option
+405,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,3 2 1 6 5 4,1,only_one_option
+406,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,2 1 13 5 4 3,1,only_one_option
+407,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,1 2 3 4 12 13,1,only_one_option
+408,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 4 3 2 7 6,1,only_one_option
+409,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 4 3 2 9 6,1,only_one_option
+410,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 4 3 2 9 8,1,only_one_option
+411,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 6 5 4 11 10,1,only_one_option
+412,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 6 5 4 11 8,1,only_one_option
+413,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,9 8 7 6 13 10,1,only_one_option
+414,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,9 8 7 6 13 12,1,only_one_option
+415,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,11 10 9 8 15 12,1,only_one_option
+416,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,11 10 9 8 15 14,1,only_one_option
+417,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 4 14 8 7 6,1,only_one_option
+418,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 6 5 4 12 11,1,only_one_option
+419,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,9 8 7 6 14 13,1,only_one_option
+420,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,9 8 7 6 15 13,1,only_one_option
+421,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 5 4 3 11 10,1,only_one_option
+422,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,7 6 5 4 12 11,1,only_one_option
+423,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 7 6 5 13 12,1,only_one_option
+424,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,9 8 7 6 14 13,1,only_one_option
+425,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,10 9 8 7 15 14,1,only_one_option
+426,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,11 10 9 8 16 15,1,only_one_option
+427,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,12 11 10 9 17 16,1,only_one_option
+428,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,13 12 11 10 18 17,1,only_one_option
+429,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,14 13 12 11 19 18,1,only_one_option
+430,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,11 10 9 8 13 12,1,only_one_option
+431,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,13 12 11 10 21 20,1,only_one_option
+1165,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,19 18 17 16 21 20,1,only_one_option
+1166,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,0 1 2 3 11 12,1,only_one_option
+1167,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,10 8 7 6 13 11,1,only_one_option
+1168,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,11 8 7 6 15 12,1,only_one_option
+1169,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,11 10 9 8 13 12,1,only_one_option
+1170,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,6 5 12 9 8 7,1,only_one_option
+1171,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,8 7 16 11 10 9,1,only_one_option
+1172,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 4 3 2 11 6,1,only_one_option
+1173,cation__pyridinium,G0,[#6]1:[#6]:[#6]:[#7+]:[#6]:[#6]:1,5 4 3 2 11 10,1,only_one_option
+444,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,2 3 4 5 1,1,only_one_option
+445,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,3 4 5 1 2,1,only_one_option
+446,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,4 5 6 1 3,1,only_one_option
+447,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,7 8 9 1 6,1,only_one_option
+677,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,0 1 2 3 4,1,only_one_option
+678,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,3 4 5 1 2,1,only_one_option
+679,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,6 7 8 4 5,1,only_one_option
+680,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,4 5 6 1 3,1,only_one_option
+681,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,5 6 7 2 4,1,only_one_option
+682,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,6 7 8 3 5,1,only_one_option
+683,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,7 8 9 4 6,1,only_one_option
+684,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,7 8 9 4 6,1,only_one_option
+685,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,8 9 10 4 7,1,only_one_option
+686,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,8 9 10 5 7,1,only_one_option
+687,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,9 10 11 6 8,1,only_one_option
+688,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,10 11 12 7 9,1,only_one_option
+689,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,11 12 13 8 10,1,only_one_option
+690,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,13 14 15 10 12,1,only_one_option
+691,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,6 7 8 3 5,1,only_one_option
+692,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,8 9 10 3 7,1,only_one_option
+693,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,10 11 12 1 9,1,only_one_option
+694,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,10 11 12 1 9,1,only_one_option
+695,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,6 7 8 3 5,1,only_one_option
+696,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,7 8 9 4 6,1,only_one_option
+697,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,8 9 10 5 7,1,only_one_option
+698,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,10 11 12 7 9,1,only_one_option
+699,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,10 11 12 4 9,1,only_one_option
+700,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,11 12 13 5 10,1,only_one_option
+701,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,16 17 18 7 15,1,only_one_option
+702,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,6 7 8 1 5,1,only_one_option
+703,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,7 8 9 1 6,1,only_one_option
+704,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,8 9 10 1 7,1,only_one_option
+705,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,9 10 11 7 8,1,only_one_option
+706,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,17 18 19 1 16,1,only_one_option
+707,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,10 11 12 1 9,1,only_one_option
+708,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,6 7 8 1 5,1,only_one_option
+709,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,8 9 10 1 7,1,only_one_option
+710,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,10 11 12 1 9,1,only_one_option
+1174,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,13 14 15 10 12,1,only_one_option
+1175,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,15 16 17 12 14,1,only_one_option
+1176,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,17 18 19 14 16,1,only_one_option
+1177,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,19 20 21 16 18,1,only_one_option
+1178,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,21 22 23 18 20,1,only_one_option
+1199,cation__pyrrolidinium,G0,[#6]1-[#6]-[#6]-[#7+]-[#6]-1,5 6 7 8 4,1,only_one_option
+434,cation__quinolinium,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,4 5 6 7 8 9 10 11 12 13,1,only_one_option
+435,cation__quinolinium,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,6 7 8 9 10 11 12 13 14 15,1,only_one_option
+436,cation__quinolinium,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,4 5 6 7 8 9 10 11 12 13,1,only_one_option
+437,cation__quinolinium,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,6 7 8 9 10 11 12 13 14 15,1,only_one_option
+438,cation__quinolinium,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,8 9 10 11 12 13 14 15 16 17,1,only_one_option
+439,cation__quinolinium,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,18 19 20 21 22 23 24 25 26 27,1,only_one_option
+440,cation__quinolinium,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,8 7 6 5 4 3 2 1 10 9,1,only_one_option
+441,cation__quinolinium,G0,[#7&R]1:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@[#6&R]:&@1,9 8 7 6 5 4 3 2 11 10,1,only_one_option
+859,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],0 1 2 3,1,only_one_option
+860,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],1 2 3 4,1,only_one_option
+861,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],1 2 3 4,1,only_one_option
+862,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],1 2 3 5,1,only_one_option
+863,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],2 3 4 5,1,only_one_option
+864,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],2 3 4 5,1,only_one_option
+865,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],2 3 4 6,1,only_one_option
+866,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],3 4 5 6,1,only_one_option
+867,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],3 4 5 6,1,only_one_option
+868,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],3 4 5 7,1,only_one_option
+869,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],3 4 5 9,1,only_one_option
+870,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],4 5 6 7,1,only_one_option
+871,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],4 5 6 7,1,only_one_option
+872,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],4 5 6 8,1,only_one_option
+873,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],5 6 7 8,1,only_one_option
+1215,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],2 3 4 5,1,only_one_option
+1216,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],2 3 4 6,1,only_one_option
+1217,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],3 4 5 6,1,only_one_option
+1218,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],3 4 5 7,1,only_one_option
+1219,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],2 3 4 5,1,only_one_option
+1220,cation__sulfonium,G0,[#6]-[#16+](-[#6])-[#6],5 6 7 8,1,only_one_option
+331,cation__thiazolium,G0,[#7+]1:[#6]:[#16]:[#6]:[#6]:1,4 3 11 10 5,1,only_one_option
+1159,cation__thiazolium,G0,[#7+]1:[#6]:[#16]:[#6]:[#6]:1,4 5 6 7 8,1,only_one_option
+1160,cation__thiazolium,G0,[#7+]1:[#6]:[#16]:[#6]:[#6]:1,5 4 3 2 1,1,only_one_option
+1161,cation__thiazolium,G0,[#7+]1:[#6]:[#16]:[#6]:[#6]:1,5 4 3 2 1,1,only_one_option
+1162,cation__thiazolium,G0,[#7+]1:[#6]:[#16]:[#6]:[#6]:1,2 3 4 5 9,1,only_one_option
+1163,cation__thiazolium,G0,[#7+]1:[#6]:[#16]:[#6]:[#6]:1,8 7 6 2 1,1,only_one_option
+1164,cation__thiazolium,G0,[#7+]1:[#6]:[#16]:[#6]:[#6]:1,6 7 8 9 10,1,only_one_option
+882,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],4 3 5 2 1 0,1,only_one_option
+883,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],4 3 6 2 1 0,1,only_one_option
+884,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],4 3 7 2 1 0,1,only_one_option
+885,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],2 3 4 7 8 9,1,only_one_option
+886,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],6 5 7 4 3 2,1,only_one_option
+887,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],6 5 8 4 3 2,1,only_one_option
+888,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],6 5 9 4 3 2,1,only_one_option
+889,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],6 5 9 4 3 2,1,only_one_option
+890,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],8 7 9 6 5 4,1,only_one_option
+891,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],8 7 10 6 5 4,1,only_one_option
+892,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],8 7 11 6 5 4,1,only_one_option
+893,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],8 7 11 6 5 4,1,only_one_option
+894,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],10 9 12 8 7 6,1,only_one_option
+895,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],10 9 13 8 7 6,1,only_one_option
+896,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],10 9 13 8 7 6,1,only_one_option
+1221,cation__thiouronium,G0,[#7]-[#6](-[#7])=[#16+]-[#6]-[#6],10 9 11 8 7 6,1,only_one_option
+301,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],3 4 5 6 7 9 8,1,only_one_option
+302,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],5 6 7 8 9 11 10,1,only_one_option
+303,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],7 8 9 10 11 13 12,1,only_one_option
+304,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],9 10 11 12 13 15 14,1,only_one_option
+305,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],11 12 13 14 15 17 16,1,only_one_option
+306,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],6 5 4 3 10 9 11,1,only_one_option
+307,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],2 3 4 5 9 13 10,1,only_one_option
+308,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],6 5 9 10 3 4 2,1,only_one_option
+309,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],6 5 4 3 10 9 11,1,only_one_option
+310,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],5 6 7 8 12 14 13,1,only_one_option
+311,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],6 5 4 3 14 13 15,1,only_one_option
+312,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],4 3 11 12 1 2 0,1,only_one_option
+313,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],5 6 7 8 15 17 16,1,only_one_option
+314,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],7 8 9 10 17 19 18,1,only_one_option
+315,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],9 8 7 6 16 15 17,1,only_one_option
+316,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],6 5 4 3 17 16 18,1,only_one_option
+317,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],9 10 11 12 19 21 20,1,only_one_option
+318,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],6 5 4 3 12 11 13,1,only_one_option
+319,cation__triazolium,G0,[#6]-[#7]1:[#6]:[#6]:[#7+](:[#7]:1)-[#6],4 3 9 10 1 2 0,1,only_one_option
+320,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 8 9,1,only_one_option
+321,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,4 5 6 7 16 17,1,only_one_option
+322,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,0 1 2 3 5 6,1,only_one_option
+323,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 13 14,1,only_one_option
+324,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 16 17,1,only_one_option
+325,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,0 1 2 3 10 11,1,only_one_option
+326,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 12 13,1,only_one_option
+327,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,3 4 5 6 13 14,1,only_one_option
+328,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,6 7 8 9 16 17,1,only_one_option
+329,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 19 20,1,only_one_option
+1152,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,1 2 3 4 6 7,1,only_one_option
+1153,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,2 3 4 5 7 8,1,only_one_option
+1154,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,5 6 7 8 10 11,1,only_one_option
+1155,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,7 8 9 10 12 13,1,only_one_option
+1156,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,9 10 11 12 14 15,1,only_one_option
+1157,cation__triazolium,G1,[#6]-[#7]1:[#6]:[#7+]:[#6]:[#7]:1,11 12 13 14 16 17,1,only_one_option

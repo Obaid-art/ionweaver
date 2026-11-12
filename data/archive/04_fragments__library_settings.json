@@ -1,0 +1,6 @@
+{
+  "body_cut_only_at_acyclic_bonds": true,
+  "library_key": "canonical SMILES of the component with a dummy atom at each attachment, bonded at the order the attachment carried",
+  "min_fragment_heavy_atoms": 2,
+  "min_group_heavy_atoms": 2
+}

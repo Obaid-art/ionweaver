@@ -1,0 +1,3 @@
+method,attempts,decoded,sanitises,accepted,identical_to_parent,distinct_products,ions_reached
+smiles,149827,149827,57946,32486,1671,27317,1211
+selfies,150180,150180,150180,51297,8030,36412,1212

@@ -1,0 +1,20 @@
+inventory_id,family_id,canonical_smiles,reason
+1056,anion__alcoholates,[O-]CC(F)(F)F,no candidate reached the floors or the support minimum
+1084,anion__alcoholates,O=C1OC(C(O)CO)C([O-])=C1O,no candidate reached the floors or the support minimum
+926,anion__dicyanamides,N#C[N-]C#N,fewer than 2 members remained
+1108,anion__heterocyclic_amines,c1nc[n-]n1,no candidate reached the floors or the support minimum
+1109,anion__heterocyclic_amines,c1nn[n-]n1,no candidate reached the floors or the support minimum
+1111,anion__heterocyclic_amines,N#Cc1ccc[n-]1,no candidate reached the floors or the support minimum
+1118,anion__heterocyclic_amines,O=C([O-])c1ccc2ccccc2c1,no candidate reached the floors or the support minimum
+1119,anion__heterocyclic_amines,c1c[n-]nn1,no candidate reached the floors or the support minimum
+924,anion__methanides,O=S(=O)([C-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F)C(F)(F)F,fewer than 2 members remained
+973,anion__pf6_derivatives,O=P([N-]P(=O)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F,fewer than 2 members remained
+1016,anion__phosphates,CCOP(=S)([S-])OCC,fewer than 2 members remained
+1086,anion__sulfonates,CC1=CC(=O)[N-]S(=O)(=O)O1,no candidate reached the floors or the support minimum
+1087,anion__sulfonates,O=C1[N-]S(=O)(=O)c2ccccc21,no candidate reached the floors or the support minimum
+453,cation__ammonium,C[NH3+],fewer than 2 members remained
+746,cation__bicyclic,CCCCCC[N+]12CCN(CC1)CC2,fewer than 2 members remained
+1180,cation__cyclic_amidium,CCOC1=[N+](C)CCCCC1,fewer than 2 members remained
+1211,cation__cyclic_phosphonium,CCCC[P+]1(C)CCCCC1,no candidate reached the floors or the support minimum
+1213,cation__cyclic_phosphonium,CCCC[P+]1(C)CCCC1,no candidate reached the floors or the support minimum
+330,cation__tetrazolium,CCSc1[nH+]nnn1C,fewer than 2 members remained

@@ -1,0 +1,36 @@
+{
+  "allowance_examined_and_recorded": 100,
+  "allowance_the_study_reports": 50,
+  "allowances": [
+    25,
+    50,
+    100
+  ],
+  "candidate_order": "keyed shuffle: blake2b over the seed, the ion, the operator and the candidate's own signature",
+  "conditions_in_order": [
+    "ledger",
+    "atom_environment",
+    "bond_environment",
+    "neutral_and_non_aromatic",
+    "terminal_halogen",
+    "above_lowest_valence_with_hydrogen"
+  ],
+  "packages": {
+    "rdkit": "2026.03.6",
+    "selfies": "2.2.0",
+    "selfies_own_version_string_is_stale": true
+  },
+  "prefix_check_failures": [],
+  "scoring": {
+    "allowance": 50,
+    "exclude_parent": true,
+    "require_closed_shell": true,
+    "require_connected": true
+  },
+  "seed": 20261005,
+  "similarity": {
+    "bits": 2048,
+    "kind": "Tanimoto over Morgan fingerprints",
+    "radius": 2
+  }
+}

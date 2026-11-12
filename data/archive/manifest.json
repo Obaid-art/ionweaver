@@ -1,0 +1,495 @@
+{
+  "files": [
+    {
+      "bytes": 74537074,
+      "file": "06_string_controls/string_control_records.csv",
+      "sha256": "17ed44e037c9f8c352d497fb03783b08d132e53956ccf8cac74d67bcf21323cc"
+    },
+    {
+      "bytes": 1051,
+      "file": "06_string_controls/string_control_settings.json",
+      "sha256": "9b1f9b2c2649f19eab3258df2fac39ba81c77e13c36554f7393e65591608b667"
+    },
+    {
+      "bytes": 197,
+      "file": "06_string_controls/string_control_summary.csv",
+      "sha256": "37d18f7c1d313476376f30c6c5b390a55b5ebd30c1bd892c3b33c02199e7c93b"
+    },
+    {
+      "bytes": 10577,
+      "file": "10_aggregates/FACTS.json",
+      "sha256": "009e7e2d10b753bc70be57d043a1574d1ad189239dbefbaad197c0298eae655f"
+    },
+    {
+      "bytes": 1567518,
+      "file": "10_aggregates/diversity_sample.csv",
+      "sha256": "56601f537e5cbe64c10c7cbb9260f7adf55108d1cfc40f26b78fdc3d856cc6a8"
+    },
+    {
+      "bytes": 2649,
+      "file": "10_aggregates/headline_results.json",
+      "sha256": "ef1bf6e31d8d5e714766e6ac14059bb1d97e0ae25914d6d9b08a9abd565b1f1f"
+    },
+    {
+      "bytes": 3225,
+      "file": "10_aggregates/product_quality.csv",
+      "sha256": "d0bebf0863d86526a2cadbbfb8fcb47ba5ba5e6d62182328fef40323b3932269"
+    },
+    {
+      "bytes": 1010,
+      "file": "10_aggregates/quality_settings.json",
+      "sha256": "d4ced43b74831080560d7050a660bc9ff6070e581ebda413bc67741dec9eeef5"
+    },
+    {
+      "bytes": 77,
+      "file": "10_aggregates/timing.json",
+      "sha256": "d3040ccc25eb9bd9e5866d8b026461686d1814597773eec6bb3a0428e3172c84"
+    },
+    {
+      "bytes": 22696,
+      "file": "10_aggregates/worked_examples.csv",
+      "sha256": "2833439927e4e39fa2bad36211b51040f1be507628f0f38132c33089ee447de0"
+    },
+    {
+      "bytes": 120986,
+      "file": "03_cores/core_candidate_diagnostics.csv",
+      "sha256": "6553a4a4a33d6b1d72b64893b47ce6778db26f84a686d8f18df08854d34e74b8"
+    },
+    {
+      "bytes": 437750,
+      "file": "03_cores/core_selection_decisions.csv",
+      "sha256": "eda47d186dbb716403040e290b63fcaf2de533a56115a38e1285f412c7265747"
+    },
+    {
+      "bytes": 158,
+      "file": "03_cores/core_settings.json",
+      "sha256": "67860e11eaa06cb6caffe6437b47fc16702d17c2f1d54a9223be5b423565033f"
+    },
+    {
+      "bytes": 341,
+      "file": "03_cores/core_support_distribution.csv",
+      "sha256": "4a097bd42dcfdbe2411b7e926a645b01780461bc6dbb20118661a9ddb32fac58"
+    },
+    {
+      "bytes": 1318,
+      "file": "03_cores/family_core_coverage.csv",
+      "sha256": "6b776ee0b6191a081b67be6a83ebbd7f320e809581f3d6877936f82c504f134c"
+    },
+    {
+      "bytes": 5097,
+      "file": "03_cores/family_core_models.csv",
+      "sha256": "62b68873e5584a425e26ceaaf608fd5cc94ec193cbabe6948e154753be6effca"
+    },
+    {
+      "bytes": 1855,
+      "file": "03_cores/ions_without_a_core.csv",
+      "sha256": "c686bea6d40d63c22daa08e81e1b88b93a3159849cc8161f264958a097d5bb1f"
+    },
+    {
+      "bytes": 94,
+      "file": "03_cores/ions_without_an_editable_site.csv",
+      "sha256": "51eeeeb64161712c855a09c64a488bf85691eba45bc440e7ac7232a9d01d0c01"
+    },
+    {
+      "bytes": 105338,
+      "file": "03_cores/source_core_assignments.csv",
+      "sha256": "a0300696f6175c7468620d0836ec2c4ade8b7119062a31874a35acfc6f4e3a65"
+    },
+    {
+      "bytes": 141338,
+      "file": "03_cores/starting_ions.csv",
+      "sha256": "0b1656e09c6f1f60bc9f372e6caf9bdad9fb47e4438ea8b49482f91db9d93045"
+    },
+    {
+      "bytes": 479,
+      "file": "03_cores/support_floor_cost.csv",
+      "sha256": "0d2765c4abf340cd513f99a55bde768531b9e572a660bd60afb2dfe86f30d928"
+    },
+    {
+      "bytes": 2131,
+      "file": "03_cores/support_floor_finding.json",
+      "sha256": "5c10cd7dc11cad090be6d314de7690d62139fd980318feeeeb5f2298a030ed83"
+    },
+    {
+      "bytes": 665,
+      "file": "08_comparison/comparison_settings.json",
+      "sha256": "e14716feea1586d812cccb5cc102513f0d510eca8359aadcec63320505694c7a"
+    },
+    {
+      "bytes": 65824,
+      "file": "08_comparison/matched_comparison.csv",
+      "sha256": "960532810a1d31838157e15b9fa34d0375c1638c260441993476f54f2acd4e34"
+    },
+    {
+      "bytes": 49368,
+      "file": "08_comparison/reach_matrix.csv",
+      "sha256": "9b514103f182824394d0a8debc4a6ff9b8669fc53bb261c95f0d139925c89e41"
+    },
+    {
+      "bytes": 8687,
+      "file": "07_sequential/root_selection.csv",
+      "sha256": "38a2ea6242aa925a5e9ff46cadee2de72dc8fba291b0ed716f0be60595c25a58"
+    },
+    {
+      "bytes": 228,
+      "file": "07_sequential/rule_summary.csv",
+      "sha256": "765cd8be6c2bf420531a3527c35271938c0a135b7408f1ea08f1be7cd575e24c"
+    },
+    {
+      "bytes": 1009,
+      "file": "07_sequential/sequential_settings.json",
+      "sha256": "9f55c7d86efe41c24d1d5be1710b96b0a04f67e208effe1c2abf4e0a11316a46"
+    },
+    {
+      "bytes": 24732272,
+      "file": "07_sequential/trajectory_candidates.csv",
+      "sha256": "eb30159b89cccd829e4ff5690051dbb006981b6cd67173caef60d9006fd4e01f"
+    },
+    {
+      "bytes": 506468,
+      "file": "07_sequential/trajectory_steps.csv",
+      "sha256": "07c5c06c8aa4f5c65818849dde461d0ff75e3324631e880c2c33f95bfd3710dd"
+    },
+    {
+      "bytes": 26542,
+      "file": "07_sequential/trajectory_summary.csv",
+      "sha256": "688485f32c32646552c70c730fde5515cdb549f5c09423fbe37f843f66a62900"
+    },
+    {
+      "bytes": 495724,
+      "file": "02_curation/curation_audit.csv",
+      "sha256": "4af054d3d486d0914234378e71cca6c0da176cb6e6314e88aab791cf3749faff"
+    },
+    {
+      "bytes": 1886,
+      "file": "02_curation/curation_summary.json",
+      "sha256": "ffc58d22203555335e4d61f4f21532b9c8b7e30a8320770c6350af9529762664"
+    },
+    {
+      "bytes": 79824904,
+      "file": "09_validation/definition_signatures.csv",
+      "sha256": "3d66c7fae8dc18c0aedd30fe8cbb3b09cf746b5198b58844b728b82332d2004f"
+    },
+    {
+      "bytes": 1619,
+      "file": "09_validation/negative_tests.csv",
+      "sha256": "3be420f60ec98e736dd5f2df60508c0819976247c09c58858f62b418fa4b9f07"
+    },
+    {
+      "bytes": 119,
+      "file": "09_validation/perception_aromaticity.csv",
+      "sha256": "95b60669d080f5d4f73bf5e29bd4f4d481f4f5b1648c0ded59dd90fc5f7915f2"
+    },
+    {
+      "bytes": 63566721,
+      "file": "09_validation/perception_check.csv",
+      "sha256": "cfe4497d4e1a2995458eb566874418f0ddf03579c11cbdb1e43e1557b8aafb81"
+    },
+    {
+      "bytes": 886119,
+      "file": "09_validation/product_coincidences.csv",
+      "sha256": "f3af2244546bba90f9ae5e609488985ab51661547c276108da5a4239674aa1c9"
+    },
+    {
+      "bytes": 142,
+      "file": "09_validation/signature_collisions.csv",
+      "sha256": "572247182097616c00d9db565932a4a2de618f3cdc6be1abf08be1a64a8cfb0e"
+    },
+    {
+      "bytes": 3753,
+      "file": "09_validation/validation_report.md",
+      "sha256": "5e7e704eb36a80cd6584321f6b36d834242b172eece1a2e068820936715081de"
+    },
+    {
+      "bytes": 4394,
+      "file": "09_validation/validation_results.json",
+      "sha256": "b666177223b87de16c6cbd1a225fef8691216e6b3e9ad6c5c414c3b21ff23f65"
+    },
+    {
+      "bytes": 1246,
+      "file": "01_inputs/input_provenance.json",
+      "sha256": "7350d48b47b9d0eea9b21782d72f4f615d984a5a65a8c8ebd62b7b73f4bc3c0d"
+    },
+    {
+      "bytes": 4255,
+      "file": "01_inputs/observed_atom_environments.csv",
+      "sha256": "b07045c733d2ca04724f9e627f2eb4f4008dd6511ba77e12f15dd57fe9eabd43"
+    },
+    {
+      "bytes": 2223,
+      "file": "01_inputs/observed_bond_environments.csv",
+      "sha256": "a2ac1c37573b055d1813d632f17db7e47c4a5144cc4df24427c12afef8bce84c"
+    },
+    {
+      "bytes": 223,
+      "file": "01_inputs/observed_ring_environments.csv",
+      "sha256": "5080094052aa838bdbbebad082b1a8ec4379847a18ddc3c921ebb701e865087d"
+    },
+    {
+      "bytes": 208,
+      "file": "05_single_edits/budget_sensitivity.csv",
+      "sha256": "9fdfd084c4f6cd80f9f949d820e0f56c8ad92add89b6667c8c24279bca525b01"
+    },
+    {
+      "bytes": 125312,
+      "file": "05_single_edits/definition_refusals.csv",
+      "sha256": "330237164680057c5afa249b4937d185ae49349b06c5f6fc0331859cbcc208af"
+    },
+    {
+      "bytes": 289312258,
+      "file": "05_single_edits/examination_records.csv",
+      "sha256": "2ec57567d7690c433dbc5f2b525256be86bcb3286909b42ed1d47bfa8f024aee"
+    },
+    {
+      "bytes": 875280,
+      "file": "05_single_edits/operator_definition_space.csv",
+      "sha256": "75fe9dd79b1cd9d104898ac8b25fb57ddf1f9c0714a75b5118ada71a2f4ea8fc"
+    },
+    {
+      "bytes": 470929,
+      "file": "05_single_edits/per_ion_operator_summary.csv",
+      "sha256": "858088aa6c5be20d5f350535a532da3ad8bda2fd8113cb039b236c298a2d7bf4"
+    },
+    {
+      "bytes": 99,
+      "file": "05_single_edits/refusal_records.csv",
+      "sha256": "d2de9d713190718393637dd69aa89ae79ee64421b8bbefab0b4b36280bc6d98e"
+    },
+    {
+      "bytes": 846,
+      "file": "05_single_edits/single_edit_settings.json",
+      "sha256": "c58633f1dcd90a57e8eab2d07a8d1a1d5613efeb20efeebd60861088911db563"
+    },
+    {
+      "bytes": 120285556,
+      "file": "05_single_edits/valence_ledger.csv",
+      "sha256": "54166d781da86b92b35ab3cea34a6e6743d2fb214446b030f20e4a72b34f4187"
+    },
+    {
+      "bytes": 322909,
+      "file": "04_fragments/component_instances.csv",
+      "sha256": "8eae65e43ab5ebc125b399af9730e2cdbcd6349968920365d67be1cfc43c37a9"
+    },
+    {
+      "bytes": 32142,
+      "file": "04_fragments/component_library.csv",
+      "sha256": "4b6b6b1f26d9c1daff612ac4d0f24695d92fa2434ae780d7bd4f78b956765ad9"
+    },
+    {
+      "bytes": 242,
+      "file": "04_fragments/library_settings.json",
+      "sha256": "1bebf27cc79b9c12db9f9ffb1529c5bf7de50433badd699364c5432086aaedca"
+    },
+    {
+      "bytes": 614,
+      "file": "04_fragments/library_summary.json",
+      "sha256": "1a277f133e19ddfffa2f82793a95d3716029a470686707f71ac34d80bc1a810b"
+    },
+    {
+      "bytes": 9144,
+      "file": "04_fragments/ring_shared_atoms.csv",
+      "sha256": "3a583026112ec5fd809ba3b023ca705362e3779710317e924484a640d4cead63"
+    },
+    {
+      "bytes": 22205,
+      "file": "04_fragments/terminal_fragments.csv",
+      "sha256": "a6d11c88c6dea172bbbb02a6fa24a21fe4653ffda6e0d33e15cb543744652146"
+    },
+    {
+      "bytes": 13380,
+      "file": "engine/iw.archive",
+      "sha256": "efe4a56c50c58e9351219bf5c4f0e1675e30642aaddf1d8f995ff29943a67c32"
+    },
+    {
+      "bytes": 15339,
+      "file": "engine/iw.build",
+      "sha256": "7f8ad562f21eba3cc3a432d4b58fd29d9ffee252be47f7b3905df24b725672f1"
+    },
+    {
+      "bytes": 11647,
+      "file": "engine/iw.common",
+      "sha256": "4bf39b6601a55cc15ee3f729086ff706b6b7baac2c3264ff4c4bbc54f3059660"
+    },
+    {
+      "bytes": 15423,
+      "file": "engine/iw.cores",
+      "sha256": "14ee52af7d5a7f97acae5646e2fff9d0ca076d5b27d8852449b37441366ff115"
+    },
+    {
+      "bytes": 7198,
+      "file": "engine/iw.curation",
+      "sha256": "35bb9d60fa04b42083a421aba878940962e72413481f5e9bdbbd241d23c280bc"
+    },
+    {
+      "bytes": 9459,
+      "file": "engine/iw.discovery",
+      "sha256": "2845978b8f79532bb34f50f682482605f0db264e377f6c74a7fdc560e2274074"
+    },
+    {
+      "bytes": 9173,
+      "file": "engine/iw.diversity",
+      "sha256": "f94b989849538a361123fc62046ffc6b59e4beba6cdd4e51b4f4dd3556002fe3"
+    },
+    {
+      "bytes": 13313,
+      "file": "engine/iw.examples",
+      "sha256": "1456acd045e4976887b402eb969c6d4a33c43c507311376f8ba8a9c8985f7006"
+    },
+    {
+      "bytes": 14031,
+      "file": "engine/iw.facts",
+      "sha256": "429e3ef399a83e95528d1ef7d3f2a9b599f851adca9444b39e630c0960aeb33d"
+    },
+    {
+      "bytes": 26296,
+      "file": "engine/iw.fragments",
+      "sha256": "82a155e9ebd2bec6aa6d8e94f9f546be9de2afc3f881ea1e165b4917a04473ac"
+    },
+    {
+      "bytes": 4823,
+      "file": "engine/iw.inputs",
+      "sha256": "ac707d58dfb59f40d58930e6fa4d1f72d02f2c59fd81531dfe4c82b6c14c0a53"
+    },
+    {
+      "bytes": 8103,
+      "file": "engine/iw.ledger",
+      "sha256": "f239f6b08cc497ae524cae115ec81518676e14245d399716307418e007b70c7d"
+    },
+    {
+      "bytes": 37016,
+      "file": "engine/iw.operators",
+      "sha256": "0592c5ff96727d6fc2356a54ec0b1a55ec165d30ffb79e22c911ad76ad16d134"
+    },
+    {
+      "bytes": 7540,
+      "file": "engine/iw.perception",
+      "sha256": "d4024e48ec03601c22095b86a59247db95d47797b24b0af7ed7814ed9cdad683"
+    },
+    {
+      "bytes": 7078,
+      "file": "engine/iw.registry",
+      "sha256": "ae13fd3fffd8b8fe29d28f7243d19dcbd334b4c7d513b562c974371304d839fc"
+    },
+    {
+      "bytes": 10876,
+      "file": "engine/iw.sequential",
+      "sha256": "c8770038c8eafd4d9b90831ba684dc54fb0b1f56aa56fd70fcc65ee19fbfd753"
+    },
+    {
+      "bytes": 17191,
+      "file": "engine/iw.single",
+      "sha256": "aaaa0b65b8ae047b380c64a6fb9da98d461a36e48e5f73350b9eec82b5c317bf"
+    },
+    {
+      "bytes": 10882,
+      "file": "engine/iw.strings",
+      "sha256": "f9b5a5b3236c9392ce72d3f50d17b8b3827cc0f45da2f6af349ade5b28f1f9ca"
+    }
+  ],
+  "note": "the validation key is the suite's own verdict, kept beside the hashes so a deposit carries both",
+  "validation": {
+    "checks": [
+      {
+        "check": "the eight operators are pairwise disjoint",
+        "file": "09_validation/signature_collisions.csv",
+        "found": 0,
+        "held": true,
+        "must_be": "empty",
+        "statement": "no definition signature appears under two operators, tested over every definition on every starting ion"
+      },
+      {
+        "check": "every ring in a product traces to its source",
+        "file": "09_validation/perception_check.csv",
+        "found": 0,
+        "held": true,
+        "must_be": "no disagreeing row",
+        "statement": "each ring is a ring of the parent or of the fragment the edit introduced, unchanged in size and bond orders"
+      },
+      {
+        "check": "no atom's aromatic flag changed",
+        "file": "09_validation/perception_aromaticity.csv",
+        "found": 0,
+        "held": true,
+        "must_be": "empty",
+        "statement": "an atom's aromatic flag matches the flag its source carried; only disagreements are written to the file"
+      },
+      {
+        "check": "certification refused nothing",
+        "file": "05_single_edits/refusal_records.csv",
+        "found": 0,
+        "held": true,
+        "must_be": "empty",
+        "statement": "certification is an assertion that the construction rules held, so a refusal is a defect and not a result"
+      },
+      {
+        "check": "the label route and the search route agree",
+        "file": "05_single_edits/examination_records.csv",
+        "found": 0,
+        "held": true,
+        "must_be": "no disagreeing row",
+        "statement": "certification reads the label applied before the edit and the judge searches the product for the core; they answer the same question by different routes"
+      },
+      {
+        "check": "no product is identical to its parent",
+        "file": "05_single_edits/examination_records.csv",
+        "found": 0,
+        "held": true,
+        "must_be": "empty",
+        "statement": "Swap's incoming component and Cross-over's joined fragment must differ from what left, which is a precondition and not a filter"
+      },
+      {
+        "check": "every body component attaches at exactly one point",
+        "file": "04_fragments/component_instances.csv",
+        "found": 0,
+        "held": true,
+        "must_be": "every row's attachment_count is 1",
+        "statement": "a consequence of cutting the body only at acyclic bonds, since the fixed set is connected"
+      },
+      {
+        "check": "every body component was admitted to the library",
+        "file": "04_fragments/component_instances.csv",
+        "found": 0,
+        "held": true,
+        "must_be": "every row admitted",
+        "statement": "a component is excluded by being part of a ring the core covers in part, which is decided from the parent graph, and never by failing to sanitize"
+      },
+      {
+        "check": "the negative test: the unchanged starting ion",
+        "file": "09_validation/negative_tests.csv",
+        "found": "certified",
+        "held": true,
+        "must_be": "certified",
+        "statement": "the starting ion must certify, or every refusal below would be meaningless"
+      },
+      {
+        "check": "the negative test: a bond added between two core atoms",
+        "file": "09_validation/negative_tests.csv",
+        "found": "refused by 4_the_induced_bond_set_on_those_atoms_unchanged",
+        "held": true,
+        "must_be": "refused",
+        "statement": "requirement 4 holds the complete induced bond set, so a bond added inside the core is a bond the core did not have"
+      },
+      {
+        "check": "the negative test: a core bond removed",
+        "file": "09_validation/negative_tests.csv",
+        "found": "refused by 1_one_connected_closed_shell_molecule_that_sanitizes",
+        "held": true,
+        "must_be": "refused",
+        "statement": "requirement 4 again, from the other side"
+      },
+      {
+        "check": "the negative test: a core atom altered",
+        "file": "09_validation/negative_tests.csv",
+        "found": "refused by 3_every_core_atom_present_as_it_was",
+        "held": true,
+        "must_be": "refused",
+        "statement": "requirement 3 holds every core atom's element, charge and aromaticity"
+      }
+    ],
+    "definition_space_rows": 11192,
+    "every_check_held": true,
+    "library_components": 255,
+    "note": "a product reached twice by different routes is counted and not refused; it is the honest measure of how much each operator adds, and it is not a collision of definition",
+    "products_reached_by_two_operators_from_one_parent": 18005
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "allowance_per_round_per_operator": 50,
+  "median_single_edit_similarity": 0.514286,
+  "median_single_edit_similarity_rule": "the median similarity between a product and the ion it was edited from, over the single-edit run, unrounded. Reported because it says what one edit does; no selection rule uses a threshold",
+  "preference_by_rule": {
+    "exploration": "least similar",
+    "local": "most similar",
+    "random": "none"
+  },
+  "root_rule": "the ion whose body is closest to the median body size for that core, then canonical SMILES",
+  "rounds": 12,
+  "rule_meanings": {
+    "exploration": "always selects the product least similar to the starting ion",
+    "local": "always selects the product most similar to the starting ion",
+    "random": "selects any new valid product, with no distance preference"
+  },
+  "rules": [
+    "random",
+    "local",
+    "exploration"
+  ],
+  "seed": 20261005,
+  "similarity_is_measured_against": "the ion the walk started from, not the ion of the current round"
+}

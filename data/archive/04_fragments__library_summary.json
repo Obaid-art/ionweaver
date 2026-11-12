@@ -1,0 +1,22 @@
+{
+  "component_instances": 2845,
+  "components_attached_by_a_ring_bond": 0,
+  "eligible": {
+    "crossover": 211,
+    "graft": 244,
+    "prune": 211,
+    "swap": 244
+  },
+  "fragments_that_are_not_library_components": 141,
+  "instances_admitted": 2845,
+  "instances_not_admitted": {},
+  "ions_with_a_multi_attachment_component": 0,
+  "ions_with_ring_shared_atoms": 28,
+  "largest_component_heavy_atoms": 30,
+  "library_components": 255,
+  "multi_attachment_components": 0,
+  "multi_attachment_occurrences": 0,
+  "ring_shared_atoms": 130,
+  "single_atom_components": 11,
+  "terminal_fragments_at_two_or_more": 247
+}

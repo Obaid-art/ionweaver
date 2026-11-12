@@ -1,0 +1,58 @@
+environment_id,element,atomic_number,formal_charge,aromatic,total_valence,attached_hydrogens,bond_orders,degree,occurrences,ions,creatable,not_creatable_reason
+1,B,5,-1,0,4,0,SINGLE SINGLE SINGLE SINGLE,4,43,43,0,carries a formal charge; only the core carries charge
+2,C,6,-1,0,3,0,SINGLE SINGLE SINGLE,3,6,6,0,carries a formal charge; only the core carries charge
+3,C,6,0,0,4,0,DOUBLE SINGLE SINGLE,3,248,219,1,
+4,C,6,0,0,4,0,SINGLE SINGLE SINGLE SINGLE,4,211,80,1,
+5,C,6,0,0,4,0,SINGLE TRIPLE,2,109,77,1,
+6,C,6,0,0,4,1,DOUBLE SINGLE,2,59,48,1,
+7,C,6,0,0,4,1,SINGLE SINGLE SINGLE,3,283,163,1,
+8,C,6,0,0,4,1,TRIPLE,1,5,4,1,
+9,C,6,0,0,4,2,DOUBLE,1,42,37,1,
+10,C,6,0,0,4,2,SINGLE SINGLE,2,6907,1065,1,
+11,C,6,0,0,4,3,SINGLE,1,2740,1053,1,
+12,C,6,0,1,4,0,AROMATIC AROMATIC AROMATIC,3,34,18,0,aromatic; an edit places no aromatic atom
+13,C,6,0,1,4,0,AROMATIC AROMATIC SINGLE,3,502,329,0,aromatic; an edit places no aromatic atom
+14,C,6,0,1,4,1,AROMATIC AROMATIC,2,1960,574,0,aromatic; an edit places no aromatic atom
+15,C,6,1,1,3,0,AROMATIC AROMATIC SINGLE,3,21,21,0,carries a formal charge; only the core carries charge
+16,N,7,-1,0,2,0,SINGLE SINGLE,2,15,15,0,carries a formal charge; only the core carries charge
+17,N,7,-1,1,2,0,AROMATIC AROMATIC,2,14,14,0,carries a formal charge; only the core carries charge
+18,N,7,0,0,3,0,SINGLE SINGLE SINGLE,3,137,71,1,
+19,N,7,0,0,3,0,TRIPLE,1,104,73,1,
+20,N,7,0,0,3,1,DOUBLE,1,1,1,1,
+21,N,7,0,0,3,1,SINGLE SINGLE,2,29,19,1,
+22,N,7,0,0,3,2,SINGLE,1,45,38,1,
+23,N,7,0,1,3,0,AROMATIC AROMATIC,2,59,54,0,aromatic; an edit places no aromatic atom
+24,N,7,0,1,3,0,AROMATIC AROMATIC SINGLE,3,361,361,0,aromatic; an edit places no aromatic atom
+25,N,7,0,1,3,1,AROMATIC AROMATIC,2,8,8,0,aromatic; an edit places no aromatic atom
+26,N,7,1,0,4,0,DOUBLE SINGLE SINGLE,3,36,36,0,carries a formal charge; only the core carries charge
+27,N,7,1,0,4,0,SINGLE SINGLE SINGLE SINGLE,4,279,279,0,carries a formal charge; only the core carries charge
+28,N,7,1,0,4,1,DOUBLE SINGLE,2,2,2,0,carries a formal charge; only the core carries charge
+29,N,7,1,0,4,1,SINGLE SINGLE SINGLE,3,22,22,0,carries a formal charge; only the core carries charge
+30,N,7,1,0,4,2,DOUBLE,1,1,1,0,carries a formal charge; only the core carries charge
+31,N,7,1,0,4,2,SINGLE SINGLE,2,19,19,0,carries a formal charge; only the core carries charge
+32,N,7,1,0,4,3,SINGLE,1,32,32,0,carries a formal charge; only the core carries charge
+33,N,7,1,1,4,0,AROMATIC AROMATIC AROMATIC,3,2,2,0,carries a formal charge; only the core carries charge
+34,N,7,1,1,4,0,AROMATIC AROMATIC SINGLE,3,459,459,0,carries a formal charge; only the core carries charge
+35,N,7,1,1,4,1,AROMATIC AROMATIC,2,32,32,0,carries a formal charge; only the core carries charge
+36,O,8,-1,0,1,0,SINGLE,1,141,141,0,carries a formal charge; only the core carries charge
+37,O,8,0,0,2,0,DOUBLE,1,388,254,1,
+38,O,8,0,0,2,0,SINGLE SINGLE,2,550,397,1,
+39,O,8,0,0,2,1,SINGLE,1,129,113,1,
+40,F,9,0,0,1,0,SINGLE,1,656,107,1,
+41,Si,14,0,0,4,0,SINGLE SINGLE SINGLE SINGLE,4,16,11,1,
+42,P,15,-1,0,6,0,SINGLE SINGLE SINGLE SINGLE SINGLE SINGLE,6,4,4,0,carries a formal charge; only the core carries charge
+43,P,15,0,0,5,0,DOUBLE SINGLE SINGLE SINGLE,4,19,17,1,
+44,P,15,0,0,5,1,DOUBLE SINGLE SINGLE,3,5,5,0,above the lowest standard valence while carrying hydrogen; sanitization can rewrite such a centre with its charge separated
+45,P,15,1,0,4,0,SINGLE SINGLE SINGLE SINGLE,4,66,66,0,carries a formal charge; only the core carries charge
+46,P,15,1,0,4,1,SINGLE SINGLE SINGLE,3,1,1,0,carries a formal charge; only the core carries charge
+47,S,16,-1,0,1,0,SINGLE,1,1,1,0,carries a formal charge; only the core carries charge
+48,S,16,0,0,2,0,DOUBLE,1,1,1,1,
+49,S,16,0,0,2,0,SINGLE SINGLE,2,13,13,1,
+50,S,16,0,0,2,1,SINGLE,1,2,2,1,
+51,S,16,0,0,6,0,DOUBLE DOUBLE SINGLE SINGLE,4,91,79,1,
+52,S,16,0,1,2,0,AROMATIC AROMATIC,2,7,7,0,aromatic; an edit places no aromatic atom
+53,S,16,1,0,3,0,DOUBLE SINGLE,2,16,16,0,carries a formal charge; only the core carries charge
+54,S,16,1,0,3,0,SINGLE SINGLE SINGLE,3,29,29,0,carries a formal charge; only the core carries charge
+55,Cl,17,0,0,1,0,SINGLE,1,14,9,1,
+56,Br,35,0,0,1,0,SINGLE,1,28,10,1,
+57,I,53,0,0,1,0,SINGLE,1,4,2,1,

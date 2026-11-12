@@ -1,0 +1,8 @@
+{
+  "bond_comparator": "CompareOrder",
+  "mcs_timeout": 0,
+  "min_core_atoms": 3,
+  "min_core_bonds": 2,
+  "min_support": 2,
+  "pairwise_residual_limit": 24
+}

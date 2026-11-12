@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IonWeaver · new ions that keep their family</title>
+<meta name="description" content="Certified graph editing of individual ions: protect the charged core, change only the body, certify every product before it is offered.">
+<link rel="icon" href="mark.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=5">
+<script src="config.js"></script>
+</head>
+<body>
+<header>
+  <a class="brand" href="#start"><img src="mark.svg" alt="" width="34" height="34"><div><div class="course">Certified graph editing of ions</div><h1>IonWeaver</h1></div></a>
+  <p class="who">The charged core is protected, everything else may change, every product is certified.</p>
+  <button class="mast engine" id="engineBadge" type="button" title="Which engine is running"><span class="dot" id="engineDot"></span><div><b id="engineText">connecting…</b><small>engine</small></div></button>
+</header>
+<div class="wrap">
+<nav id="nav">
+  <div class="part">Start</div>
+  <button data-screen="start" class="on"><span class="n">⌂</span>Overview</button>
+  <div class="part">Three ways to begin</div>
+  <button data-screen="families"><span class="n">1</span>Published families</button>
+  <button data-screen="own"><span class="n">2</span>Your own ion</button>
+  <button data-screen="sheet"><span class="n">3</span>Your own family</button>
+  <div class="part">Work</div>
+  <button data-screen="bench" id="navBench" disabled title="Choose a parent first"><span class="n">✎</span>Workbench</button>
+  <button data-screen="studio"><span class="n">⚒</span>Studio</button>
+  <button data-screen="batch"><span class="n">⇶</span>Across families</button>
+  <div class="part">Reference</div>
+  <button data-screen="library"><span class="n">⚛</span>Component library</button>
+  <button data-screen="about"><span class="n">§</span>Method &amp; numbers</button>
+  <div class="small" id="navNote"></div>
+</nav>
+<main id="main">
+  <section class="screen on" id="screen-start"></section>
+  <section class="screen" id="screen-families"></section>
+  <section class="screen" id="screen-own"></section>
+  <section class="screen" id="screen-sheet"></section>
+  <section class="screen" id="screen-bench"></section>
+  <section class="screen" id="screen-batch"></section>
+  <section class="screen" id="screen-library"></section>
+  <section class="screen" id="screen-studio"></section>
+  <section class="screen" id="screen-about"></section>
+</main>
+</div>
+<footer>The engine of the submitted manuscript, module for module (hashes on the Method page). Nothing you paste or upload is stored beyond the session.</footer>
+<div id="toast" class="toast" hidden></div>
+<dialog id="dlg"><div class="dlg-body" id="dlgBody"></div></dialog>
+<script src="app.js?v=7"></script>
+<script src="studio.js?v=4"></script>
+</body>
+</html>
