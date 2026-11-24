@@ -7,8 +7,7 @@
 The deploy prints the public address, of the form
 https://<workspace>--ionweaver-web.modal.run ; put it in web/config.js.
 The container starts on the first request after idling (about ten seconds,
-the page waits for it) and shuts down after ninety idle seconds, to spend the
-free credit slowly.
+the page waits for it) and shuts down after five idle minutes.
 """
 from pathlib import Path
 
@@ -30,7 +29,7 @@ image = (
 app = modal.App("ionweaver")
 
 
-@app.function(image=image, memory=768, scaledown_window=90, timeout=600)
+@app.function(image=image, memory=1024, scaledown_window=300, timeout=600)
 @modal.concurrent(max_inputs=20)
 @modal.asgi_app()
 def web():
