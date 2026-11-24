@@ -2,7 +2,7 @@
 # and for any other container host.
 FROM python:3.11-slim
 
-RUN apt-get update && apt-get install -y --no-install-recommends libxrender1 libxext6 libsm6 \
+RUN apt-get update && apt-get install -y --no-install-recommends libxrender1 libxext6 libsm6 libexpat1 libfreetype6 \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app

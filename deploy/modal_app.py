@@ -18,7 +18,7 @@ REMOTE = "/root/ionweaver"
 
 image = (
     modal.Image.debian_slim(python_version="3.11")
-    .apt_install("libxrender1", "libxext6", "libsm6")
+    .apt_install("libxrender1", "libxext6", "libsm6", "libexpat1", "libfreetype6")
     .pip_install_from_requirements(str(ROOT / "requirements.txt"))
     .add_local_dir(str(ROOT / "engine"), remote_path=f"{REMOTE}/engine")
     .add_local_dir(str(ROOT / "data"), remote_path=f"{REMOTE}/data")
