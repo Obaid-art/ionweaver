@@ -135,6 +135,9 @@ two places and `web/config.js` says where the engine is.
     repository → Runtime *Docker* → Instance type *Free* → Create. The service
     sleeps after 15 minutes without visitors and wakes in under a minute; the
     page waits for it.
+  * **Modal** (free plan, no card): `pip install modal`, `modal token new`,
+    then `modal deploy deploy/modal_app.py` from the repository root; the
+    address it prints goes into `web/config.js`.
   * **Hugging Face Spaces** (Docker SDK, paid plan as of late 2026): set the
     repository variable `HF_SPACE` and the secret `HF_TOKEN`, and the same
     workflow pushes the repository to the Space.
